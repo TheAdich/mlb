@@ -1,0 +1,1259 @@
+PlayerID,Name,First Name,Last Name,Primary Number,BirthDate,Age,City,Country,Height,Weight,Active,Position,Position Abbreviation,Gender,Middle Name,Boxscore Name,Bat Side,Throw Side,Strike Zone Top,Strike Zone Bottom
+605288,Adrian Houser,Adrian,Houser,N/A,1993-02-02,31,Tahlequah,USA,"6' 3""",242,True,Pitcher,P,M,David,Houser,Right,Right,3.45,1.65
+689379,Aidan Anderson,Aidan,Anderson,N/A,1997-06-21,27,Port Arthur,USA,"6' 1""",195,True,Pitcher,P,M,Danas,"Anderson, A",Right,Right,3.411,1.565
+676701,Alan Trejo,Alan,Trejo,N/A,1996-05-30,28,Los Angeles,USA,"6' 2""",205,True,Second Base,2B,M,Ray,Trejo,Right,Right,3.41,1.64
+686830,Avery Weems,Avery,Weems,N/A,1997-06-06,27,Flagstaff,USA,"6' 2""",205,True,Pitcher,P,M,Brian,Weems,Right,Left,3.467,1.589
+670391,Ben Anderson,Ben,Anderson,N/A,1998-05-02,26,Rexford,USA,"6' 4""",200,True,Pitcher,P,M,N/A,"Anderson, B",Right,Right,3.549,1.627
+803015,Ben Hartl,Benjamin,Hartl,N/A,2003-01-07,21,Springfield,USA,"5' 11""",210,True,Catcher,C,M,Joseph,Hartl,Right,Right,3.319,1.513
+688760,Blaine Crim,Linton,Crim,N/A,1997-06-17,27,Mobile,USA,"5' 10""",200,True,First Base,1B,M,Blaine,Crim,Right,Right,3.301,1.504
+701261,Bryan Chi,Bryan,Chi,N/A,1999-03-22,25,N/A,Cuba,"6' 0""",205,True,Pitcher,P,M,Anthony,Chi,Right,Right,3.371,1.535
+675655,Bryce Bonnin,Bryce,Bonnin,N/A,1998-10-11,26,Webster,USA,"6' 2""",190,True,Pitcher,P,M,Reid,Bonnin,Right,Right,3.467,1.589
+676961,Caleb Boushley,Caleb,Boushley,N/A,1993-10-01,31,Hortonville,USA,"6' 3""",190,True,Pitcher,P,M,N/A,Boushley,Right,Right,3.49,1.601
+676051,Codi Heuer,Codi,Heuer,N/A,1996-07-03,28,Missoula,USA,"6' 5""",200,True,Pitcher,P,M,Dalton,Heuer,Right,Right,3.575,1.681
+669413,Frainyer Chavez,Frainyer,Chavez,41,1999-05-24,25,Valencia,Venezuela,"5' 8""",170,True,Second Base,2B,M,Jesus,"Chavez, F",Switch,Right,3.26,1.481
+672629,Gerardo Carrillo,Gerardo,Carrillo,85,1998-09-13,26,Guadalajara,Mexico,"6' 1""",170,True,Pitcher,P,M,N/A,Carrillo,Right,Right,3.411,1.565
+680890,Jax Biggers,Jax,Biggers,92,1997-04-07,27,Missouri City,USA,"5' 9""",175,True,Second Base,2B,M,N/A,Biggers,Left,Right,3.285,1.487
+677049,Josh Hatcher,Joshua,Hatcher,N/A,1998-09-03,26,Albany,USA,"6' 1""",200,True,Outfield,OF,M,Jacob,Hatcher,Left,Left,3.411,1.565
+687005,Kellen Strahm,Kellen,Strahm,80,1997-04-25,27,Eugene,USA,"6' 0""",215,True,Outfielder,RF,M,Robert Manning,Strahm,Right,Right,3.371,1.535
+702920,Konner Piotto,Konner,Piotto,N/A,1998-01-01,27,Mississauga,Canada,"5' 9""",195,True,Catcher,C,M,N/A,Piotto,Left,Right,3.285,1.487
+672635,Luis Mieses,Luis,Mieses,N/A,2000-05-31,24,Santo Domingo,Dominican Republic,"6' 3""",180,True,Outfield,OF,M,Gustavo,Mieses,Left,Left,3.49,1.601
+687526,Marcus Smith,Marcus,Smith,N/A,2000-09-11,24,Kansas City,USA,"5' 11""",185,True,Outfielder,CF,M,Edward,"Smith, M",Left,Left,3.319,1.513
+674681,Michael Plassmeyer,Michael,Plassmeyer,N/A,1996-11-05,28,St. Louis,USA,"6' 2""",197,True,Pitcher,P,M,N/A,Plassmeyer,Left,Left,3.467,1.589
+689242,Nick Krauth,Nicholas,Krauth,N/A,1999-09-06,25,Concord,USA,"6' 3""",170,True,Pitcher,P,M,Alexander,Krauth,Right,Right,3.49,1.601
+676510,Nolan Hoffman,Nolan,Hoffman,N/A,1997-08-09,27,Lincoln,USA,"6' 4""",190,True,Pitcher,P,M,N/A,Hoffman,Right,Right,3.549,1.627
+641907,Patrick Murphy,Patrick,Murphy,N/A,1995-06-10,29,Chandler,USA,"6' 5""",211,True,Pitcher,P,M,Brian,Murphy,Right,Right,3.575,1.681
+679304,Reid Birlingmair,Reid,Birlingmair,N/A,1996-11-13,28,Normal,USA,"5' 10""",210,True,Pitcher,P,M,N/A,Birlingmair,Left,Right,3.301,1.504
+695239,Robby Ahlstrom,Robert,Ahlstrom,60,1999-06-19,25,Placerville,USA,"6' 3""",195,True,Pitcher,P,M,Coolidge,Ahlstrom,Left,Left,3.49,1.601
+674114,Ryan Garcia,Ryan,Garcia,N/A,1998-01-24,26,Arcadia,USA,"6' 0""",180,True,Pitcher,P,M,Miguel,"Garcia, R",Right,Right,3.371,1.535
+675651,Steven Jennings,Steven,Jennings,N/A,1998-11-13,26,Brush Creek,USA,"6' 2""",175,True,Pitcher,P,M,N/A,Jennings,Right,Right,3.467,1.589
+815152,Theo Hardy,Theodore,Hardy,N/A,2001-11-27,23,Berkeley,USA,"6' 1""",185,True,Shortstop,SS,M,Clay,Hardy,Switch,Right,3.411,1.565
+669386,Trevor Hauver,Trevor,Hauver,N/A,1998-11-20,26,Chandler,USA,"6' 0""",205,True,Second Base,2B,M,James,Hauver,Left,Right,3.371,1.535
+571466,Tucker Barnhart,Tucker,Barnhart,16,1991-01-07,33,Indianapolis,USA,"5' 11""",192,True,Catcher,C,M,J.,Barnhart,Left,Right,3.17,1.5
+808489,Adan Moreno,Adan,Moreno,N/A,2004-09-08,20,Victoria de Durango,Mexico,"6' 1""",185,True,Pitcher,P,M,De Jesus,"Moreno, A",Right,Right,3.411,1.565
+684126,Alejandro Lugo,Alejandro,Lugo,N/A,2002-08-20,22,Maracay,Venezuela,"6' 0""",165,True,Pitcher,P,M,David,"Lugo, A",Right,Right,3.371,1.535
+815325,B.Y. Choi,Byungyong,Choi,N/A,2002-04-30,22,Seoul,Republic of Korea,"6' 3""",203,True,Shortstop,SS,M,N/A,Choi,Left,Right,3.49,1.601
+811594,Bernard Jose,Bernard,Jose,N/A,2003-03-03,21,Santo Domingo,Dominican Republic,"5' 11""",160,True,Pitcher,P,M,Jaciel,Jose,Right,Right,3.319,1.513
+701682,Braedon Karpathios,Braedon,Karpathios,N/A,2003-06-19,21,Willow Street,USA,"6' 1""",186,True,Outfield,OF,M,John,Karpathios,Left,Left,3.411,1.565
+800317,Braian Salazar,Braian,Salazar,N/A,2005-06-12,19,Barcelona,Venezuela,"6' 2""",165,True,Pitcher,P,M,Alejandro,Salazar,Left,Left,3.467,1.589
+822578,Brandon Butterworth,Brandon,Butterworth,N/A,2002-08-29,22,Charlotte,USA,"5' 11""",168,True,Shortstop,SS,M,N/A,Butterworth,Right,Right,3.319,1.513
+826545,Brendan Durfee,Brendan,Durfee,N/A,2001-07-31,23,Pasadena,USA,"6' 3""",221,True,Catcher,C,M,Thomas,Durfee,Left,Right,3.49,1.601
+691000,Carson Montgomery,Carson,Montgomery,N/A,2002-08-13,22,Windermere,USA,"6' 3""",215,True,Pitcher,P,M,Luke,Montgomery,Right,Right,3.49,1.601
+701106,Chase Valentine,Chase,Valentine,N/A,2002-04-22,22,Denver,USA,"5' 11""",160,True,Shortstop,SS,M,William,Valentine,Right,Right,3.319,1.513
+694294,Colton Vincent,Colton,Vincent,N/A,2000-01-25,24,Palmetto,USA,"5' 11""",187,True,Catcher,C,M,Wayne,Vincent,Right,Right,3.319,1.513
+701617,Ian Koenig,Ian,Koenig,N/A,2001-04-09,23,San Jose,USA,"6' 2""",225,True,Pitcher,P,M,Gregory,Koenig,Left,Right,3.467,1.589
+694320,Jack Costello,Jack,Costello,N/A,2001-05-17,23,Thousand Oaks,USA,"6' 1""",205,True,Third Base,3B,M,Patrick,Costello,Right,Right,3.411,1.565
+700274,Javier Chacon,Javier,Chacon,N/A,2002-12-24,22,Havana,Cuba,"5' 11""",190,True,Pitcher,P,M,Martin,Chacon,Left,Left,3.319,1.513
+808052,Johan Moreno,Johan,Moreno,N/A,2003-03-26,21,Coro,Venezuela,"6' 1""",180,True,Pitcher,P,M,Carlos,"Moreno, J",Right,Right,3.411,1.565
+700326,Jonney Rosario,Jonney,Rosario,N/A,2004-07-28,20,Maracaibo,Venezuela,"5' 10""",185,True,Pitcher,P,M,De Jesus,"Rosario, J",Right,Right,3.301,1.504
+695256,Josh Mallitz,Joshua,Mallitz,N/A,2001-10-20,23,Boca Raton,USA,"6' 3""",210,True,Pitcher,P,M,David,Mallitz,Right,Right,3.49,1.601
+805956,Kai Roberts,Kai,Roberts,N/A,2001-03-15,23,Orem,USA,"6' 5""",205,True,Outfield,OF,M,Jackson,Roberts,Left,Right,3.575,1.681
+811598,Kleiber Olmedo,Kleiber,Olmedo,N/A,2004-08-23,20,La Guaira,Venezuela,"6' 1""",155,True,Pitcher,P,M,Antonio,Olmedo,Right,Right,3.411,1.565
+702601,Lamar King Jr.,Lamar,King,25,2003-12-07,21,Vancouver,Canada,"6' 3""",215,True,Catcher,C,M,N/A,King Jr.,Right,Right,3.49,1.601
+815888,Leodalis De Vries,Leodalis,De Vries,N/A,2006-10-11,18,Azua,Dominican Republic,"6' 0""",183,True,Shortstop,SS,M,N/A,De Vries,Switch,Right,3.371,1.535
+702445,Luis German,Luis,German,N/A,2001-10-14,23,Sabana Grande de Palenque,Dominican Republic,"6' 2""",160,True,Pitcher,P,M,Fernando,German,Right,Right,3.467,1.589
+692294,Luis Gutierrez,Luis,Gutierrez,N/A,2003-07-31,21,Cabimas,Venezuela,"6' 0""",175,True,Pitcher,P,M,Alejandro,Gutierrez,Left,Left,3.371,1.535
+808063,Maikel Miralles,Maikel,Miralles,N/A,2004-10-22,20,Maracay,Venezuela,"5' 11""",160,True,Pitcher,P,M,Daniel,Miralles,Right,Right,3.319,1.513
+439475,Matt Lachappa,Matthew,Lachappa,N/A,1975-06-29,49,San Diego,USA,"6' 1""",170,False,Pitcher,P,M,J,Lachappa,Left,Left,3.411,1.565
+700280,Miguel Mendez,Miguel,Mendez,N/A,2002-07-01,22,San Juan De La Maguana,Dominican Republic,"6' 2""",165,True,Pitcher,P,M,Jose,Mendez,Right,Right,3.467,1.589
+808895,Miguel Valdez,Miguel,Valdez,N/A,2003-08-01,21,Palenque,Dominican Republic,"6' 0""",170,True,Infield,IF,M,Eduardo,"Valdez, Mi",Right,Right,3.371,1.535
+692021,Oswaldo Linares,Oswaldo,Linares,N/A,2003-04-28,21,Cagua,Venezuela,"5' 11""",150,True,Catcher,C,M,Javier,Linares,Right,Right,3.319,1.513
+810838,Ryan Jackson,Ryan,Jackson,N/A,2001-11-27,23,Walnut Creek,USA,"5' 10""",180,True,Shortstop,SS,M,George,Jackson,Right,Right,3.301,1.504
+801698,Ryan Wilson,Ryan,Wilson,N/A,2002-01-12,22,Durham,USA,"6' 1""",195,True,Outfield,OF,M,N/A,Wilson,Right,Right,3.411,1.565
+826141,Sean Barnett,Sean,Barnett,N/A,2003-06-22,21,St. Louis,USA,"6' 2""",200,True,Two-Way Player,TWP,M,Michael,Barnett,Right,Right,3.467,1.589
+814491,Tucker Musgrove,Tucker,Musgrove,N/A,2002-02-01,22,Chunchula,USA,"6' 3""",175,True,Two-Way Player,TWP,M,Noah,Musgrove,Right,Right,3.49,1.601
+695695,Tyson Neighbors,Tyson,Neighbors,N/A,2002-10-09,22,Sulphur Springs,USA,"6' 2""",220,True,Pitcher,P,M,N/A,Neighbors,Right,Right,3.467,1.589
+683609,Victor Duarte,Victor,Duarte,N/A,2001-02-23,23,Tucupita,Venezuela,"5' 11""",170,True,Second Base,2B,M,Andres,Duarte,Right,Right,3.319,1.513
+800226,Xavier Ruiz,Xavier,Ruiz,N/A,2002-11-19,22,San Cristobal,Dominican Republic,"6' 1""",180,True,Pitcher,P,M,N/A,Ruiz,Right,Right,3.411,1.565
+678219,Yerry Landinez,Yerry,Landinez,N/A,2001-01-20,23,San Felipe,Venezuela,"6' 1""",170,True,Pitcher,P,M,Dionaiker,Landinez,Switch,Right,3.411,1.565
+808001,Yovannki Pascual,Yovannki,Pascual,N/A,2002-08-04,22,Santo Domingo,Dominican Republic,"5' 11""",185,True,Pitcher,P,M,Euclides,Pascual,Left,Left,3.319,1.513
+814700,Zac Addkison,Zachary,Addkison,N/A,2002-06-24,22,Grapevine,USA,"6' 4""",225,True,Pitcher,P,M,Michael Allen,Addkison,Right,Right,3.549,1.627
+805243,Zack Qin,Zimo,Qin,N/A,2005-07-03,19,Nanjing,China,"6' 1""",198,True,Pitcher,P,M,N/A,Qin,Left,Left,3.411,1.565
+682607,Antonio Jimenez,Antonio,Jimenez,N/A,2001-05-06,23,San Pedro de Macoris,Dominican Republic,"5' 11""",145,True,Pitcher,P,M,N/A,"Jimenez, A",Left,Left,3.319,1.513
+682266,Brett Auerbach,Brett,Auerbach,89,1998-08-27,26,Mission Viejo,USA,"5' 8""",185,True,Catcher,C,M,Wesley,Auerbach,Right,Right,3.26,1.481
+805811,Bryce Eldridge,Bryson,Eldridge,N/A,2004-10-20,20,Fairfax,USA,"6' 7""",223,True,Outfield,OF,M,Edward,Eldridge,Left,Right,3.756,1.746
+702448,C.J. Widger,Christopher,Widger,N/A,1999-05-25,25,Pennsville,USA,"6' 6""",170,True,Pitcher,P,M,Jon,Widger,Left,Left,3.656,1.677
+687931,Carson Whisenhunt,Carson,Whisenhunt,N/A,2000-10-20,24,Winston-Salem,USA,"6' 3""",209,True,Pitcher,P,M,Lee,Whisenhunt,Left,Left,3.49,1.601
+686819,Chris Wright,Christopher,Wright,N/A,1998-10-14,26,Providence,USA,"6' 1""",205,True,Pitcher,P,M,Matthew,"Wright, C",Left,Left,3.411,1.565
+683766,Christian Koss,Christian,Koss,N/A,1998-01-27,26,Riverside,USA,"6' 1""",182,True,Shortstop,SS,M,N/A,Koss,Right,Right,3.411,1.565
+686972,Cole Waites,Cole,Waites,N/A,1998-06-10,26,Lawrenceville,USA,"6' 3""",180,True,Pitcher,P,M,Robert,Waites,Right,Right,3.49,1.601
+683593,Dariel Lopez,Dariel,Lopez,N/A,2002-02-07,22,Puerto Plata,Dominican Republic,"6' 1""",183,True,Shortstop,SS,M,N/A,Lopez,Right,Right,3.411,1.565
+663629,Ethan Small,Ethan,Small,N/A,1997-02-14,27,Jackson,USA,"6' 2""",200,True,Pitcher,P,M,Robert,Small,Left,Left,3.467,1.589
+688753,Evan Gates,Evan,Gates,N/A,1998-01-13,26,Roseville,USA,"6' 0""",210,True,Pitcher,P,M,Micheal,Gates,Right,Right,3.371,1.535
+666183,Hunter Bishop,Hunter,Bishop,93,1998-06-25,26,San Carlos,USA,"6' 3""",210,True,Outfield,OF,M,David,Bishop,Left,Right,3.49,1.601
+666711,Joel Peguero,Joel,Peguero,N/A,1997-05-05,27,Santo Domingo,Dominican Republic,"5' 11""",160,True,Pitcher,P,M,Alberto,Peguero,Right,Right,3.319,1.513
+802609,John Michael Bertrand,John Michael,Bertrand,N/A,1998-02-08,26,Raleigh,USA,"6' 3""",205,True,Pitcher,P,M,N/A,Bertrand,Right,Left,3.49,1.601
+675195,Juan Mercedes,Juan,Mercedes,N/A,2000-04-03,24,Villa Tapia,Dominican Republic,"6' 2""",190,True,Pitcher,P,M,Enrique,"Mercedes, J",Right,Right,3.467,1.589
+678738,Juan Sanchez,Juan,Sanchez,N/A,2000-11-12,24,Valencia,Venezuela,"5' 9""",165,True,Pitcher,P,M,Jose,Sanchez,Left,Left,3.285,1.487
+621057,Justin Garza,Justin,Garza,79,1994-03-20,30,Glendora,USA,"5' 10""",170,True,Pitcher,P,M,Charles,Garza,Right,Right,3.301,1.504
+678906,Kai-Wei Teng,Kai-Wei,Teng,N/A,1998-12-01,26,Taichung,Taiwan,"6' 4""",260,True,Pitcher,P,M,N/A,Teng,Right,Right,3.549,1.627
+682515,Logan Porter,Logan,Porter,N/A,1995-07-12,29,Phoenix,USA,"5' 11""",200,True,Catcher,C,M,N/A,Porter,Right,Right,3.19,1.47
+545358,Max Stassi,Max,Stassi,33,1991-03-15,33,Woodland,USA,"5' 10""",210,True,Catcher,C,M,Robert,Stassi,Right,Right,3.53,1.71
+681924,R.J. Dabovich,Roderick,Dabovich,N/A,1999-01-11,25,Pueblo,USA,"6' 3""",208,True,Pitcher,P,M,John,Dabovich,Right,Right,3.49,1.601
+670103,Raymond Burgos,Raymond,Burgos,N/A,1998-11-29,26,Luquillo,Puerto Rico,"6' 5""",170,True,Pitcher,P,M,N/A,"Burgos, R",Left,Left,3.575,1.681
+686846,Reggie Crawford,Reginald,Crawford,N/A,2000-12-04,24,Lansdale,USA,"6' 4""",235,True,First Base,1B,M,David,Crawford,Left,Left,3.549,1.627
+670245,Ryan Watson,Ryan,Watson,N/A,1997-11-15,27,Auburn,USA,"6' 5""",225,True,Pitcher,P,M,Traylor,"Watson, R",Right,Right,3.575,1.681
+677614,Sadrac Franco,Sadrac,Franco,N/A,2000-06-04,24,David,Panama,"6' 0""",155,True,Pitcher,P,M,Daniel,"Franco, S",Right,Right,3.371,1.535
+642727,Sergio Alcántara,Sergio,Alcántara,N/A,1996-07-10,28,Santo Domingo Este,Dominican Republic,"5' 10""",151,True,Shortstop,SS,M,Junior,"Alcántara, S",Switch,Right,3.32,1.65
+681084,Tanner Andrews,Tanner,Andrews,90,1995-11-15,29,Rochester,USA,"6' 3""",220,True,Pitcher,P,M,Logan,Andrews,Right,Right,3.49,1.601
+686924,Tyler Myrick,Tyler,Myrick,N/A,1998-06-25,26,Gainesville,USA,"6' 0""",205,True,Pitcher,P,M,Avery Lee,Myrick,Right,Right,3.371,1.535
+666123,Austin Bergner,Austin,Bergner,N/A,1997-05-01,27,Boca Raton,USA,"6' 5""",210,True,Pitcher,P,M,Stone,Bergner,Right,Right,3.575,1.681
+689456,Austin Murr,Austin,Murr,N/A,1999-01-26,25,St. Paul,USA,"6' 1""",218,True,Outfield,OF,M,Michael,Murr,Left,Left,3.411,1.565
+701162,Ben Malgeri,Benjamin,Malgeri,N/A,2000-01-12,24,Exeter,USA,"6' 1""",215,True,Outfield,OF,M,Joseph,Malgeri,Right,Right,3.411,1.565
+663971,Blair Calvo,Blair,Calvo,85,1996-02-27,28,Jacksonville,USA,"6' 3""",195,True,Pitcher,P,M,Matthew,Calvo,Right,Right,3.49,1.601
+680918,Brady Allen,Brady,Allen,85,1999-09-03,25,Lakeland,USA,"6' 0""",218,True,Outfield,OF,M,N/A,"Allen, B",Right,Left,3.371,1.535
+687001,Bryce Tassin,Bryce,Tassin,N/A,1997-01-11,27,Hammond,USA,"6' 2""",209,True,Pitcher,P,M,Joseph,Tassin,Right,Right,3.467,1.589
+694291,CJ Weins,Craig,Weins,N/A,2000-08-15,24,Joliet,USA,"6' 3""",223,True,Pitcher,P,M,Allen,Weins,Right,Right,3.49,1.601
+685332,Carlos Mendoza,Carlos,Mendoza,N/A,1999-12-14,25,Miami,USA,"5' 7""",165,True,Second Base,2B,M,Eduardo,"Mendoza, C",Left,Right,3.179,1.474
+685329,Carlos Pena,Carlos,Pena,N/A,1998-09-07,26,Santiago,Dominican Republic,"5' 11""",160,True,Pitcher,P,M,Manuel,"Pena, C",Left,Left,3.319,1.513
+680273,Chris Meyers,Christopher,Meyers,N/A,1999-04-27,25,Miamisburg,USA,"6' 3""",210,True,First Base,1B,M,Michael,Meyers,Left,Right,3.49,1.601
+687144,Corey Joyce,Corey,Joyce,95,1998-08-19,26,Lexington,USA,"6' 0""",190,True,Shortstop,SS,M,Austin,Joyce,Right,Right,3.371,1.535
+681400,Danny Serretti,Daniel,Serretti,N/A,2000-05-07,24,Livingston,USA,"6' 0""",195,True,Shortstop,SS,M,Phillip,Serretti,Switch,Right,3.411,1.565
+672613,Eliezer Alfonzo,Eliezer,Alfonzo,N/A,1999-09-23,25,Barcelona,Venezuela,"5' 10""",155,True,Catcher,C,M,Vicente,Alfonzo,Switch,Right,3.301,1.504
+696150,Eric Silva,Eric,Silva,N/A,2002-10-03,22,Baldwin Park,USA,"6' 1""",185,True,Pitcher,P,M,Anthony,Silva,Right,Right,3.411,1.565
+696148,Garrett Burhenn,Garrett,Burhenn,N/A,1999-09-12,25,Indianapolis,USA,"6' 3""",215,True,Pitcher,P,M,Sommer,Burhenn,Right,Right,3.49,1.601
+701678,Hao-Yu  Lee,Hao-Yu ,Lee,96,2003-02-03,21,New Taipei,Taiwan,"5' 10""",190,True,Second Base,2B,M,N/A,Lee,Right,Right,3.301,1.504
+687724,Jake Holton,Jake,Holton,98,1998-03-02,26,San Jose,USA,"6' 0""",210,True,First Base,1B,M,Warner,"Holton, J",Right,Right,3.371,1.535
+805725,Jake Miller,Jake,Miller,N/A,2001-06-27,23,Suffern,USA,"6' 2""",185,True,Pitcher,P,M,Michael,"Miller, Ja",Left,Left,3.467,1.589
+676910,Matt Seelinger,Matthew,Seelinger,76,1995-04-19,29,Westbury,USA,"6' 3""",190,True,Pitcher,P,M,Thomas,Seelinger,Right,Right,3.49,1.601
+801194,Max Anderson,Maxwell,Anderson,N/A,2002-02-28,22,Kansas City,USA,"6' 0""",215,True,Second Base,2B,M,Edward,Anderson,Right,Right,3.371,1.535
+669624,Michael Bienlien,Michael,Bienlien,N/A,1998-03-19,26,Honolulu,USA,"6' 3""",246,True,Pitcher,P,M,James,Bienlien,Right,Right,3.49,1.601
+681931,Nick Starr,Nick,Starr,N/A,1996-12-03,28,Memphis,USA,"6' 3""",225,True,Pitcher,P,M,N/A,Starr,Right,Right,3.49,1.601
+815268,Patrick Lee,Patrick,Lee,N/A,1999-10-19,25,Pascagoula,USA,"5' 10""",180,True,Second Base,2B,M,N/A,"Lee, P",Right,Right,3.301,1.504
+689931,Peyton Graham,Peyton,Graham,N/A,2001-01-26,23,Waxahachie,USA,"6' 3""",185,True,Shortstop,SS,M,N/A,Graham,Right,Right,3.49,1.601
+696275,RJ Petit,Robert,Petit,N/A,1999-09-23,25,Rock Hill,USA,"6' 8""",300,True,Pitcher,P,M,George,Petit,Right,Right,3.688,1.747
+686759,TJ Hopkins,Mark,Hopkins,81,1997-01-16,27,Summerville,USA,"6' 1""",195,True,Outfielder,CF,M,Timothy,Hopkins,Right,Right,3.4,1.57
+669360,Trei Cruz,Trei,Cruz,N/A,1998-07-05,26,Toronto,Canada,"6' 1""",204,True,Shortstop,SS,M,Jose,Cruz,Switch,Right,3.411,1.565
+800723,Trevin Michael,Trevin,Michael,N/A,1997-09-15,27,Oklahoma City,USA,"6' 2""",200,True,Pitcher,P,M,Christopher,Michael,Right,Right,3.467,1.589
+675512,Troy Melton,Troy,Melton,N/A,2000-12-03,24,Newport Beach,USA,"6' 4""",210,True,Pitcher,P,M,Edward,Melton,Right,Right,3.549,1.627
+543685,Anthony Rendon,Anthony,Rendon,6,1990-06-06,34,Houston,USA,"6' 1""",200,True,Third Base,3B,M,Michael,Rendon,Right,Right,3.38,1.62
+690829,Ben Joyce,Benjamin,Joyce,44,2000-09-17,24,Knoxville,USA,"6' 5""",225,True,Pitcher,P,M,Alan,Joyce,Right,Right,3.575,1.681
+656271,Brock Burke,Brock,Burke,46,1996-08-04,28,Chicago,USA,"6' 4""",210,True,Pitcher,P,M,Christopher,"Burke, B",Left,Left,3.549,1.627
+702674,Caden Dana,Caden,Dana,36,2003-12-17,21,Warwick,USA,"6' 4""",215,True,Pitcher,P,M,Lawrence,Dana,Left,Right,3.549,1.627
+681217,Chase Silseth,Chase,Silseth,63,2000-05-18,24,Farmington,USA,"6' 0""",217,True,Pitcher,P,M,Robert,Silseth,Right,Right,3.371,1.535
+642020,Chuckie Robinson,Charles,Robinson,N/A,1994-12-14,30,Danville,USA,"5' 11""",215,True,Catcher,C,M,N/A,"Robinson, C",Right,Right,3.44,1.67
+680729,Garrett McDaniels,Garrett,McDaniels,N/A,1999-12-15,25,Marion,USA,"6' 2""",180,True,Pitcher,P,M,Nicholas,McDaniels,Left,Left,3.467,1.589
+672569,Gustavo Campero,Gustavo,Campero,51,1997-09-20,27,Lorica,Colombia,"5' 6""",183,True,Outfielder,RF,M,Angel,Campero,Switch,Right,3.06,1.49
+668968,Hans Crouse,Hans,Crouse,52,1998-09-15,26,Dana Point,USA,"6' 4""",180,True,Pitcher,P,M,Michael,Crouse,Left,Right,3.549,1.627
+669081,Jack Dashwood,Jack,Dashwood,N/A,1997-11-17,27,San Diego,USA,"6' 6""",240,True,Pitcher,P,M,Corey,Dashwood,Left,Left,3.656,1.677
+686799,Jack Kochanowicz,Jack,Kochanowicz,64,2000-12-22,24,Philadelphia,USA,"6' 7""",228,True,Pitcher,P,M,Von,Kochanowicz,Left,Right,3.756,1.746
+666176,Jo Adell,Jordon,Adell,7,1999-04-08,25,Shelby,USA,"6' 3""",215,True,Outfielder,RF,M,Scott,Adell,Right,Right,3.56,1.69
+624585,Jorge Soler,Jorge,Soler,N/A,1992-02-25,32,Havana,Cuba,"6' 4""",235,True,Outfielder,RF,M,Carlos,Soler,Right,Right,3.56,1.72
+650671,José Quijada,José,Quijada,65,1995-11-09,29,Caripito,Venezuela,"5' 11""",215,True,Pitcher,P,M,Gregorio,Quijada,Left,Left,3.319,1.513
+667755,José Soriano,José,Soriano,59,1998-10-20,26,Santo Domingo,Dominican Republic,"6' 3""",220,True,Pitcher,P,M,Joaquin,"Soriano, J",Right,Right,3.49,1.601
+660761,José Suarez,José,Suarez,54,1998-01-03,27,Naguanagua,Venezuela,"5' 10""",225,True,Pitcher,P,M,Rances,"Suarez, J",Left,Left,3.301,1.504
+680983,Kelvin Caceres,Kelvin,Caceres,71,2000-01-26,24,Santiago,Dominican Republic,"6' 1""",205,True,Pitcher,P,M,Jose,Caceres,Right,Right,3.411,1.565
+621028,Kevin Newman,Kevin,Newman,10,1993-08-04,31,Poway,USA,"6' 1""",195,True,Shortstop,SS,M,Bradley,Newman,Right,Right,3.14,1.5
+543294,Kyle Hendricks,Kyle,Hendricks,28,1989-12-07,35,Newport Beach,USA,"6' 3""",190,True,Pitcher,P,M,Christian,Hendricks,Right,Right,3.24,1.5
+677347,Kyren Paris,Kyren,Paris,19,2001-11-11,23,Oakley,USA,"6' 0""",180,True,Second Base,2B,M,Terrell,Paris,Right,Right,3.55,1.7
+681351,Logan O'Hoppe,Logan,O'Hoppe,14,2000-02-09,24,West Islip,USA,"6' 2""",185,True,Catcher,C,M,N/A,O'Hoppe,Right,Right,3.23,1.55
+650859,Luis Rengifo,Luis,Rengifo,2,1997-02-26,27,Naguanagua,Venezuela,"5' 10""",195,True,Third Base,3B,M,Jose,Rengifo,Switch,Right,3.16,1.44
+683090,Matthew Lugo,Matthew,Lugo,N/A,2001-05-09,23,Manati,Puerto Rico,"6' 1""",190,True,Outfielder,LF,M,Jabel,Lugo,Right,Right,3.411,1.565
+666160,Mickey Moniak,McKenzie,Moniak,8,1998-05-13,26,Encinitas,USA,"6' 2""",195,True,Outfielder,CF,M,Matthew,Moniak,Left,Right,3.35,1.57
+545361,Mike Trout,Michael,Trout,27,1991-08-07,33,Vineland,USA,"6' 2""",235,True,Outfielder,CF,M,Nelson,Trout,Right,Right,3.49,1.6
+694359,Niko Kavadas,Nikolos,Kavadas,28,1998-10-27,26,South Bend,USA,"6' 1""",235,True,First Base,1B,M,Siade,Kavadas,Left,Right,3.26,1.62
+694384,Nolan Schanuel,Nolan,Schanuel,18,2002-02-14,22,Boca Raton,USA,"6' 4""",220,True,First Base,1B,M,Ryan,Schanuel,Left,Right,3.52,1.72
+672282,Reid Detmers,Reid,Detmers,48,1999-07-08,25,Nokomis,USA,"6' 2""",210,True,Pitcher,P,M,Kristien,Detmers,Left,Left,3.467,1.589
+596112,Robert Stephenson,Robert,Stephenson,24,1993-02-24,31,Martinez,USA,"6' 3""",205,True,Pitcher,P,M,William,"Stephenson, R",Right,Right,3.49,1.601
+676116,Ryan Noda,Ryan,Noda,N/A,1996-03-30,28,Volo,USA,"6' 1""",217,True,First Base,1B,M,Anthony,Noda,Left,Left,3.34,1.58
+666171,Ryan Zeferjahn,Ryan,Zeferjahn,56,1998-02-28,26,Topeka,USA,"6' 5""",209,True,Pitcher,P,M,Joseph,Zeferjahn,Right,Right,3.575,1.681
+691951,Sam Aldegheri,Samuel,Aldegheri,66,2001-09-19,23,Verona,Italy,"6' 1""",180,True,Pitcher,P,M,N/A,Aldegheri,Left,Left,3.411,1.565
+696147,Sam Bachman,Samuel,Bachman,40,1999-09-30,25,Indianapolis,USA,"6' 1""",235,True,Pitcher,P,M,Duane,Bachman,Right,Right,3.411,1.565
+664068,Scott Kingery,Scott,Kingery,N/A,1994-04-29,30,Phoenix,USA,"5' 9""",180,True,Shortstop,SS,M,M.,Kingery,Right,Right,3.38,1.53
+621493,Taylor Ward,Joseph,Ward,3,1993-12-14,31,Dayton,USA,"6' 1""",200,True,Outfielder,LF,M,Taylor,Ward,Right,Right,3.38,1.63
+518595,Travis d'Arnaud,Travis,d'Arnaud,25,1989-02-10,35,Long Beach,USA,"6' 2""",210,True,Catcher,C,M,E.,d'Arnaud,Right,Right,3.44,1.54
+542881,Tyler Anderson,Tyler,Anderson,31,1989-12-30,35,Las Vegas,USA,"6' 2""",220,True,Pitcher,P,M,John,"Anderson, T",Left,Left,3.56,1.68
+682989,Victor Mederos,Victor,Mederos,62,2001-06-08,23,Santa Clara,Cuba,"6' 2""",227,True,Pitcher,P,M,N/A,Mederos,Right,Right,3.467,1.589
+579328,Yusei Kikuchi,Yusei,Kikuchi,16,1991-06-17,33,Morioka,Japan,"6' 0""",210,True,Pitcher,P,M,N/A,Kikuchi,Left,Left,3.371,1.535
+687263,Zach Neto,Zachary,Neto,9,2001-01-31,23,Miami,USA,"6' 0""",185,True,Shortstop,SS,M,Adam,Neto,Right,Right,3.2,1.49
+640462,A.J. Puk,Andrew,Puk,33,1995-04-25,29,Minneapolis,USA,"6' 7""",248,True,Pitcher,P,M,Jacob,Puk,Left,Left,3.756,1.746
+680728,Adrian Del Castillo,Adrian,Del Castillo,25,1999-09-27,25,Miami,USA,"5' 10""",208,True,Catcher,C,M,Jose,Del Castillo,Left,Right,3.41,1.66
+677950,Alek Thomas,Alek,Thomas,5,2000-04-28,24,Chicago,USA,"5' 11""",175,True,Outfielder,CF,M,N/A,"Thomas, A",Left,Left,3.28,1.48
+686796,Blake Walston,Matthew,Walston,48,2001-06-28,23,Wilmington,USA,"6' 5""",175,True,Pitcher,P,M,Blake,Walston,Left,Left,3.575,1.681
+677942,Blaze Alexander,Blaze,Alexander,9,1999-06-11,25,Cape Coral,USA,"5' 11""",160,True,Shortstop,SS,M,Chanee,Alexander,Right,Right,3.2,1.53
+694297,Brandon Pfaadt,Brandon,Pfaadt,32,1998-10-15,26,Louisville,USA,"6' 4""",220,True,Pitcher,P,M,Connor,Pfaadt,Right,Right,3.549,1.627
+686826,Bryce Jarvis,Bryce,Jarvis,40,1997-12-26,27,Lexington,USA,"6' 2""",195,True,Pitcher,P,M,Martin,Jarvis,Left,Right,3.467,1.589
+669203,Corbin Burnes,Corbin,Burnes,39,1994-10-22,30,Bakersfield,USA,"6' 3""",245,True,Pitcher,P,M,Brian,Burnes,Right,Right,3.49,1.66
+682998,Corbin Carroll,Corbin,Carroll,7,2000-08-21,24,Seattle,USA,"5' 10""",165,True,Outfielder,CF,M,Franklin,Carroll,Left,Left,3.11,1.49
+691441,Cristian Mena,Cristian,Mena,64,2002-12-21,22,San Francisco de Macoris,Dominican Republic,"6' 2""",170,True,Pitcher,P,M,Jose,Mena,Right,Right,3.467,1.589
+686753,Drey Jameson,Drey,Jameson,99,1997-08-17,27,Greenfield,USA,"6' 0""",165,True,Pitcher,P,M,Matthew,Jameson,Right,Right,3.371,1.535
+593958,Eduardo Rodriguez,Eduardo,Rodriguez,57,1993-04-07,31,Valencia,Venezuela,"6' 2""",231,True,Pitcher,P,M,Jose,"Rodriguez, Ed",Left,Left,3.467,1.589
+553993,Eugenio Suárez,Eugenio,Suárez,28,1991-07-18,33,Puerto Ordaz,Venezuela,"5' 11""",213,True,Third Base,3B,M,Alejandro,"Suárez, E",Right,Right,3.45,1.58
+672515,Gabriel Moreno,Gabriel,Moreno,14,2000-02-14,24,Barquisimeto,Venezuela,"5' 11""",195,True,Catcher,C,M,Jose,Moreno,Right,Right,3.38,1.55
+672695,Geraldo Perdomo,Geraldo,Perdomo,2,1999-10-22,25,Santo Domingo,Dominican Republic,"6' 2""",203,True,Shortstop,SS,M,Rafael,Perdomo,Switch,Right,3.5,1.65
+664983,Jake McCarthy,Jacob,McCarthy,31,1997-07-30,27,Scranton,USA,"6' 2""",215,True,Outfielder,CF,M,Joseph,McCarthy,Left,Left,3.42,1.62
+692544,Joe Elbis,Joe,Elbis,N/A,2002-09-24,22,Caracas,Venezuela,"6' 1""",150,True,Pitcher,P,M,Leandro,Elbis,Right,Right,3.411,1.565
+573009,Joe Mantiply,Joseph,Mantiply,35,1991-03-01,33,Danville,USA,"6' 4""",219,True,Pitcher,P,M,Newman,Mantiply,Right,Left,3.549,1.627
+691783,Jordan Lawlar,Jordan,Lawlar,10,2002-07-17,22,Carrollton,USA,"6' 1""",190,True,Shortstop,SS,M,Jeffrey-Joseph,Lawlar,Right,Right,3.44,1.59
+656756,Jordan Montgomery,Jordan,Montgomery,52,1992-12-27,32,Sumter,USA,"6' 6""",228,True,Pitcher,P,M,Blackmon,"Montgomery, J",Left,Left,3.656,1.677
+678489,Jorge Barrosa,Jorge,Barrosa,1,2001-02-17,23,Puerto Cabello,Venezuela,"5' 6""",165,True,Outfielder,LF,M,Luis,Barrosa,Switch,Left,3.104,1.448
+645444,Jose Herrera,Jose,Herrera,11,1997-02-24,27,San Carlos,Venezuela,"5' 9""",217,True,Catcher,C,M,Gregorio,"Herrera, J",Switch,Right,3.07,1.36
+647304,Josh Naylor,Joshua-Douglas,Naylor,22,1997-06-22,27,Mississauga,Canada,"5' 11""",250,True,First Base,1B,M,James,"Naylor, J",Left,Left,3.04,1.46
+679885,Justin Martinez,Justin,Martinez,63,2001-07-30,23,Bonao,Dominican Republic,"6' 3""",180,True,Pitcher,P,M,N/A,"Martinez, Ju",Right,Right,3.49,1.601
+606466,Ketel Marte,Ketel,Marte,4,1993-10-12,31,Nizao,Dominican Republic,"6' 1""",210,True,Second Base,2B,M,Ricardo,"Marte, K",Switch,Right,3.59,1.72
+656464,Kevin Ginkel,Kevin,Ginkel,37,1994-03-24,30,San Diego,USA,"6' 4""",235,True,Pitcher,P,M,Andrew,Ginkel,Left,Right,3.549,1.627
+669459,Kyle Nelson,Kyle,Nelson,24,1996-07-08,28,San Francisco,USA,"6' 1""",175,True,Pitcher,P,M,B.,"Nelson, K",Left,Left,3.411,1.565
+666971,Lourdes Gurriel Jr.,Lourdes,Gurriel,12,1993-10-10,31,Sancti Spiritus,Cuba,"6' 4""",215,True,Outfielder,LF,M,Yunielki,Gurriel Jr.,Right,Right,3.7,1.73
+518876,Merrill Kelly,Kenneth,Kelly,29,1988-10-14,36,Houston,USA,"6' 2""",202,True,Pitcher,P,M,Merrill,"Kelly, M",Right,Right,3.41,1.55
+656976,Pavin Smith,Pavin,Smith,26,1996-02-06,28,Jupiter,USA,"6' 2""",208,True,Outfielder,LF,M,Joe,"Smith, P",Left,Left,3.43,1.58
+657044,Ryan Thompson,Ryan,Thompson,81,1992-06-26,32,Turner,USA,"6' 5""",210,True,Pitcher,P,M,Scott,"Thompson, R",Right,Right,3.575,1.681
+669194,Ryne Nelson,Ryne,Nelson,19,1998-02-01,26,Henderson,USA,"6' 3""",184,True,Pitcher,P,M,Tanner,"Nelson, R",Right,Right,3.49,1.601
+661527,Seth Martinez,Seth,Martinez,N/A,1994-08-29,30,Peoria,USA,"6' 2""",193,True,Pitcher,P,M,Antonio,"Martinez, S",Right,Right,3.467,1.589
+694374,Tim Tawa,Timothy,Tawa,N/A,1999-04-07,25,West Linn,USA,"6' 0""",196,True,Second Base,2B,M,John,Tawa,Right,Right,3.371,1.535
+674072,Tommy Henry,Thomas,Henry,47,1997-07-29,27,Portage,USA,"6' 3""",205,True,Pitcher,P,M,Jack,Henry,Left,Left,3.49,1.601
+700270,Yilber Diaz,Yilber,Diaz,45,2000-08-19,24,Guatire,Venezuela,"6' 0""",190,True,Pitcher,P,M,Daniel,"Diaz, Yi",Right,Right,3.371,1.535
+668678,Zac Gallen,Zachary,Gallen,23,1995-08-03,29,Somerdale,USA,"6' 2""",189,True,Pitcher,P,M,Peter,Gallen,Right,Right,3.41,1.53
+668939,Adley Rutschman,Adley,Rutschman,35,1998-02-06,26,Portland,USA,"6' 2""",230,True,Catcher,C,M,Stan,Rutschman,Switch,Right,3.41,1.66
+544150,Albert Suárez,Albert,Suárez,49,1989-10-08,35,San Felix,Venezuela,"6' 3""",235,True,Pitcher,P,M,Joe,"Suárez, A",Right,Right,3.49,1.601
+675448,Blake Hunt,Blake,Hunt,81,1998-11-10,26,Costa Mesa,USA,"6' 4""",215,True,Catcher,C,M,Evan,Hunt,Right,Right,3.549,1.627
+687064,Brandon Young,Brandon,Young,N/A,1998-08-19,26,Lumberton,USA,"6' 6""",210,True,Pitcher,P,M,Wayne,Young,Right,Right,3.656,1.677
+641329,Bryan Baker,Bryan,Baker,43,1994-12-02,30,Fort Walton Beach,USA,"6' 6""",235,True,Pitcher,P,M,Scott,Baker,Right,Right,3.656,1.677
+700249,Cade Povich,Cade,Povich,37,2000-04-12,24,Reno,USA,"6' 3""",185,True,Pitcher,P,M,Jackie,Povich,Left,Left,3.49,1.601
+656775,Cedric Mullins,Boyce,Mullins,31,1994-10-01,30,Greensboro,USA,"5' 9""",175,True,Outfielder,CF,M,Cedric,Mullins,Left,Left,3.4,1.61
+450203,Charlie Morton,Charles,Morton,N/A,1983-11-12,41,Flemington,USA,"6' 5""",215,True,Pitcher,P,M,A.,"Morton, C",Right,Right,3.51,1.63
+694646,Chayce McDermott,Chayce,McDermott,60,1998-08-22,26,Anderson,USA,"6' 3""",197,True,Pitcher,P,M,Michael,McDermott,Left,Right,3.49,1.601
+672335,Cionel Pérez,Cionel,Pérez,58,1996-04-21,28,Matanzas,Cuba,"6' 0""",175,True,Pitcher,P,M,Felix,"Pérez, C",Right,Left,3.371,1.535
+691723,Coby Mayo,Coby,Mayo,16,2001-12-10,23,Coral Springs,USA,"6' 5""",230,True,Third Base,3B,M,Gerald,Mayo,Right,Right,3.49,1.57
+681882,Colin Selby,Colin,Selby,60,1997-10-24,27,Chesapeake,USA,"6' 2""",220,True,Pitcher,P,M,N/A,Selby,Right,Right,3.467,1.589
+681297,Colton Cowser,Colton,Cowser,17,2000-03-20,24,Houston,USA,"6' 2""",220,True,Outfielder,LF,M,Dale,Cowser,Left,Right,3.38,1.65
+663662,Daz Cameron,Dazmon,Cameron,N/A,1997-01-15,27,McDonough,USA,"6' 0""",185,True,Outfielder,LF,M,Jaroid,Cameron,Right,Right,3.46,1.58
+665152,Dean Kremer,Dean,Kremer,64,1996-01-07,28,Stockton,USA,"6' 2""",210,True,Pitcher,P,M,Junior,Kremer,Right,Right,3.467,1.589
+656896,Emmanuel Rivera,Emmanuel,Rivera,26,1996-06-29,28,Mayaguez,Puerto Rico,"6' 2""",225,True,Third Base,3B,M,Miguel,"Rivera, Em",Right,Right,3.39,1.63
+642585,Félix Bautista,Félix,Bautista,74,1995-06-20,29,Santo Domingo,Dominican Republic,"6' 8""",285,True,Pitcher,P,M,Alexander,"Bautista, F",Right,Right,3.688,1.747
+596142,Gary Sánchez,Gary,Sánchez,N/A,1992-12-02,32,Santo Domingo,Dominican Republic,"6' 2""",258,True,Catcher,C,M,N/A,Sánchez,Right,Right,3.36,1.58
+680570,Grayson Rodriguez,Grayson,Rodriguez,30,1999-11-16,25,Houston,USA,"6' 5""",230,True,Pitcher,P,M,Greer,"Rodriguez, G",Left,Right,3.575,1.681
+642397,Gregory Soto,Gregory,Soto,65,1995-02-11,29,Haina,Dominican Republic,"6' 1""",234,True,Pitcher,P,M,N/A,"Soto, G",Left,Left,3.411,1.565
+683002,Gunnar Henderson,Gunnar,Henderson,2,2001-06-29,23,Montgomery,USA,"6' 3""",220,True,Shortstop,SS,M,Randal,Henderson,Left,Right,3.7,1.79
+677008,Heston Kjerstad,Heston,Kjerstad,13,1999-02-12,25,Amarillo,USA,"6' 3""",205,True,Outfielder,LF,M,Sawyer,Kjerstad,Left,Right,3.86,1.81
+702616,Jackson Holliday,Jackson,Holliday,7,2003-12-04,21,Austin,USA,"6' 0""",185,True,Second Base,2B,M,Matthew,Holliday,Left,Right,3.4,1.6
+676059,Jordan Westburg,Jordan,Westburg,11,1999-02-18,25,New Braunfels,USA,"6' 2""",210,True,Third Base,3B,M,Cole,Westburg,Right,Right,3.5,1.64
+622761,Jorge Mateo,Jorge,Mateo,3,1995-06-23,29,Santo Domingo Oeste,Dominican Republic,"6' 1""",200,True,Second Base,2B,M,Luis,Mateo,Right,Right,3.48,1.66
+669704,Kade Strowd,Randall,Strowd,N/A,1997-09-17,27,Fort Worth,USA,"6' 2""",200,True,Pitcher,P,M,Kade,Strowd,Right,Right,3.467,1.589
+669211,Keegan Akin,Keegan,Akin,45,1995-04-01,29,Alma,USA,"6' 0""",240,True,Pitcher,P,M,Lee,Akin,Left,Left,3.371,1.535
+680694,Kyle Bradish,Kyle,Bradish,38,1996-09-12,28,Peoria,USA,"6' 3""",215,True,Pitcher,P,M,Edward,Bradish,Right,Right,3.49,1.601
+670869,Livan Soto,Livan,Soto,73,2000-06-22,24,Valencia,Venezuela,"5' 10""",160,True,Shortstop,SS,M,Enrique,"Soto, L",Left,Right,3.37,1.54
+593574,Luis González,Luis,González,N/A,1992-01-17,32,Valverde Mao,Dominican Republic,"6' 2""",170,True,Pitcher,P,M,Humberto,"González, L",Left,Left,3.467,1.589
+602104,Ramón Urías,Ramón,Urías,29,1994-06-03,30,Magdalena de Kino,Mexico,"5' 10""",185,True,Third Base,3B,M,Francisco,"Urías, R",Right,Right,3.17,1.54
+663624,Ryan Mountcastle,Ryan,Mountcastle,6,1997-02-18,27,Winter Springs,USA,"6' 4""",220,True,First Base,1B,M,Lee,Mountcastle,Right,Right,3.59,1.78
+656811,Ryan O'Hearn,Ryan,O'Hearn,32,1993-07-26,31,Dunedin,USA,"6' 3""",220,True,First Base,1B,M,Patrick,O'Hearn,Left,Left,3.43,1.63
+622554,Seranthony Domínguez,Seranthony,Domínguez,56,1994-11-25,30,Esperanza Valverde Mao,Dominican Republic,"6' 1""",225,True,Pitcher,P,M,Ambioris,Domínguez,Right,Right,3.411,1.565
+608372,Tomoyuki Sugano,Tomoyuki,Sugano,N/A,1989-10-11,35,Kanagawa,Japan,"6' 1""",198,True,Pitcher,P,M,N/A,Sugano,Right,Right,3.411,1.565
+669432,Trevor Rogers,Trevor,Rogers,28,1997-11-13,27,Carlsbad,USA,"6' 5""",217,True,Pitcher,P,M,J'Daniel,"Rogers, Tr",Left,Left,3.74,1.75
+641933,Tyler O'Neill,Tyler,O'Neill,N/A,1995-06-22,29,Burnaby,Canada,"5' 11""",200,True,Outfielder,LF,M,Alan,O'Neill,Right,Right,3.19,1.46
+669330,Tyler Wells,Tyler,Wells,68,1994-08-26,30,Tulsa,USA,"6' 8""",260,True,Pitcher,P,M,Austin,"Wells, T",Right,Right,3.688,1.747
+666974,Yennier Cano,Yennier,Cano,78,1994-03-09,30,Havana,Cuba,"6' 4""",245,True,Pitcher,P,M,N/A,Cano,Right,Right,3.549,1.627
+621107,Zach Eflin,Zachary,Eflin,24,1994-04-08,30,Orlando,USA,"6' 6""",220,True,Pitcher,P,M,Adams,Eflin,Right,Right,3.68,1.7
+547973,Aroldis Chapman,Albertin,Chapman,44,1988-02-28,36,Holguin,Cuba,"6' 4""",235,True,Pitcher,P,M,Aroldis,Chapman,Left,Left,3.549,1.627
+678394,Brayan Bello,Brayan,Bello,66,1999-05-17,25,Samana,Dominican Republic,"6' 1""",195,True,Pitcher,P,M,N/A,Bello,Right,Right,3.411,1.565
+657514,Brennan Bernardino,Brennan,Bernardino,83,1992-01-15,32,Valencia,USA,"6' 4""",180,True,Pitcher,P,M,Allen,Bernardino,Left,Left,3.549,1.627
+665966,Carlos Narvaez,Carlos,Narvaez,N/A,1998-11-26,26,Maracay,Venezuela,"5' 11""",190,True,Catcher,C,M,Luis,Narvaez,Right,Right,3.319,1.513
+678882,Ceddanne Rafaela,Ceddanne,Rafaela,3,2000-09-18,24,Willemstad,Curacao,"5' 9""",165,True,Shortstop,SS,M,Chipper Nicasio Marte,Rafaela,Right,Right,3.41,1.58
+663767,Chase Shugart,Chase,Shugart,61,1996-10-24,28,Bridge City,USA,"5' 10""",200,True,Pitcher,P,M,C.,Shugart,Left,Right,3.301,1.504
+669684,Chris Murphy,Christopher,Murphy,72,1998-06-05,26,Mission Hills,USA,"6' 1""",186,True,Pitcher,P,M,Michael,Murphy,Left,Left,3.411,1.565
+657136,Connor Wong,Connor,Wong,12,1996-05-19,28,Houston,USA,"6' 1""",190,True,Catcher,C,M,Sun-Han,Wong,Right,Right,3.35,1.45
+681867,Cooper Criswell,Cooper,Criswell,64,1996-07-24,28,Carrolton,USA,"6' 6""",200,True,Pitcher,P,M,Timothy,"Criswell, C",Right,Right,3.656,1.677
+666152,David Hamilton,David,Hamilton,17,1997-09-29,27,San Marcos,USA,"5' 10""",188,True,Shortstop,SS,M,Lewis,"Hamilton, D",Left,Right,3.2,1.48
+676979,Garrett Crochet,Garrett,Crochet,35,1999-06-21,25,Ocean Springs,USA,"6' 6""",245,True,Pitcher,P,M,Nolan,Crochet,Left,Left,3.66,1.68
+676477,Garrett Whitlock,Garrett,Whitlock,22,1996-06-11,28,Snellville,USA,"6' 5""",222,True,Pitcher,P,M,Getts,Whitlock,Right,Right,3.575,1.681
+669711,Greg Weissert,Gregory,Weissert,57,1995-02-04,29,Bay Shore,USA,"6' 2""",235,True,Pitcher,P,M,R.,Weissert,Right,Right,3.467,1.589
+690928,Hunter Dobbins,Hunter,Dobbins,N/A,1999-08-30,25,Bryan,USA,"6' 2""",185,True,Pitcher,P,M,N/A,Dobbins,Right,Right,3.467,1.589
+680776,Jarren Duran,Jarren,Duran,16,1996-09-05,28,Corona,USA,"6' 2""",205,True,Outfielder,CF,M,William,"Duran, Ja",Left,Right,3.59,1.71
+691373,Jhostynxon Garcia,Jhostynxon,Garcia,N/A,2002-12-11,22,San Fernando de Apure,Venezuela,"6' 0""",163,True,Outfielder,CF,M,Alirio,"Garcia, Jh",Right,Right,3.371,1.535
+670174,Josh Winckowski,Joshua,Winckowski,25,1998-06-28,26,Toledo,USA,"6' 4""",215,True,Pitcher,P,M,N/A,Winckowski,Right,Right,3.549,1.627
+686580,Justin Slaten,Justin,Slaten,63,1997-09-15,27,Longview,USA,"6' 4""",222,True,Pitcher,P,M,Michael,Slaten,Right,Right,3.549,1.627
+458677,Justin Wilson,Justin,Wilson,32,1987-08-18,37,Anaheim,USA,"6' 2""",205,True,Pitcher,P,M,James,"Wilson, J",Left,Left,3.467,1.589
+676710,Kutter Crawford,Kutter,Crawford,50,1996-04-01,28,Okeechobee,USA,"6' 1""",195,True,Pitcher,P,M,Martin,"Crawford, K",Right,Right,3.411,1.565
+521230,Liam Hendriks,Liam,Hendriks,31,1989-02-10,35,Perth,Australia,"6' 0""",235,True,Pitcher,P,M,Johnson,Hendriks,Right,Right,3.371,1.535
+608337,Lucas Giolito,Lucas,Giolito,54,1994-07-14,30,Santa Monica,USA,"6' 6""",245,True,Pitcher,P,M,F.,Giolito,Right,Right,3.656,1.677
+692285,Luis Guerrero,Luis,Guerrero,99,2000-08-05,24,Bani,Dominican Republic,"6' 0""",215,True,Pitcher,P,M,Sadiel,"Guerrero, L",Right,Right,3.371,1.535
+691384,Luis Perales,Luis,Perales,93,2003-04-14,21,Guacara,Venezuela,"6' 1""",160,True,Pitcher,P,M,Alexis,Perales,Right,Right,3.411,1.565
+807799,Masataka Yoshida,Masataka,Yoshida,7,1993-07-15,31,Fukui,Japan,"5' 8""",192,True,Outfielder,LF,M,N/A,Yoshida,Left,Right,3.17,1.37
+686765,Nick Sogard,Nicholas,Sogard,20,1997-09-09,27,Los Angeles,USA,"6' 0""",189,True,Second Base,2B,M,John,Sogard,Switch,Right,3.07,1.41
+663776,Patrick Sandoval,Patrick,Sandoval,43,1996-10-18,28,Mission Viejo,USA,"6' 3""",190,True,Pitcher,P,M,Jordan,Sandoval,Left,Left,3.49,1.601
+682990,Quinn Priester,Charles,Priester,68,2000-09-16,24,Glendale Heights,USA,"6' 3""",210,True,Pitcher,P,M,Quinn,Priester,Right,Right,3.49,1.601
+646240,Rafael Devers,Rafael,Devers,11,1996-10-24,28,Sanchez,Dominican Republic,"6' 0""",235,True,Third Base,3B,M,Calcano,Devers,Left,Right,3.43,1.55
+690916,Richard Fitts,Richard,Fitts,80,1999-12-17,25,Helena,USA,"6' 3""",230,True,Pitcher,P,M,Logan,Fitts,Right,Right,3.49,1.601
+608701,Rob Refsnyder,Robert,Refsnyder,30,1991-03-26,33,Seoul,Republic of Korea,"6' 0""",215,True,Outfielder,LF,M,Daniel,Refsnyder,Right,Right,3.56,1.63
+663853,Romy Gonzalez,Roman,Gonzalez,23,1996-09-06,28,Miami,USA,"6' 0""",215,True,Second Base,2B,M,A.,"Gonzalez, R",Right,Right,3.42,1.66
+656557,Tanner Houck,Tanner,Houck,89,1996-06-29,28,St. Louis,USA,"6' 5""",226,True,Pitcher,P,M,Lee,Houck,Right,Right,3.575,1.681
+596115,Trevor Story,Trevor,Story,10,1992-11-15,32,Irving,USA,"6' 2""",209,True,Shortstop,SS,M,John,Story,Right,Right,3.42,1.63
+671213,Triston Casas,Triston,Casas,36,2000-01-15,24,Miami,USA,"6' 5""",244,True,First Base,1B,M,Ray,Casas,Left,Right,3.71,1.79
+687093,Vaughn Grissom,Vaughn,Grissom,5,2001-01-05,24,Orlando,USA,"6' 2""",210,True,Second Base,2B,M,Anthony,Grissom,Right,Right,3.35,1.57
+621111,Walker Buehler,Walker,Buehler,0,1994-07-28,30,Lexington,USA,"6' 2""",185,True,Pitcher,P,M,Anthony,Buehler,Right,Right,3.29,1.6
+677800,Wilyer Abreu,Wilyer,Abreu,52,1999-06-24,25,Maracaibo,Venezuela,"5' 10""",215,True,Outfielder,RF,M,David,"Abreu, W",Left,Left,3.36,1.61
+683068,Zach Penrod,Zach,Penrod,67,1997-06-16,27,Nampa,USA,"6' 2""",210,True,Pitcher,P,M,N/A,Penrod,Left,Left,3.467,1.589
+677161,Zack Kelly,Zachery,Kelly,76,1995-03-03,29,Roanoke,USA,"6' 3""",231,True,Pitcher,P,M,Reed,"Kelly, Z",Right,Right,3.49,1.601
+672744,Alexander Canario,Alexander,Canario,4,2000-05-07,24,Montecristi,Dominican Republic,"5' 11""",165,True,Outfielder,LF,M,N/A,Canario,Right,Right,3.62,1.7
+676962,Ben Brown,Benjamin,Brown,32,1999-09-09,25,East Setauket,USA,"6' 6""",210,True,Pitcher,P,M,N/A,"Brown, Be",Right,Right,3.656,1.677
+701496,Benjamin Cowles,Benjamin,Cowles,N/A,2000-02-15,24,Rochester,USA,"6' 0""",180,True,Third Base,3B,M,Joseph,Cowles,Right,Right,3.371,1.535
+668873,Caleb Kilian,Caleb,Kilian,45,1997-06-02,27,Anaheim,USA,"6' 4""",180,True,Pitcher,P,M,John,Kilian,Right,Right,3.549,1.627
+573204,Caleb Thielbar,Caleb,Thielbar,56,1987-01-31,37,Northfield,USA,"6' 0""",205,True,Pitcher,P,M,John,Thielbar,Right,Left,3.371,1.535
+608348,Carson Kelly,Carson,Kelly,18,1994-07-14,30,Chicago,USA,"6' 2""",212,True,Catcher,C,M,Franklin,"Kelly, C",Right,Right,3.33,1.66
+547001,Cody Poteet,Cody,Poteet,N/A,1994-07-30,30,San Diego,USA,"6' 1""",190,True,Pitcher,P,M,Austin,Poteet,Right,Right,3.411,1.565
+694037,Daniel Palencia,Daniel,Palencia,48,2000-02-05,24,San Carlos,Venezuela,"5' 11""",160,True,Pitcher,P,M,Jesus,"Palencia, D",Right,Right,3.319,1.513
+621020,Dansby Swanson,James,Swanson,7,1994-02-11,30,Kennesaw,USA,"6' 1""",190,True,Shortstop,SS,M,Dansby,Swanson,Right,Right,3.63,1.74
+669212,Eli Morgan,Elijah,Morgan,N/A,1996-05-13,28,Rancho Palos Verdes,USA,"5' 10""",190,True,Pitcher,P,M,Allan,Morgan,Right,Right,3.301,1.504
+681799,Ethan Roberts,Ethan,Roberts,39,1997-07-04,27,Sparta,USA,"5' 10""",180,True,Pitcher,P,M,Michael,Roberts,Right,Right,3.301,1.504
+669398,Gage Workman,Gage,Workman,N/A,1999-10-24,25,Chandler,USA,"6' 4""",202,True,Third Base,3B,M,Tater,Workman,Left,Right,3.549,1.627
+668970,Gavin Hollowell,Gavin,Hollowell,46,1997-11-04,27,Somerset,USA,"6' 7""",215,True,Pitcher,P,M,Ernest,Hollowell,Right,Right,3.756,1.746
+664023,Ian Happ,Ian,Happ,8,1994-08-12,30,Pittsburgh,USA,"6' 0""",205,True,Outfielder,LF,M,Edward,Happ,Switch,Right,3.52,1.63
+680891,Jack Neely,Jack,Neely,47,2000-06-05,24,San Antonio,USA,"6' 8""",245,True,Pitcher,P,M,Preston,Neely,Right,Right,3.688,1.747
+592791,Jameson Taillon,Jameson,Taillon,50,1991-11-18,33,Lakeland,USA,"6' 5""",230,True,Pitcher,P,M,Lee,Taillon,Right,Right,3.575,1.681
+665871,Javier Assad,Javier,Assad,72,1997-07-30,27,Tijuana,Mexico,"6' 1""",200,True,Pitcher,P,M,Eduardo,Assad,Right,Right,3.411,1.565
+696136,Jordan Wicks,Jordan,Wicks,36,1999-09-01,25,Conway,USA,"6' 3""",220,True,Pitcher,P,M,N/A,Wicks,Left,Left,3.49,1.601
+657240,Julian Merryweather,Julian,Merryweather,66,1991-10-14,33,Berkeley,USA,"6' 4""",215,True,Pitcher,P,M,Christopher,Merryweather,Right,Right,3.549,1.627
+657006,Justin Steele,Justin,Steele,35,1995-07-11,29,Lucedale,USA,"6' 2""",205,True,Pitcher,P,M,Carl,Steele,Left,Left,3.467,1.589
+624522,Keegan Thompson,Keegan,Thompson,71,1995-03-13,29,Cullman,USA,"6' 1""",210,True,Pitcher,P,M,Cole,"Thompson, K",Right,Right,3.411,1.565
+682634,Kevin Alcántara,Kevin,Alcantara,13,2002-07-12,22,Santo Domingo,Dominican Republic,"6' 6""",188,True,Outfielder,RF,M,N/A,Alcántara,Right,Right,3.656,1.677
+663656,Kyle Tucker,Kyle,Tucker,30,1997-01-17,27,Tampa,USA,"6' 4""",212,True,Outfielder,RF,M,Daniel,Tucker,Left,Right,3.47,1.67
+676679,Luis Vazquez,Luis,Vazquez,12,1999-10-10,25,Orocovis,Puerto Rico,"6' 0""",165,True,Shortstop,SS,M,N/A,Vazquez,Right,Right,3.371,1.535
+681432,Luke Little,Luke,Little,43,2000-08-30,24,Charlotte,USA,"6' 8""",220,True,Pitcher,P,M,Justice,Little,Left,Left,3.688,1.747
+571510,Matthew Boyd,Matthew,Boyd,48,1991-02-02,33,Mercer Island,USA,"6' 3""",223,True,Pitcher,P,M,Robert,Boyd,Left,Left,3.49,1.601
+683522,Michael Arias,Michael,Arias,82,2001-11-15,23,Santo Domingo,Dominican Republic,"6' 0""",155,True,Pitcher,P,M,Alexander,Arias,Right,Right,3.371,1.535
+683737,Michael Busch,Michael,Busch,29,1997-11-09,27,Inver Grove Heights,USA,"6' 1""",210,True,First Base,1B,M,James,Busch,Left,Right,3.19,1.53
+665804,Miguel Amaya,Miguel,Amaya,9,1999-03-09,25,Herrera,Panama,"6' 0""",230,True,Catcher,C,M,Antonio,Amaya,Right,Right,3.4,1.63
+670156,Miles Mastrobuoni,Miles,Mastrobuoni,20,1995-10-31,29,San Ramon,USA,"5' 10""",185,True,Shortstop,SS,M,James,Mastrobuoni,Left,Right,2.96,1.36
+663878,Nate Pearson,Nathan,Pearson,56,1996-08-20,28,Odessa,USA,"6' 6""",255,True,Pitcher,P,M,Alexander,Pearson,Right,Right,3.656,1.677
+663538,Nico Hoerner,Nicholas,Hoerner,2,1997-05-13,27,Oakland,USA,"6' 1""",200,True,Second Base,2B,M,Mackie,Hoerner,Right,Right,3.3,1.57
+683357,Owen Caissie,Owen,Caissie,N/A,2002-07-08,22,Burlington,Canada,"6' 3""",190,True,Outfielder,RF,M,Andrew,Caissie,Left,Right,3.49,1.601
+691718,Pete Crow-Armstrong,Pete,Crow-Armstrong,52,2002-03-25,22,Sherman Oaks,USA,"5' 11""",184,True,Outfielder,CF,M,Henry,Crow-Armstrong,Left,Left,3.37,1.55
+687863,Porter Hodge,Porter,Hodge,37,2001-02-21,23,Salt Lake City,USA,"6' 4""",230,True,Pitcher,P,M,Dene,Hodge,Right,Right,3.549,1.627
+642239,Rob Zastryzny,Robert,Zastryzny,N/A,1992-03-26,32,Edmonton,Canada,"6' 3""",205,True,Pitcher,P,M,John,Zastryzny,Right,Left,3.49,1.601
+673548,Seiya Suzuki,Seiya,Suzuki,27,1994-08-18,30,Arakawa,Japan,"5' 11""",182,True,Outfielder,RF,M,N/A,Suzuki,Right,Right,3.18,1.43
+684007,Shota Imanaga,Shota,Imanaga,18,1993-09-01,31,Kitakyushu,Japan,"5' 10""",175,True,Pitcher,P,M,N/A,Imanaga,Left,Left,3.301,1.504
+668338,Tyson Miller,Tyson,Miller,49,1995-07-29,29,Fairfield,USA,"6' 5""",220,True,Pitcher,P,M,Marcus,"Miller, T",Right,Right,3.575,1.681
+660644,Vidal Bruján,Vidal,Bruján,N/A,1998-02-09,26,San Pedro de Macoris,Dominican Republic,"5' 10""",180,True,Shortstop,SS,M,N/A,Bruján,Switch,Right,3.3,1.51
+664747,Alexis Díaz,Alexis,Díaz,43,1996-09-28,28,Humacao,Puerto Rico,"6' 2""",224,True,Pitcher,P,M,Omar,"Díaz, A",Right,Right,3.467,1.589
+671096,Andrew Abbott,Andrew,Abbott,41,1999-06-01,25,Lynchburg,USA,"6' 0""",192,True,Pitcher,P,M,Cole,"Abbott, A",Left,Left,3.37,1.54
+694362,Blake Dunn,Blake,Dunn,76,1998-09-05,26,Holland,USA,"5' 10""",210,True,Outfielder,LF,M,William,Dunn,Right,Right,3.14,1.46
+663903,Brady Singer,Brady,Singer,51,1996-08-04,28,Leesburg,USA,"6' 5""",215,True,Pitcher,P,M,Alan,Singer,Right,Right,3.575,1.681
+682227,Brandon Williamson,Brandon,Williamson,55,1998-04-02,26,Fairmont,USA,"6' 6""",210,True,Pitcher,P,M,Martin,Williamson,Right,Left,3.656,1.677
+608718,Brent Suter,Brent,Suter,31,1989-08-29,35,Chicago,USA,"6' 4""",213,True,Pitcher,P,M,Michael,Suter,Left,Left,3.549,1.627
+686730,Carson Spiers,William,Spiers,68,1997-11-11,27,Greenville,USA,"6' 3""",205,True,Pitcher,P,M,Carson,Spiers,Right,Right,3.49,1.601
+668984,Casey Legumina,Casey,Legumina,65,1997-06-19,27,Dallas,USA,"6' 2""",195,True,Pitcher,P,M,Davey,Legumina,Right,Right,3.467,1.589
+687952,Christian Encarnacion-Strand,Christian,Encarnacion-Strand,33,1999-12-01,25,Walnut Creek,USA,"6' 0""",224,True,First Base,1B,M,Lee,Encarnacion-Strand,Right,Right,3.26,1.5
+683175,Connor Phillips,Connor,Phillips,34,2001-05-04,23,Houston,USA,"6' 2""",209,True,Pitcher,P,M,Allan,Phillips,Right,Right,3.467,1.589
+688682,Cooper Bowman,Cooper,Bowman,N/A,2000-01-25,24,Rapid City,USA,"6' 0""",205,True,Second Base,2B,M,John,Bowman,Right,Right,3.371,1.535
+682829,Elly De La Cruz,Elly,De La Cruz,44,2002-01-11,22,Sabana Grande de Boya,Dominican Republic,"6' 5""",200,True,Shortstop,SS,M,Antonio,"De La Cruz, E",Switch,Right,3.6,1.75
+641941,Emilio Pagán,Emilio,Pagán,15,1991-05-07,33,Simpsonville,USA,"6' 2""",208,True,Pitcher,P,M,Enrique,Pagán,Left,Right,3.467,1.589
+668933,Graham Ashcraft,Douglas,Ashcraft,23,1998-02-11,26,Huntsville,USA,"6' 2""",248,True,Pitcher,P,M,Graham,Ashcraft,Left,Right,3.467,1.589
+668881,Hunter Greene,Christian,Greene,21,1999-08-06,25,Los Angeles,USA,"6' 5""",242,True,Pitcher,P,M,Hunter,"Greene, H",Right,Right,3.575,1.681
+674441,Jacob Hurtubise,Jacob,Hurtubise,26,1997-12-11,27,Indianapolis,USA,"5' 10""",180,True,Outfielder,LF,M,Gilles,Hurtubise,Left,Right,3.31,1.57
+641584,Jake Fraley,Jake,Fraley,27,1995-05-25,29,Frederick,USA,"6' 0""",206,True,Outfielder,RF,M,Arnold,Fraley,Left,Left,3.33,1.58
+600869,Jeimer Candelario,Jeimer,Candelario,3,1993-11-24,31,New York,USA,"6' 2""",222,True,Third Base,3B,M,N/A,Candelario,Switch,Right,3.32,1.6
+624431,Jose Trevino,Jose,Trevino,56,1992-11-28,32,Corpus Christi,USA,"5' 10""",215,True,Catcher,C,M,N/A,Trevino,Right,Right,3.13,1.51
+687924,Julian Aguiar,Julian,Aguiar,39,2001-06-04,23,Long Beach,USA,"6' 3""",180,True,Pitcher,P,M,N/A,Aguiar,Left,Right,3.49,1.601
+682825,Luis Mey,Luis,Mey,N/A,2001-06-24,23,San Pedro de Macoris,Dominican Republic,"6' 5""",235,True,Pitcher,P,M,Ellison,Mey,Right,Right,3.575,1.681
+680689,Lyon Richardson,Lyon,Richardson,72,2000-01-18,24,Jensen Beach,USA,"6' 2""",207,True,Pitcher,P,M,N/A,Richardson,Switch,Right,3.467,1.589
+680574,Matt McLain,Matthew,McLain,9,1999-08-06,25,Orange,USA,"5' 8""",180,True,Shortstop,SS,M,Michael,"McLain, M",Right,Right,3.18,1.4
+666157,Nick Lodolo,Nicholas,Lodolo,40,1998-02-05,26,La Verne,USA,"6' 6""",216,True,Pitcher,P,M,Frank,Lodolo,Left,Left,3.656,1.677
+607259,Nick Martinez,Nicholas,Martinez,28,1990-08-05,34,Miami,USA,"6' 1""",200,True,Pitcher,P,M,Andres,"Martinez, N",Left,Right,3.411,1.565
+682622,Noelvi Marte,Noelvi,Marte,16,2001-10-16,23,Cotui,Dominican Republic,"6' 0""",216,True,Third Base,3B,M,N/A,"Marte, N",Right,Right,3.37,1.65
+677956,Rece Hinds,Rece,Hinds,77,2000-09-05,24,Niceville,USA,"6' 4""",215,True,Outfielder,RF,M,Xola,Hinds,Right,Right,3.59,1.62
+695076,Rhett Lowder,Rhett,Lowder,81,2002-03-08,22,Albemarle,USA,"6' 2""",200,True,Pitcher,P,M,Hamilton,Lowder,Right,Right,3.467,1.589
+672710,Roansy Contreras,Roansy,Contreras,N/A,1999-11-07,25,Peralvillo,Dominican Republic,"6' 1""",205,True,Pitcher,P,M,N/A,Contreras,Right,Right,3.411,1.565
+594580,Sam Moll,Samuel,Moll,50,1992-01-03,33,Lakeland,USA,"5' 9""",190,True,Pitcher,P,M,John,Moll,Left,Left,3.285,1.487
+669289,Santiago Espinal,Santiago,Espinal,4,1994-11-13,30,Santiago,Dominican Republic,"5' 10""",185,True,Third Base,3B,M,Roman,Espinal,Right,Right,3.37,1.57
+668715,Spencer Steer,Spencer,Steer,7,1997-12-07,27,Long Beach,USA,"5' 11""",185,True,Outfielder,LF,M,Gordon,Steer,Right,Right,3.31,1.58
+656413,Stuart Fairchild,Stuart,Fairchild,17,1996-03-17,28,Seattle,USA,"6' 0""",205,True,Outfielder,CF,M,Alexander,Fairchild,Right,Right,3.22,1.52
+670770,TJ Friedl,Terry,Friedl,29,1995-08-14,29,Sewickley,USA,"5' 10""",180,True,Outfielder,CF,M,Lee,Friedl,Left,Left,3.13,1.48
+663574,Tony Santillan,Antonio,Santillan,64,1997-04-15,27,Fort Worth,USA,"6' 3""",285,True,Pitcher,P,M,N/A,Santillan,Right,Right,3.49,1.601
+682997,Tyler Callihan,Tyler,Callihan,N/A,2000-06-22,24,Jacksonville,USA,"5' 11""",205,True,Second Base,2B,M,N/A,"Callihan, T",Left,Right,3.319,1.513
+663886,Tyler Stephenson,Tyler,Stephenson,37,1996-08-16,28,Atlanta,USA,"6' 4""",225,True,Catcher,C,M,Robert,"Stephenson, T",Right,Right,3.15,1.49
+666181,Will Benson,William,Benson,30,1998-06-16,26,Atlanta,USA,"6' 5""",230,True,Outfielder,LF,M,Buchanan,Benson,Left,Left,3.73,1.77
+691172,Yosver Zulueta,Yosver,Zulueta,67,1998-01-23,26,Remedios,Cuba,"6' 1""",190,True,Pitcher,P,M,Jose,Zulueta,Right,Right,3.411,1.565
+689958,Andrew Walters,Andrew,Walters,63,2000-12-08,24,Palm Bay,USA,"6' 4""",222,True,Pitcher,P,M,Wayne,Walters,Right,Right,3.549,1.627
+682657,Angel Martínez,Angel,Martínez,1,2002-01-27,22,Santo Domingo,Dominican Republic,"5' 11""",200,True,Outfielder,CF,M,N/A,"Martínez, A",Switch,Right,3.22,1.45
+595978,Austin Hedges,Austin,Hedges,27,1992-08-18,32,San Juan Capistrano,USA,"6' 1""",220,True,Catcher,C,M,Charles,Hedges,Right,Right,3.22,1.51
+594902,Ben Lively,Edward,Lively,39,1992-03-05,32,Pensacola,USA,"6' 4""",235,True,Pitcher,P,M,Bennett,Lively,Right,Right,3.549,1.627
+666310,Bo Naylor,Noah,Naylor,23,2000-02-21,24,Mississauga,Canada,"6' 0""",205,True,Catcher,C,M,G.,"Naylor, B",Left,Right,3.21,1.53
+677587,Brayan Rocchio,Brayan,Rocchio,4,2001-01-13,23,Caracas,Venezuela,"5' 10""",170,True,Shortstop,SS,M,Hommy,Rocchio,Switch,Right,3.09,1.41
+671922,Cade Smith,Cade,Smith,36,1999-05-09,25,Vancouver,Canada,"6' 5""",230,True,Pitcher,P,M,Jared Benjamin,"Smith, C",Right,Right,3.575,1.681
+467793,Carlos Santana,Carlos,Santana,41,1986-04-08,38,Santo Domingo,Dominican Republic,"5' 11""",210,True,First Base,1B,M,N/A,Santana,Switch,Right,3.44,1.74
+682982,Daniel Espino,Daniel,Espino,66,2001-01-05,24,Panama City,Panama,"6' 2""",225,True,Pitcher,P,M,Andres,Espino,Right,Right,3.467,1.589
+682177,Daniel Schneemann,Daniel,Schneemann,10,1997-01-23,27,San Diego,USA,"6' 0""",185,True,Shortstop,SS,M,N/A,Schneemann,Left,Right,3.39,1.64
+681807,David Fry,David,Fry,6,1995-11-20,29,Colleyville,USA,"6' 0""",215,True,First Base,1B,M,N/A,Fry,Right,Right,3.31,1.52
+680951,Doug Nikhazy,Douglas,Nikhazy,N/A,1999-08-11,25,Burlington,USA,"6' 0""",210,True,Pitcher,P,M,Samuel,Nikhazy,Left,Left,3.3,1.5
+661403,Emmanuel Clase,Emmanuel,Clase,48,1998-03-18,26,Rio San Juan,Dominican Republic,"6' 2""",206,True,Pitcher,P,M,N/A,"Clase, E",Right,Right,3.467,1.589
+681870,Erik Sabrowski,Erik,Sabrowski,62,1997-10-31,27,Edmonton,Canada,"6' 4""",230,True,Pitcher,P,M,Wayne Thomas,Sabrowski,Right,Left,3.549,1.627
+680916,Franco Aleman,Franco,Aleman,92,2000-06-26,24,Yaguajay,Cuba,"6' 6""",235,True,Pitcher,P,M,N/A,Aleman,Right,Right,3.656,1.677
+672356,Gabriel Arias,Gabriel,Arias,13,2000-02-27,24,La Victoria,Venezuela,"6' 1""",217,True,Third Base,3B,M,Alejandro,"Arias, G",Right,Right,3.51,1.6
+668909,Gavin Williams,Gavin,Williams,32,1999-07-26,25,Fayetteville,USA,"6' 6""",250,True,Pitcher,P,M,Scott,"Williams, G",Left,Right,3.656,1.677
+683769,Hunter Gaddis,Hunter,Gaddis,33,1998-04-09,26,Canton,USA,"6' 6""",260,True,Pitcher,P,M,Reid,Gaddis,Right,Right,3.656,1.677
+678877,Jhonkensy Noel,Jhonkensy,Noel,43,2001-07-15,23,San Pedro de Macoris,Dominican Republic,"6' 3""",250,True,Outfielder,RF,M,N/A,Noel,Right,Right,3.44,1.68
+676282,Joey Cantillo,Joseph,Cantillo,54,1999-12-18,25,Honolulu,USA,"6' 4""",225,True,Pitcher,P,M,Lopaka,Cantillo,Left,Left,3.549,1.627
+671286,Johnathan Rodriguez,Johnathan,Rodriguez,30,1999-11-04,25,Toa Baja,Puerto Rico,"6' 2""",224,True,Outfielder,RF,M,N/A,"Rodriguez, Jo",Right,Right,3.45,1.66
+608070,José Ramírez,José,Ramírez,11,1992-09-17,32,Bani,Dominican Republic,"5' 9""",190,True,Third Base,3B,M,Enrique,"Ramírez, Jo",Switch,Right,3.32,1.55
+682877,Juan Brito,Juan,Brito,74,2001-09-24,23,Santo Domingo,Dominican Republic,"6' 0""",202,True,Shortstop,SS,M,Manuel,Brito,Switch,Right,3.371,1.535
+700932,Kyle Manzardo,Kyle,Manzardo,9,2000-07-18,24,Couer d'Alene,USA,"5' 11""",205,True,First Base,1B,M,Thomas,Manzardo,Left,Right,3.15,1.41
+657041,Lane Thomas,Lane,Thomas,8,1995-08-23,29,Knoxville,USA,"6' 0""",195,True,Outfielder,RF,M,Michael,"Thomas, L",Right,Right,3.06,1.43
+671106,Logan Allen,Logan,Allen,41,1998-09-05,26,Altamonte Springs,USA,"6' 0""",190,True,Pitcher,P,M,Taylor,"Allen, L.T.",Right,Left,3.371,1.535
+682847,Luis L. Ortiz,Luis,Ortiz,45,1999-01-27,25,San Pedro de Macoris,Dominican Republic,"6' 2""",235,True,Pitcher,P,M,Leandro,"Ortiz, L.L.",Right,Right,3.467,1.589
+663671,Nic Enright,Nicholas,Enright,94,1997-01-08,27,Richmond,USA,"6' 3""",205,True,Pitcher,P,M,Crispen,Enright,Right,Right,3.49,1.601
+658648,Pedro Avila,Pedro,Avila,60,1997-01-14,27,Caracas,Venezuela,"5' 11""",210,True,Pitcher,P,M,Manuel,"Avila, P",Right,Right,3.33,1.48
+690984,Petey Halpin,Peter,Halpin,89,2002-05-26,22,San Mateo,USA,"6' 0""",200,True,Outfielder,CF,M,Lyndon,Halpin,Left,Right,3.371,1.535
+656529,Sam Hentges,Sam,Hentges,31,1996-07-18,28,Shoreview,USA,"6' 6""",245,True,Pitcher,P,M,D.,Hentges,Left,Left,3.656,1.677
+669456,Shane Bieber,Shane,Bieber,57,1995-05-31,29,Orange,USA,"6' 3""",200,True,Pitcher,P,M,Robert,Bieber,Right,Right,3.49,1.601
+677944,Slade Cecconi,Slade,Cecconi,44,1999-06-24,25,Oviedo,USA,"6' 4""",219,True,Pitcher,P,M,N/A,Cecconi,Right,Right,3.549,1.627
+680757,Steven Kwan,Steven,Kwan,38,1997-09-05,27,Los Gatos,USA,"5' 9""",170,True,Outfielder,LF,M,Robert,Kwan,Left,Left,3.13,1.45
+676440,Tanner Bibee,Tanner,Bibee,28,1999-03-05,25,Mission Viejo,USA,"6' 2""",205,True,Pitcher,P,M,Hayes,Bibee,Right,Right,3.467,1.589
+682120,Tim Herrin,Tim,Herrin,29,1996-10-08,28,Terre Haute,USA,"6' 6""",230,True,Pitcher,P,M,Edward,Herrin,Left,Left,3.656,1.677
+663986,Trevor Stephan,Trevor,Stephan,37,1995-11-25,29,Magnolia,USA,"6' 5""",225,True,Pitcher,P,M,R.,Stephan,Right,Right,3.575,1.681
+663474,Triston McKenzie,Triston,McKenzie,24,1997-08-02,27,Brooklyn,USA,"6' 5""",165,True,Pitcher,P,M,Andrew,McKenzie,Right,Right,3.575,1.681
+671289,Tyler Freeman,Tyler,Freeman,2,1999-05-21,25,Rancho Cucamonga,USA,"6' 0""",190,True,Outfielder,CF,M,Andrew,"Freeman, T",Right,Right,3.18,1.4
+686823,Will Brennan,William,Brennan,17,1998-02-02,26,Colorado Springs,USA,"6' 0""",200,True,Outfielder,RF,M,Daniel,Brennan,Left,Left,3.28,1.53
+668845,Aaron Schunk,Aaron,Schunk,30,1997-07-24,27,Atlanta,USA,"6' 1""",205,True,Second Base,2B,M,Livingston,Schunk,Right,Right,3.39,1.6
+691182,Adael Amador,Adael,Amador,1,2003-04-11,21,Santo Domingo,Dominican Republic,"6' 0""",200,True,Second Base,2B,M,Alexander,Amador,Switch,Right,3.371,1.535
+683409,Angel Chivilli,Angel,Chivilli,57,2002-07-28,22,La Victoria,Dominican Republic,"6' 2""",162,True,Pitcher,P,M,N/A,Chivilli,Right,Right,3.467,1.589
+683627,Anthony Molina,Anthony,Molina,43,2002-01-12,22,San Joaquin,Venezuela,"6' 1""",170,True,Pitcher,P,M,Jose,Molina,Right,Right,3.411,1.565
+622608,Antonio Senzatela,Antonio,Senzatela,49,1995-01-21,29,Valencia,Venezuela,"6' 1""",236,True,Pitcher,P,M,N/A,Senzatela,Right,Right,3.38,1.57
+596295,Austin Gomber,Austin,Gomber,26,1993-11-23,31,Winter Garden,USA,"6' 5""",220,True,Pitcher,P,M,Zachary,Gomber,Left,Left,3.575,1.681
+687134,Bradley Blalock,Bradley,Blalock,64,2000-12-25,24,Conyers,USA,"6' 2""",213,True,Pitcher,P,M,Christopher,Blalock,Right,Right,3.467,1.589
+686668,Brenton Doyle,Brenton,Doyle,9,1998-05-14,26,Warrenton,USA,"6' 4""",220,True,Outfielder,CF,M,Edward,"Doyle, B",Right,Right,3.4,1.65
+691011,Drew Romo,Drew,Romo,3,2001-08-29,23,Fountain Valley,USA,"6' 1""",205,True,Catcher,C,M,Arthur,Romo,Switch,Right,3.01,1.43
+687145,Evan Justice,John,Justice,56,1998-07-07,26,Richmond,USA,"6' 4""",205,True,Pitcher,P,M,Evan William,Justice,Left,Left,3.549,1.627
+678662,Ezequiel Tovar,Ezequiel,Tovar,14,2001-08-01,23,Maracay,Venezuela,"6' 0""",162,True,Shortstop,SS,M,Jesus,Tovar,Right,Right,3.09,1.41
+608566,Germán Márquez,Germán,Márquez,48,1995-02-22,29,San Felix,Venezuela,"6' 1""",230,True,Pitcher,P,M,Andres,Márquez,Right,Right,3.411,1.565
+675659,Greg Jones,Gregory,Jones,2,1998-03-07,26,Cary,USA,"6' 0""",175,True,Outfielder,RF,M,N/A,Jones,Switch,Right,3.371,1.535
+696100,Hunter Goodman,Hunter,Goodman,15,1999-10-08,25,Arlington,USA,"5' 11""",210,True,Catcher,C,M,Robert,Goodman,Right,Right,3.37,1.59
+607732,Jacob Stallings,Jacob,Stallings,25,1989-12-22,35,Lawrence,USA,"6' 5""",225,True,Catcher,C,M,Daniel,Stallings,Right,Right,3.31,1.57
+677955,Jaden Hill,Kenneth,Hill,0,1999-12-22,25,Ashdown,USA,"6' 4""",234,True,Pitcher,P,M,Jaden,"Hill, J",Right,Right,3.49,1.6
+656234,Jake Bird,Jacob,Bird,59,1995-12-04,29,Newhall,USA,"6' 3""",200,True,Pitcher,P,M,Timothy,Bird,Right,Right,3.49,1.601
+676105,Jeff Criswell,Jeffrey,Criswell,46,1999-03-10,25,Portage,USA,"6' 4""",225,True,Pitcher,P,M,Kelley,"Criswell, J",Right,Right,3.549,1.627
+623474,Jimmy Herget,Jimmy,Herget,N/A,1993-09-09,31,Tampa,USA,"6' 3""",170,True,Pitcher,P,M,Matthew,Herget,Right,Right,3.49,1.601
+687597,Jordan Beck,Jordan,Beck,27,2001-04-19,23,Hazel Green,USA,"6' 2""",225,True,Outfielder,LF,M,Alexander,Beck,Right,Right,3.53,1.71
+675848,Juan Mejia,Juan,Mejia,55,2000-07-04,24,Santo Domingo,Dominican Republic,"6' 3""",200,True,Pitcher,P,M,Manuel,"Mejia, J",Right,Right,3.49,1.601
+664875,Justin Lawrence,Justin,Lawrence,61,1994-11-25,30,N/A,Panama Canal Zone,"6' 3""",213,True,Pitcher,P,M,Anthony,"Lawrence, J",Right,Right,3.49,1.601
+592178,Kris Bryant,Kristopher,Bryant,23,1992-01-04,33,Las Vegas,USA,"6' 5""",230,True,Outfielder,RF,M,Lee,Bryant,Right,Right,3.33,1.68
+571657,Kyle Farmer,James,Farmer,52,1990-08-17,34,Atlanta,USA,"6' 0""",205,True,Second Base,2B,M,Kyle,"Farmer, K",Right,Right,3.32,1.57
+607536,Kyle Freeland,Kyle,Freeland,21,1993-05-14,31,Denver,USA,"6' 4""",204,True,Pitcher,P,M,Richard,Freeland,Left,Left,3.5,1.66
+656458,Lucas Gilbreath,Lucas,Gilbreath,58,1996-03-05,28,Westminster,USA,"6' 1""",185,True,Pitcher,P,M,N/A,Gilbreath,Left,Left,3.411,1.565
+678821,Luis Peralta,Luis,Peralta,41,2001-01-06,23,Moca,Dominican Republic,"5' 11""",170,True,Pitcher,P,M,David,"Peralta, L",Left,Left,3.319,1.513
+669911,Michael Toglia,Michael,Toglia,4,1998-08-16,26,Phoenix,USA,"6' 5""",226,True,First Base,1B,M,Anthony,Toglia,Switch,Left,3.68,1.78
+666134,Nolan Jones,Nolan,Jones,22,1998-05-07,26,Langhorne,USA,"6' 4""",195,True,Outfielder,LF,M,Allen,"Jones, N",Left,Right,3.68,1.76
+663372,Ryan Feltner,Ryan,Feltner,18,1996-09-02,28,Orlando,USA,"6' 4""",190,True,Pitcher,P,M,Donald,Feltner,Right,Right,3.549,1.627
+641857,Ryan McMahon,Ryan,McMahon,24,1994-12-14,30,Yorba Linda,USA,"6' 2""",219,True,Third Base,3B,M,Patrick,McMahon,Left,Right,3.44,1.6
+656541,Sam Hilliard,Samuel,Hilliard,16,1994-02-21,30,Mansfield,USA,"6' 4""",236,True,Outfielder,LF,M,Beauman,Hilliard,Left,Left,3.63,1.73
+656248,Sean Bouchard,Sean,Bouchard,12,1996-05-16,28,San Diego,USA,"6' 3""",215,True,Outfielder,RF,M,Walter Bernard,Bouchard,Right,Right,3.51,1.65
+678020,Seth Halvorsen,Seth,Halvorsen,54,2000-02-18,24,Chicago,USA,"6' 2""",225,True,Pitcher,P,M,Michael,Halvorsen,Right,Right,3.467,1.589
+685299,Tanner Gordon,Tanner,Gordon,29,1997-10-26,27,Champaign,USA,"6' 5""",215,True,Pitcher,P,M,Robert,Gordon,Left,Right,3.575,1.681
+641755,Tyler Kinley,Tyler,Kinley,40,1991-01-31,33,Plantation,USA,"6' 4""",220,True,Pitcher,P,M,Harrison,Kinley,Right,Right,3.549,1.627
+680767,Victor Vodnik,Victor,Vodnik,38,1999-10-09,25,Whittier,USA,"6' 0""",200,True,Pitcher,P,M,Francisco,Vodnik,Right,Right,3.371,1.535
+692585,Yanquiel Fernandez,Yanquiel,Fernandez,82,2003-01-01,22,Havana,Cuba,"6' 2""",198,True,Outfielder,RF,M,N/A,Fernandez,Left,Left,3.467,1.589
+691728,Zac Veen,Zachary,Veen,N/A,2001-12-12,23,Port Orange,USA,"6' 3""",190,True,Outfielder,RF,M,Richard,Veen,Left,Right,3.49,1.601
+502171,Alex Cobb,Alexander,Cobb,38,1987-10-07,37,Boston,USA,"6' 3""",205,True,Pitcher,P,M,Miller,Cobb,Right,Right,3.49,1.601
+656412,Alex Faedo,Alexander,Faedo,49,1995-11-12,29,Tampa,USA,"6' 5""",225,True,Pitcher,P,M,Michael,Faedo,Right,Right,3.575,1.681
+656638,Alex Lange,Alexander,Lange,55,1995-10-02,29,Riverside,USA,"6' 3""",202,True,Pitcher,P,M,Craig,Lange,Right,Right,3.49,1.601
+628451,Andy Ibáñez,Andy,Ibáñez,77,1993-04-03,31,Havana,Cuba,"5' 10""",205,True,Second Base,2B,M,N/A,Ibáñez,Right,Right,3.14,1.49
+690544,Bailey Horn,Bailey,Horn,N/A,1998-01-15,26,Waco,USA,"6' 2""",210,True,Pitcher,P,M,Christian Tant,Horn,Left,Left,3.467,1.589
+689225,Beau Brieske,Beau,Brieske,4,1998-04-04,26,Chandler,USA,"6' 3""",200,True,Pitcher,P,M,Conner,Brieske,Right,Right,3.49,1.601
+676428,Brant Hurter,Brant,Hurter,48,1998-09-06,26,Canton,USA,"6' 6""",250,True,Pitcher,P,M,Harris,Hurter,Left,Left,3.656,1.677
+669724,Brenan Hanifee,Brenan,Hanifee,75,1998-05-29,26,Harrisonburg,USA,"6' 5""",215,True,Pitcher,P,M,N/A,Hanifee,Right,Right,3.575,1.681
+663554,Casey Mize,Casey,Mize,12,1997-05-01,27,Springville,USA,"6' 3""",212,True,Pitcher,P,M,A.,Mize,Right,Right,3.49,1.601
+695445,Chase Lee,Chase,Lee,65,1998-08-13,26,Birmingham,USA,"6' 0""",170,True,Pitcher,P,M,Alexander,Lee,Right,Right,3.371,1.535
+690993,Colt Keith,Colten,Keith,33,2001-08-14,23,Zanesville,USA,"6' 2""",211,True,Second Base,2B,M,Thomas,"Keith, C",Left,Right,3.29,1.6
+693307,Dillon Dingler,Francis,Dingler,13,1998-09-17,26,Massillon,USA,"6' 2""",210,True,Catcher,C,M,Dillon,Dingler,Right,Right,3.52,1.61
+650402,Gleyber Torres,Gleyber,Torres,25,1996-12-13,28,Caracas,Venezuela,"6' 1""",205,True,Second Base,2B,M,David,Torres,Right,Right,3.21,1.54
+690291,Jace Jung,Jace,Jung,17,2000-10-04,24,San Antonio,USA,"6' 0""",205,True,Third Base,3B,M,Andrew,Jung,Left,Right,3.27,1.53
+695549,Jackson Jobe,Jackson,Jobe,21,2002-07-30,22,Irving,USA,"6' 2""",190,True,Pitcher,P,M,William,Jobe,Right,Right,3.467,1.589
+668670,Jake Rogers,Jacob,Rogers,34,1995-04-18,29,Canyon,USA,"6' 1""",201,True,Catcher,C,M,Ray,Rogers,Right,Right,3.31,1.52
+671345,Jason Foley,Jason,Foley,68,1995-11-01,29,Manhasset,USA,"6' 4""",215,True,Pitcher,P,M,Joseph,Foley,Right,Right,3.549,1.627
+595879,Javier Báez,Ednel,Báez,28,1992-12-01,32,Bayamon,Puerto Rico,"6' 0""",190,True,Shortstop,SS,M,Javier,"Báez, J",Right,Right,3.49,1.65
+669234,Justyn-Henry Malloy,Justyn-Henry,Malloy,44,2000-02-19,24,New York,USA,"6' 1""",212,True,Outfielder,LF,M,Conrad,Malloy,Right,Right,3.45,1.68
+672456,Keider Montero,Keider,Montero,54,2000-07-06,24,Santa Teresa del Tuy,Venezuela,"6' 1""",145,True,Pitcher,P,M,Eduardo,"Montero, K",Right,Right,3.411,1.565
+628317,Kenta Maeda,Kenta,Maeda,18,1988-04-11,36,Osaka,Japan,"6' 1""",185,True,Pitcher,P,M,N/A,Maeda,Right,Right,3.411,1.565
+681481,Kerry Carpenter,Kerry,Carpenter,30,1997-09-02,27,Eustis,USA,"6' 2""",220,True,Outfielder,RF,M,William,"Carpenter, K",Left,Right,3.29,1.6
+669438,Mason Englert,Mason,Englert,53,1999-11-01,25,Forney,USA,"6' 4""",206,True,Pitcher,P,M,Alexander,Englert,Switch,Right,3.549,1.627
+666159,Matt Manning,Matthew,Manning,15,1998-01-28,26,Sacramento,USA,"6' 6""",195,True,Pitcher,P,M,George,Manning,Right,Right,3.656,1.677
+663837,Matt Vierling,Matthew,Vierling,8,1996-09-16,28,St. Louis,USA,"6' 3""",205,True,Outfielder,CF,M,Gregory,Vierling,Right,Right,3.45,1.69
+678009,Parker Meadows,Parker,Meadows,22,1999-11-02,25,Atlanta,USA,"6' 5""",205,True,Outfielder,CF,M,N/A,"Meadows, P",Left,Right,3.41,1.6
+681857,Reese Olson,William,Olson,45,1999-07-31,25,Gainesville,USA,"6' 1""",160,True,Pitcher,P,M,Reese,Olson,Right,Right,3.411,1.565
+682985,Riley Greene,Riley,Greene,31,2000-09-28,24,Orlando,USA,"6' 3""",200,True,Outfielder,LF,M,Alan,"Greene, R",Left,Left,3.39,1.63
+668952,Ryan Kreidler,Ryan,Kreidler,32,1997-11-12,27,Davis,USA,"6' 4""",208,True,Shortstop,SS,M,Michael,Kreidler,Right,Right,3.42,1.56
+687830,Sawyer Gipson-Long,Alec,Gipson-Long,66,1997-12-12,27,Lithia Springs,USA,"6' 4""",225,True,Pitcher,P,M,Sawyer,Gipson-Long,Right,Right,3.549,1.627
+674944,Sean Guenther,Sean,Guenther,73,1995-12-29,29,Atlanta,USA,"5' 11""",194,True,Pitcher,P,M,McManus,Guenther,Left,Left,3.319,1.513
+679529,Spencer Torkelson,Spencer,Torkelson,20,1999-08-26,25,Petaluma,USA,"6' 0""",220,True,First Base,1B,M,Enochs,Torkelson,Right,Right,3.44,1.58
+669373,Tarik Skubal,Tarik,Skubal,29,1996-11-20,28,Hayward,USA,"6' 3""",240,True,Pitcher,P,M,Daniel,Skubal,Right,Left,3.49,1.601
+700242,Trey Sweeney,Trey,Sweeney,27,2000-04-24,24,Louisville,USA,"6' 3""",212,True,Shortstop,SS,M,Thomas,Sweeney,Left,Right,3.62,1.68
+680744,Ty Madden,Tyler,Madden,36,2000-02-21,24,Houston,USA,"6' 3""",215,True,Pitcher,P,M,Dylan,Madden,Right,Right,3.49,1.601
+663947,Tyler Holton,Weston,Holton,87,1996-06-13,28,Tallahassee,USA,"6' 2""",200,True,Pitcher,P,M,Tyler,Holton,Left,Left,3.467,1.589
+694331,Tyler Mattison,Tyler,Mattison,59,1999-09-05,25,Fort Ann,USA,"6' 4""",235,True,Pitcher,P,M,James,Mattison,Right,Right,3.549,1.627
+687074,Tyler Owens,Tyler,Owens,62,2001-01-09,23,Ocala,USA,"5' 10""",185,True,Pitcher,P,M,David,Owens,Right,Right,3.301,1.504
+672761,Wenceel Pérez,Wenceel,Pérez,46,1999-10-30,25,Azua,Dominican Republic,"5' 10""",203,True,Outfielder,RF,M,Xavier,"Pérez, W",Switch,Right,3.14,1.47
+676684,Will Vest,William,Vest,19,1995-06-06,29,Houston,USA,"6' 0""",180,True,Pitcher,P,M,Lane,Vest,Right,Right,3.371,1.535
+656716,Zach McKinstry,Zachary,McKinstry,39,1995-04-29,29,Toledo,USA,"6' 0""",180,True,Shortstop,SS,M,N/A,McKinstry,Left,Right,3.19,1.53
+656986,Bennett Sousa,John,Sousa,62,1995-04-06,29,North Palm Beach,USA,"6' 3""",220,True,Pitcher,P,M,Bennett,Sousa,Left,Left,3.49,1.601
+650556,Bryan Abreu,Bryan,Abreu,52,1997-04-22,27,Santo Domingo Centro,Dominican Republic,"6' 1""",230,True,Pitcher,P,M,Enrique,"Abreu, B",Right,Right,3.411,1.565
+687911,Bryan King,Bryan,King,74,1996-11-05,28,Littleton,USA,"6' 1""",205,True,Pitcher,P,M,Dalton,"King, B",Right,Left,3.411,1.565
+663967,César Salazar,César,Salazar,18,1996-03-15,28,Hermosillo,Mexico,"5' 8""",198,True,Catcher,C,M,N/A,Salazar,Left,Right,3.22,1.48
+676801,Chas McCormick,Chas,McCormick,20,1995-04-19,29,West Chester,USA,"6' 0""",208,True,Outfielder,LF,M,Kane,McCormick,Right,Left,3.26,1.57
+572233,Christian Walker,Christian,Walker,13,1991-03-28,33,Norristown,USA,"6' 0""",208,True,First Base,1B,M,Dickson,"Walker, C",Right,Right,3.42,1.53
+676467,Colton Gordon,Colton,Gordon,N/A,1998-12-20,26,St. Petersburg,USA,"6' 4""",225,True,Pitcher,P,M,Zimring,Gordon,Left,Left,3.549,1.627
+669450,Cooper Hummel,Cooper,Hummel,13,1994-11-28,30,Portland,USA,"5' 9""",198,True,Outfielder,LF,M,Everett,Hummel,Switch,Right,3.21,1.45
+664299,Cristian Javier,Cristian,Javier,53,1997-03-26,27,Santo Domingo,Dominican Republic,"6' 1""",210,True,Pitcher,P,M,N/A,Javier,Right,Right,3.411,1.565
+666215,Forrest Whitley,Charles,Whitley,60,1997-09-15,27,San Antonio,USA,"6' 7""",208,True,Pitcher,P,M,Forrest,Whitley,Right,Right,3.756,1.746
+664285,Framber Valdez,Framber,Valdez,59,1993-11-19,31,Palenque,Dominican Republic,"5' 11""",230,True,Pitcher,P,M,N/A,"Valdez, F",Right,Left,3.32,1.51
+669713,Hayden Wesneski,Hayden,Wesneski,N/A,1997-12-05,27,Houston,USA,"6' 3""",210,True,Pitcher,P,M,Gregory,Wesneski,Right,Right,3.49,1.601
+686613,Hunter Brown,Hunter,Brown,58,1998-08-29,26,Detroit,USA,"6' 2""",220,True,Pitcher,P,M,Noah,"Brown, H",Right,Right,3.467,1.589
+670623,Isaac Paredes,Isaac,Paredes,19,1999-02-18,25,Hermosillo,Mexico,"5' 11""",213,True,Third Base,3B,M,Edgardo,Paredes,Right,Right,3.27,1.58
+641585,J.P. France,Jonathan,France,68,1995-04-04,29,New Orleans,USA,"6' 0""",198,True,Pitcher,P,M,Patrick,"France, J",Right,Right,3.371,1.535
+676694,Jake Meyers,Jacob,Meyers,6,1996-06-18,28,Omaha,USA,"6' 0""",200,True,Outfielder,CF,M,Berkshire,Meyers,Right,Left,3.31,1.56
+665161,Jeremy Peña,Jeremy,Peña,3,1997-09-22,27,Santo Domingo,Dominican Republic,"6' 0""",202,True,Shortstop,SS,M,Joan,Peña,Right,Right,3.57,1.73
+572138,Jon Singleton,Jonathan,Singleton,28,1991-09-18,33,Harbor City,USA,"6' 0""",256,True,First Base,1B,M,L.,Singleton,Left,Left,3.27,1.59
+514888,Jose Altuve,Jose,Altuve,27,1990-05-06,34,Maracay,Venezuela,"5' 6""",167,True,Second Base,2B,M,Carlos,Altuve,Right,Right,2.89,1.3
+623352,Josh Hader,Josh,Hader,71,1994-04-07,30,Millersville,USA,"6' 3""",188,True,Pitcher,P,M,Ronald,Hader,Left,Left,3.49,1.601
+672391,Kaleb Ort,Kaleb,Ort,63,1992-02-05,32,Grand Rapids,USA,"6' 4""",248,True,Pitcher,P,M,James,Ort,Right,Right,3.549,1.627
+685744,Kenedy Corona,Kenedy,Corona,89,2000-03-21,24,Maracaibo,Venezuela,"5' 10""",189,True,Outfielder,CF,M,Junior,Corona,Right,Right,3.301,1.504
+621121,Lance McCullers Jr.,Lance,McCullers,43,1993-10-02,31,Tampa,USA,"6' 1""",200,True,Pitcher,P,M,G.,McCullers Jr.,Left,Right,3.411,1.565
+664351,Luis Contreras,Luis,Contreras,73,1996-04-29,28,Maracaibo,Venezuela,"6' 1""",175,True,Pitcher,P,M,Eduardo,"Contreras, L",Right,Right,3.411,1.565
+677651,Luis Garcia,Luis,Garcia,77,1996-12-13,28,Bolivar,Venezuela,"6' 1""",248,True,Pitcher,P,M,Heibardo,"Garcia, L",Right,Right,3.411,1.565
+643289,Mauricio Dubón,Mauricio,Dubón,14,1994-07-19,30,San Pedro Sula,Honduras,"6' 0""",173,True,Outfielder,LF,M,Andre,Dubón,Right,Right,3.31,1.57
+663321,Nick Hernandez,Nick,Hernandez,72,1994-12-30,30,Missouri City,USA,"6' 1""",212,True,Pitcher,P,M,Cody,"Hernandez, N",Right,Right,3.411,1.565
+694175,Pedro León,Pedro,León,4,1998-05-28,26,Havana,Cuba,"5' 9""",170,True,Outfielder,RF,M,Manuel,León,Right,Right,3.285,1.487
+669854,Ronel Blanco,Ronel,Blanco,56,1993-08-31,31,Santiago,Dominican Republic,"6' 3""",265,True,Pitcher,P,M,De Jesus,Blanco,Right,Right,3.49,1.601
+687473,Ryan Gusto,Ryan,Gusto,67,1999-03-11,25,Santa Rosa,USA,"6' 4""",232,True,Pitcher,P,M,Cole,Gusto,Right,Right,3.549,1.627
+519151,Ryan Pressly,Thomas,Pressly,55,1988-12-15,36,Dallas,USA,"6' 2""",207,True,Pitcher,P,M,Ryan,Pressly,Right,Right,3.467,1.589
+681869,Shawn Dubin,Shawn,Dubin,66,1995-09-06,29,Allegany,USA,"6' 0""",164,True,Pitcher,P,M,Anthony,Dubin,Right,Right,3.371,1.535
+694376,Shay Whitcomb,Shay,Whitcomb,10,1998-09-28,26,Thousand Oaks,USA,"6' 0""",202,True,Shortstop,SS,M,Lane,Whitcomb,Right,Right,3.24,1.56
+681293,Spencer Arrighetti,Spencer,Arrighetti,41,2000-01-02,25,Albuquerque,USA,"6' 2""",186,True,Pitcher,P,M,Zane,Arrighetti,Right,Right,3.467,1.589
+605463,Tayler Scott,Tayler,Scott,54,1992-06-01,32,Johannesburg,South Africa,"6' 3""",185,True,Pitcher,P,M,James,"Scott, Tay",Right,Right,3.49,1.601
+666211,Taylor Trammell,Taylor,Trammell,N/A,1997-09-13,27,Powder Springs,USA,"6' 2""",220,True,Outfielder,LF,M,Walter-Lee,Trammell,Left,Left,3.63,1.72
+605170,Victor Caratini,Victor,Caratini,17,1993-08-17,31,Ponce,Puerto Rico,"5' 11""",225,True,Catcher,C,M,Manuel,Caratini,Switch,Right,3.32,1.57
+673237,Yainer Diaz,Yainer,Diaz,21,1998-09-21,26,Azua,Dominican Republic,"6' 0""",195,True,Catcher,C,M,Radhames,"Diaz, Ya",Right,Right,3.17,1.49
+670541,Yordan Alvarez,Yordan,Alvarez,44,1997-06-27,27,Las Tunas,Cuba,"6' 5""",237,True,Outfielder,LF,M,Ruben,"Alvarez, Y",Left,Right,3.54,1.71
+701305,Zach Dezenzo,Zachary,Dezenzo,9,2000-05-11,24,Canton,USA,"6' 5""",220,True,First Base,1B,M,N/A,Dezenzo,Right,Right,3.43,1.65
+679525,Alec Marsh,Alec,Marsh,48,1998-05-14,26,Milwaukee,USA,"6' 2""",220,True,Pitcher,P,M,Tylar Michael,Marsh,Right,Right,3.467,1.589
+672582,Angel Zerpa,Angel,Zerpa,61,1999-09-27,25,Valle de la Pascua,Venezuela,"6' 0""",220,True,Pitcher,P,M,David,Zerpa,Left,Left,3.371,1.535
+677951,Bobby Witt Jr.,Robert,Witt,7,2000-06-14,24,Colleyville,USA,"6' 1""",200,True,Shortstop,SS,M,Andrew,Witt Jr.,Right,Right,3.47,1.61
+672578,Carlos Hernández,Carlos,Hernández,43,1997-03-11,27,Guayana,Venezuela,"6' 4""",255,True,Pitcher,P,M,Eduardo,"Hernández, C",Right,Right,3.549,1.627
+608717,Chris Stratton,Christopher,Stratton,35,1990-08-22,34,Tupelo,USA,"6' 2""",205,True,Pitcher,P,M,Lee,"Stratton, C",Right,Right,3.467,1.589
+666142,Cole Ragans,Cole,Ragans,55,1997-12-12,27,Crawfordville,USA,"6' 4""",190,True,Pitcher,P,M,Gatlin,Ragans,Left,Left,3.549,1.627
+680118,Dairon Blanco,Dairon,Blanco,44,1993-04-26,31,Florida,Cuba,"5' 11""",200,True,Outfielder,LF,M,N/A,Blanco,Right,Right,3.48,1.65
+663738,Daniel Lynch IV,Daniel,Lynch,41,1996-11-17,28,Richmond,USA,"6' 6""",200,True,Pitcher,P,M,A.,Lynch IV,Left,Left,3.656,1.677
+671221,Drew Waters,Andrew,Waters,8,1998-12-30,26,Atlanta,USA,"6' 1""",185,True,Outfielder,RF,M,David,Waters,Switch,Right,3.49,1.66
+672021,Eric Cerantola,Eric,Cerantola,N/A,2000-05-02,24,Montreal,Canada,"6' 5""",225,True,Pitcher,P,M,N/A,Cerantola,Right,Right,3.575,1.681
+681895,Evan Sisk,Samuel,Sisk,N/A,1997-04-23,27,Chester,USA,"6' 2""",209,True,Pitcher,P,M,Evan,Sisk,Left,Left,3.467,1.589
+666023,Freddy Fermin,Freddy,Fermin,34,1995-05-16,29,Puerto Ordaz,Venezuela,"5' 9""",200,True,Catcher,C,M,Antonio,Fermin,Right,Right,3.16,1.52
+640451,Hunter Harvey,Hunter,Harvey,56,1994-12-09,30,Catawba,USA,"6' 3""",233,True,Pitcher,P,M,Luke,"Harvey, H",Right,Right,3.49,1.601
+592669,Hunter Renfroe,Dustin,Renfroe,16,1992-01-28,32,Crystal Springs,USA,"6' 1""",230,True,Outfielder,RF,M,Hunter,Renfroe,Right,Right,3.41,1.63
+663704,James McArthur,James,McArthur,66,1996-12-11,28,New Braunfels,USA,"6' 7""",230,True,Pitcher,P,M,L.,McArthur,Right,Right,3.756,1.746
+686894,Joey Wiemer,Joseph,Wiemer,22,1999-02-11,25,Sylvania,USA,"6' 4""",226,True,Outfielder,LF,M,Daryl,Wiemer,Right,Right,3.33,1.55
+670167,John Schreiber,John,Schreiber,46,1994-03-05,30,Wyandotte,USA,"6' 2""",224,True,Pitcher,P,M,Robert,Schreiber,Right,Right,3.467,1.589
+680742,Jonathan Bowlan,Jonathan,Bowlan,62,1996-12-01,28,Arlington,USA,"6' 6""",240,True,Pitcher,P,M,N/A,Bowlan,Right,Right,3.656,1.677
+663697,Jonathan India,Jonathan,India,6,1996-12-15,28,Ft. Lauderdale,USA,"6' 0""",200,True,Second Base,2B,M,Joseph,India,Right,Right,3.26,1.52
+663460,Kris Bubic,Kristofer,Bubic,50,1997-08-19,27,Cupertino,USA,"6' 3""",225,True,Pitcher,P,M,N/A,Bubic,Left,Left,3.49,1.601
+664728,Kyle Isbel,Kyle,Isbel,28,1997-03-03,27,Fontana,USA,"5' 11""",190,True,Outfielder,CF,M,Grant,Isbel,Left,Right,3.39,1.6
+657140,Kyle Wright,Kyle,Wright,30,1995-10-02,29,Huntsville,USA,"6' 4""",215,True,Pitcher,P,M,Hardy,Wright,Right,Right,3.549,1.627
+668674,Lucas Erceg,Lucas,Erceg,60,1995-05-01,29,San Jose,USA,"6' 2""",214,True,Pitcher,P,M,Stijepan,Erceg,Left,Right,3.467,1.589
+679883,Luinder Avila,Luinder,Avila,N/A,2001-08-21,23,Caracas,Venezuela,"6' 3""",195,True,Pitcher,P,M,Gabriel,Avila,Right,Right,3.49,1.601
+669004,MJ Melendez,Mervyl,Melendez,1,1998-11-29,26,Daytona Beach,USA,"6' 1""",190,True,Outfielder,LF,M,S.,Melendez,Left,Right,3.32,1.59
+672580,Maikel Garcia,Maikel,Garcia,11,2000-03-03,24,La Sabana,Venezuela,"6' 0""",180,True,Third Base,3B,M,Jose,"Garcia, M",Right,Right,3.6,1.7
+686681,Michael Massey,Michael,Massey,19,1998-03-22,26,Palos Park,USA,"6' 0""",195,True,Second Base,2B,M,N/A,Massey,Left,Right,3.35,1.58
+608379,Michael Wacha,Michael,Wacha,52,1991-07-01,33,Iowa City,USA,"6' 6""",215,True,Pitcher,P,M,Joseph,Wacha,Right,Right,3.656,1.677
+676369,Nelson Velázquez,Nelson,Velázquez,17,1998-12-26,26,Carolina,Puerto Rico,"6' 0""",190,True,Outfielder,RF,M,Javier,Velázquez,Right,Right,3.51,1.74
+679845,Nick Loftin,Nicholas,Loftin,12,1998-09-25,26,Corpus Christi,USA,"6' 0""",180,True,Second Base,2B,M,James,Loftin,Right,Right,3.44,1.62
+668472,Nick Pratto,Nicholas,Pratto,32,1998-10-06,26,Huntington Beach,USA,"6' 1""",225,True,First Base,1B,M,Michael,Pratto,Left,Left,3.39,1.62
+702070,Noah Cameron,Noah,Cameron,N/A,1999-07-17,25,St. Joseph,USA,"6' 3""",220,True,Pitcher,P,M,N/A,Cameron,Left,Left,3.49,1.601
+521692,Salvador Perez,Salvador,Perez,13,1990-05-10,34,Valencia,Venezuela,"6' 3""",255,True,Catcher,C,M,Johan,"Perez, S",Right,Right,3.63,1.68
+669674,Sam Long,Samuel,Long,73,1995-07-08,29,Fair Oaks,USA,"6' 1""",185,True,Pitcher,P,M,Trenton,Long,Left,Left,3.411,1.565
+607625,Seth Lugo,Jacob,Lugo,67,1989-11-17,35,Shreveport,USA,"6' 4""",225,True,Pitcher,P,M,Seth,"Lugo, S",Right,Right,3.549,1.627
+674444,Steven Cruz,Steven,Cruz,64,1999-06-15,25,Tenares,Dominican Republic,"6' 7""",225,True,Pitcher,P,M,Adalberto,Cruz,Right,Right,3.756,1.746
+694355,Tyler Gentry,Tyler,Gentry,27,1999-02-01,25,Memphis,USA,"6' 1""",210,True,Outfielder,RF,M,Jackson,Gentry,Right,Right,3.411,1.565
+686469,Vinnie Pasquantino,Vincent,Pasquantino,9,1997-10-10,27,Richmond,USA,"6' 4""",245,True,First Base,1B,M,Joseph,Pasquantino,Left,Left,3.43,1.65
+681911,Alex Vesia,Alexander,Vesia,51,1996-04-11,28,Alpine,USA,"6' 1""",209,True,Pitcher,P,M,Victor,Vesia,Left,Left,3.411,1.565
+681624,Andy Pages,Andy,Pages,44,2000-12-08,24,Havana,Cuba,"6' 0""",212,True,Outfielder,CF,M,N/A,"Pages, A",Right,Right,3.52,1.64
+607455,Anthony Banda,Frank,Banda,43,1993-08-10,31,Corpus Christi,USA,"6' 2""",221,True,Pitcher,P,M,Anthony,Banda,Left,Left,3.467,1.589
+605131,Austin Barnes,Austin,Barnes,15,1989-12-28,35,Riverside,USA,"5' 10""",187,True,Catcher,C,M,Scott,"Barnes, A",Right,Right,3.21,1.46
+676508,Ben Casparius,Benjamin,Casparius,78,1999-02-11,25,Westport,USA,"6' 2""",215,True,Pitcher,P,M,Keith,Casparius,Right,Right,3.467,1.589
+605483,Blake Snell,Blake,Snell,7,1992-12-04,32,Seattle,USA,"6' 4""",225,True,Pitcher,P,M,Ashton,Snell,Left,Left,3.77,1.74
+595014,Blake Treinen,Blake,Treinen,49,1988-06-30,36,Wichita,USA,"6' 5""",225,True,Pitcher,P,M,M.,Treinen,Right,Right,3.575,1.681
+676272,Bobby Miller,Robert,Miller,28,1999-04-05,25,Elk Grove Village,USA,"6' 5""",220,True,Pitcher,P,M,Anthony,"Miller, Bo",Left,Right,3.575,1.681
+660813,Brusdar Graterol,Brusdar,Graterol,48,1998-08-26,26,Calabozo,Venezuela,"6' 1""",265,True,Pitcher,P,M,Javier,Graterol,Right,Right,3.411,1.565
+621035,Chris Taylor,Christopher,Taylor,3,1990-08-29,34,Virginia Beach,USA,"6' 1""",196,True,Outfielder,LF,M,Armand,"Taylor, Ch",Right,Right,3.58,1.7
+669160,Dustin May,Dustin,May,85,1997-09-06,27,Justin,USA,"6' 6""",180,True,Pitcher,P,M,Jake,May,Right,Right,3.656,1.677
+683618,Edgardo Henriquez,Edgardo,Henriquez,60,2002-06-24,22,Cumana,Venezuela,"6' 4""",200,True,Pitcher,P,M,Luis,"Henriquez, E",Right,Right,3.549,1.627
+686218,Emmet Sheehan,George,Sheehan,80,1999-11-15,25,New York,USA,"6' 5""",220,True,Pitcher,P,M,Emmet,Sheehan,Right,Right,3.575,1.681
+623465,Evan Phillips,Evan,Phillips,59,1994-09-11,30,Salisbury,USA,"6' 2""",215,True,Pitcher,P,M,John,"Phillips, E",Right,Right,3.467,1.589
+518692,Freddie Freeman,Frederick,Freeman,5,1989-09-12,35,Villa Park,USA,"6' 5""",220,True,First Base,1B,M,Charles,"Freeman, F",Left,Right,3.62,1.83
+666158,Gavin Lux,Gavin,Lux,9,1997-11-23,27,Kenosha,USA,"6' 2""",190,True,Second Base,2B,M,Thomas,Lux,Left,Right,3.26,1.59
+694813,Gavin Stone,Gavin,Stone,35,1998-10-15,26,Lake City,USA,"6' 1""",175,True,Pitcher,P,M,Blaine,Stone,Right,Right,3.411,1.565
+676439,Hunter Feduccia,Hunter,Feduccia,67,1997-06-05,27,Lake Charles,USA,"6' 1""",215,True,Catcher,C,M,N/A,Feduccia,Left,Right,3.411,1.565
+808975,Hyeseong Kim,Hyeseong,Kim,N/A,1999-01-27,25,"Goyang, Gyeonggi",Republic of Korea,"5' 10""",176,True,Second Base,2B,M,N/A,Kim,Left,Right,3.301,1.504
+676263,Jack Dreyer,Jacob,Dreyer,N/A,1999-02-27,25,Salt Lake City,USA,"6' 2""",205,True,Pitcher,P,M,Andrew,Dreyer,Right,Left,3.467,1.589
+681546,James Outman,James,Outman,33,1997-05-14,27,Redwood City,USA,"6' 2""",215,True,Outfielder,CF,M,N/A,Outman,Left,Right,3.44,1.59
+680736,Justin Wrobleski,Justin,Wrobleski,70,2000-07-14,24,Hoffman Estates,USA,"6' 1""",194,True,Pitcher,P,M,Michael,Wrobleski,Left,Left,3.411,1.565
+669165,Kyle Hurt,Kyle,Hurt,63,1998-05-30,26,Rancho Santa Fe,USA,"6' 3""",240,True,Pitcher,P,M,Dillon,Hurt,Right,Right,3.49,1.601
+689017,Landon Knack,Landon,Knack,96,1997-07-15,27,Johnson City,USA,"6' 2""",220,True,Pitcher,P,M,Dakota,Knack,Left,Right,3.467,1.589
+571970,Max Muncy,Maxwell,Muncy,13,1990-08-25,34,Midland,USA,"6' 0""",215,True,Third Base,3B,M,Steven,Muncy,Left,Right,3.01,1.51
+624424,Michael Conforto,Michael,Conforto,30,1993-03-01,31,Seattle,USA,"6' 1""",215,True,Outfielder,LF,M,Thomas,Conforto,Left,Right,3.4,1.62
+675627,Michael Grove,Michael,Grove,29,1996-12-18,28,Wheeling,USA,"6' 3""",200,True,Pitcher,P,M,Alexander,Grove,Right,Right,3.49,1.601
+656629,Michael Kopech,Michael,Kopech,45,1996-04-30,28,Longview,USA,"6' 3""",220,True,Pitcher,P,M,Talbert,Kopech,Right,Right,3.49,1.601
+500743,Miguel Rojas,Miguel,Rojas,11,1989-02-24,35,Los Teques,Venezuela,"6' 0""",188,True,Shortstop,SS,M,Elias,"Rojas, M",Right,Right,3.13,1.53
+605141,Mookie Betts,Markus,Betts,50,1992-10-07,32,Nashville,USA,"5' 9""",180,True,Shortstop,SS,M,Lynn,Betts,Right,Right,3.14,1.46
+693308,Nick Frasso,Nicholas,Frasso,79,1998-10-18,26,Torrance,USA,"6' 5""",200,True,Pitcher,P,M,Paul,Frasso,Right,Right,3.575,1.681
+689981,River Ryan,River,Ryan,77,1998-08-17,26,Charlotte,USA,"6' 2""",195,True,Pitcher,P,M,Jason,Ryan,Right,Right,3.467,1.589
+518489,Ryan Brasier,Ryan,Brasier,57,1987-08-26,37,Wichita Falls,USA,"6' 0""",223,True,Pitcher,P,M,David,Brasier,Right,Right,3.371,1.535
+660271,Shohei Ohtani,Shohei,Ohtani,17,1994-07-05,30,Oshu,Japan,"6' 4""",210,True,Two-Way Player,TWP,M,N/A,Ohtani,Left,Right,3.4,1.62
+606192,Teoscar Hernández,Teoscar,Hernández,37,1992-10-15,32,Cotui,Dominican Republic,"6' 2""",215,True,Outfielder,LF,M,Jose,"Hernández, T",Right,Right,3.47,1.63
+669242,Tommy Edman,Thomas,Edman,25,1995-05-09,29,Pontiac,USA,"5' 10""",193,True,Outfielder,CF,M,Hyunsu,Edman,Switch,Right,3.26,1.5
+664062,Tony Gonsolin,Anthony,Gonsolin,26,1994-05-14,30,Vacaville,USA,"6' 3""",205,True,Pitcher,P,M,D.,Gonsolin,Right,Right,3.49,1.601
+607192,Tyler Glasnow,Tyler,Glasnow,31,1993-08-23,31,Newhall,USA,"6' 8""",225,True,Pitcher,P,M,Allen,Glasnow,Left,Right,3.688,1.747
+669257,Will Smith,William,Smith,16,1995-03-28,29,Louisville,USA,"5' 10""",195,True,Catcher,C,M,Dills,"Smith, W.D.",Right,Right,3.26,1.51
+808967,Yoshinobu Yamamoto,Yoshinobu,Yamamoto,18,1998-08-17,26,Bizen,Japan,"5' 10""",176,True,Pitcher,P,M,N/A,Yamamoto,Right,Right,3.301,1.504
+669743,Alex Call,Alex,Call,17,1994-09-27,30,Burnsville,USA,"5' 11""",189,True,Outfielder,RF,M,M.,Call,Right,Right,3.4,1.67
+686294,Amos Willingham,Amos,Willingham,54,1998-08-21,26,Rome,USA,"6' 4""",223,True,Pitcher,P,M,Lee,Willingham,Right,Right,3.549,1.627
+665953,Andrés Chaparro,Andrés,Chaparro,19,1999-05-04,25,El Vigia,Venezuela,"5' 11""",200,True,First Base,1B,M,Alfonso,Chaparro,Right,Right,3.38,1.6
+691251,Andry Lara,Andry,Lara,72,2003-01-06,21,Coro,Venezuela,"6' 4""",180,True,Pitcher,P,M,Jose,Lara,Right,Right,3.549,1.627
+682928,CJ Abrams,Paul,Abrams,5,2000-10-03,24,Alpharetta,USA,"6' 2""",191,True,Shortstop,SS,M,Christopher,Abrams,Left,Right,3.48,1.58
+676917,Cade Cavalli,Steven,Cavalli,24,1998-08-14,26,Tulsa,USA,"6' 4""",223,True,Pitcher,P,M,Cade,Cavalli,Right,Right,3.549,1.627
+669371,Cole Henry,Jeffrey,Henry,99,1999-07-15,25,Florence,USA,"6' 4""",200,True,Pitcher,P,M,Cole,Henry,Right,Right,3.549,1.627
+687792,DJ Herz,Davidjohn,Herz,77,2001-01-04,24,Fayetteville,USA,"6' 2""",197,True,Pitcher,P,M,Patrick,Herz,Right,Left,3.467,1.589
+671117,Darren Baker,Darren,Baker,10,1999-02-11,25,Redwood City,USA,"5' 10""",167,True,Second Base,2B,M,John,Baker,Left,Right,3.301,1.504
+571882,Derek Law,Derek,Law,58,1990-09-14,34,Pittsburgh,USA,"6' 3""",225,True,Pitcher,P,M,Robert,"Law, D",Right,Right,3.49,1.601
+686452,Drew Millas,Andrew,Millas,81,1998-01-15,26,St. Louis,USA,"6' 0""",204,True,Catcher,C,M,Theodore,Millas,Switch,Right,3.52,1.65
+686611,Dylan Crews,Dylan,Crews,3,2002-02-26,22,Altamonte Springs,USA,"5' 11""",203,True,Outfielder,RF,M,Gray,Crews,Right,Right,3.15,1.41
+674285,Eduardo Salazar,Eduardo,Salazar,62,1998-05-05,26,Cumana,Venezuela,"6' 2""",177,True,Pitcher,P,M,Jose,Salazar,Right,Right,3.467,1.589
+682126,Evan Reifert,Evan,Reifert,68,1999-05-14,25,Wilton,USA,"6' 4""",190,True,Pitcher,P,M,Matthew,Reifert,Right,Right,3.549,1.627
+671131,Jackson Rutledge,Jackson,Rutledge,79,1999-04-01,25,Fenton,USA,"6' 8""",241,True,Pitcher,P,M,Christian,Rutledge,Right,Right,3.688,1.747
+696285,Jacob Young,Jacob,Young,30,1999-07-27,25,Ponte Vedra,USA,"5' 11""",192,True,Outfielder,CF,M,Samuel,Young,Right,Right,3.32,1.5
+663623,Jake Irvin,Jacob,Irvin,27,1997-02-18,27,Bloomington,USA,"6' 6""",234,True,Pitcher,P,M,David,"Irvin, J",Right,Right,3.656,1.677
+695578,James Wood,James,Wood,29,2002-09-17,22,Rockville,USA,"6' 7""",234,True,Outfielder,LF,M,Irvin,Wood,Left,Right,3.78,1.73
+672851,Joan Adon,Joan,Adon,60,1998-08-12,26,Santo Domingo,Dominican Republic,"6' 2""",247,True,Pitcher,P,M,Manuel,Adon,Right,Right,3.467,1.589
+686747,Joe La Sorsa,Joseph,La Sorsa,53,1998-04-29,26,Mount Kisco,USA,"6' 5""",232,True,Pitcher,P,M,Peter,La Sorsa,Left,Left,3.575,1.681
+678606,Jose A. Ferrer,Jose,Ferrer,47,2000-03-03,24,Maimon,Dominican Republic,"6' 1""",233,True,Pitcher,P,M,Alexander,Ferrer,Left,Left,3.411,1.565
+677588,José Tena,José,Tena,8,2001-03-20,23,San Cristobal,Dominican Republic,"5' 11""",195,True,Third Base,3B,M,Luis,Tena,Left,Right,3.36,1.59
+680686,Josiah Gray,Josiah,Gray,40,1997-12-21,27,New Rochelle,USA,"6' 1""",209,True,Pitcher,P,M,N/A,"Gray, Js",Right,Right,3.411,1.565
+660766,Juan Yepez,Juan,Yepez,18,1998-02-19,26,Caracas,Venezuela,"6' 0""",235,True,First Base,1B,M,David,Yepez,Right,Right,3.36,1.65
+660688,Keibert Ruiz,Keibert,Ruiz,20,1998-07-20,26,Valencia,Venezuela,"6' 0""",238,True,Catcher,C,M,Jose,"Ruiz, K",Switch,Right,3.27,1.51
+671277,Luis García Jr.,Luis,García,2,2000-05-16,24,New York,USA,"6' 2""",216,True,Second Base,2B,M,Victoriano,"García Jr., L",Left,Right,3.43,1.65
+669022,MacKenzie Gore,MacKenzie,Gore,1,1999-02-24,25,Wilmington,USA,"6' 2""",193,True,Pitcher,P,M,Evan,Gore,Left,Left,3.467,1.589
+666168,Mason Thompson,Mason,Thompson,71,1998-02-20,26,Round Rock,USA,"6' 6""",241,True,Pitcher,P,M,Lane,"Thompson, M",Right,Right,3.656,1.677
+647336,Michael Soroka,Michael,Soroka,34,1997-08-04,27,Calgary,Canada,"6' 5""",250,True,Pitcher,P,M,John Graydon,Soroka,Right,Right,3.575,1.681
+680730,Mitchell Parker,Mitchell,Parker,70,1999-09-27,25,Albuquerque,USA,"6' 4""",239,True,Pitcher,P,M,James,Parker,Left,Left,3.549,1.627
+683083,Nasim Nuñez,Nasim,Nuñez,26,2000-08-18,24,Bronx,USA,"5' 9""",165,True,Shortstop,SS,M,Emmanuel,Nuñez,Switch,Right,3.23,1.45
+663993,Nathaniel Lowe,David,Lowe,33,1995-07-07,29,Norfolk,USA,"6' 4""",220,True,First Base,1B,M,Nathaniel,"Lowe, N",Left,Right,3.47,1.61
+687377,Orlando Ribalta,Orlando,Ribalta,64,1998-03-05,26,Santa Clara,Cuba,"6' 7""",245,True,Pitcher,P,M,Andres,Ribalta,Right,Right,3.756,1.746
+656180,Riley Adams,Riley,Adams,15,1996-06-26,28,Encinitas,USA,"6' 4""",263,True,Catcher,C,M,Keaton,"Adams, R",Right,Right,3.34,1.63
+690987,Robert Hassell III,Robert,Hassell,57,2001-08-15,23,Franklin,USA,"6' 1""",186,True,Outfielder,CF,M,Harris,Hassell III,Left,Left,3.411,1.565
+656448,Stone Garrett,Gregory,Garrett,36,1995-11-22,29,Sugar Land,USA,"6' 1""",228,True,Outfielder,RF,M,Stone,"Garrett, S",Right,Right,3.66,1.77
+592866,Trevor Williams,Trevor,Williams,32,1992-04-25,32,San Diego,USA,"6' 3""",231,True,Pitcher,P,M,Anthony,Williams,Right,Right,3.17,1.55
+702358,Trey Lipscomb,LaVictor,Lipscomb,38,2000-06-14,24,Frederick,USA,"6' 3""",202,True,Third Base,3B,M,Antwain,Lipscomb,Right,Right,3.58,1.69
+694350,Zach Brzykcy,Zachary,Brzykcy,66,1999-07-12,25,Hickory,USA,"6' 2""",208,True,Pitcher,P,M,John-William,Brzykcy,Right,Right,3.467,1.589
+607043,Brandon Nimmo,Brandon,Nimmo,9,1993-03-27,31,Cheyenne,USA,"6' 3""",206,True,Outfielder,LF,M,Tate,Nimmo,Left,Right,3.52,1.7
+683146,Brett Baty,Brett,Baty,N/A,1999-11-13,25,Round Rock,USA,"6' 2""",210,True,Third Base,3B,M,Austin,Baty,Left,Right,3.56,1.65
+681035,Christian Scott,Christian,Scott,45,1999-06-15,25,Coconut Creek,USA,"6' 4""",215,True,Pitcher,P,M,David,Scott,Right,Right,3.549,1.627
+605280,Clay Holmes,Clayton,Holmes,35,1993-03-27,31,Dothan,USA,"6' 5""",245,True,Pitcher,P,M,Walter,"Holmes, C",Right,Right,3.575,1.681
+664849,Danny Young,Daniel,Young,81,1994-05-27,30,Boynton Beach,USA,"6' 3""",200,True,Pitcher,P,M,Alexander,"Young, D",Left,Left,3.49,1.601
+656849,David Peterson,David,Peterson,23,1995-09-03,29,Denver,USA,"6' 6""",240,True,Pitcher,P,M,John,"Peterson, D",Left,Left,3.656,1.677
+673380,Dedniel Núñez,Dedniel,Núñez,72,1996-06-05,28,Puerto Plata,Dominican Republic,"6' 2""",180,True,Pitcher,P,M,Omar,Núñez,Right,Right,3.467,1.589
+592229,Dylan Covey,Dylan,Covey,N/A,1991-08-14,33,Glendale,USA,"6' 1""",215,True,Pitcher,P,M,Charles,Covey,Right,Right,3.411,1.565
+621242,Edwin Díaz,Edwin,Díaz,39,1994-03-22,30,Naguabo,Puerto Rico,"6' 3""",165,True,Pitcher,P,M,Orlando,Díaz,Right,Right,3.49,1.601
+682626,Francisco Alvarez,Francisco,Alvarez,4,2001-11-19,23,Guatire,Venezuela,"5' 10""",233,True,Catcher,C,M,Javier,"Alvarez, F",Right,Right,3.28,1.49
+596019,Francisco Lindor,Francisco,Lindor,12,1993-11-14,31,Caguas,Puerto Rico,"5' 11""",190,True,Shortstop,SS,M,Miguel,Lindor,Switch,Right,3.31,1.55
+593423,Frankie Montas,Francelis,Montas,N/A,1993-03-21,31,Sainagua,Dominican Republic,"6' 2""",255,True,Pitcher,P,M,N/A,Montas,Right,Right,3.467,1.589
+656288,Griffin Canning,Griffin,Canning,N/A,1996-05-11,28,Mission Viejo,USA,"6' 2""",180,True,Pitcher,P,M,Alexander,Canning,Right,Right,3.467,1.589
+623211,Huascar Brazobán,Huascar,Brazobán,43,1989-10-15,35,Villa Mella,Dominican Republic,"6' 3""",155,True,Pitcher,P,M,Leandro,Brazobán,Right,Right,3.49,1.601
+676724,Jared Young,Jared,Young,N/A,1995-07-09,29,Prince George,Canada,"6' 1""",200,True,First Base,1B,M,M.,"Young, J",Left,Right,3.36,1.59
+643446,Jeff McNeil,Jeffrey,McNeil,1,1992-04-08,32,Santa Barbara,USA,"6' 1""",195,True,Second Base,2B,M,Todd,McNeil,Left,Right,3.51,1.68
+640492,José Azocar,José,Azocar,N/A,1996-05-11,28,Guiria,Venezuela,"5' 11""",181,True,Outfielder,LF,M,Enrique,Azocar,Right,Right,3.29,1.59
+676130,José Buttó,José,Buttó,70,1998-03-19,26,Cumana,Venezuela,"6' 1""",202,True,Pitcher,P,M,Alejandro,Buttó,Right,Right,3.411,1.565
+642350,Jose Siri,Jose,Siri,N/A,1995-07-22,29,Sabana Grande de Boya,Dominican Republic,"6' 2""",210,True,Outfielder,CF,M,Alexander,Siri,Right,Right,3.49,1.64
+665742,Juan Soto,Juan,Soto,22,1998-10-25,26,Santo Domingo,Dominican Republic,"6' 2""",224,True,Outfielder,RF,M,Jose,"Soto, J",Left,Left,3.11,1.55
+663795,Justin Hagenman,Justin,Hagenman,N/A,1996-10-07,28,Voorhees,USA,"6' 3""",205,True,Pitcher,P,M,Michael,Hagenman,Right,Right,3.49,1.601
+643361,Kevin Herget,Kevin,Herget,N/A,1991-04-03,33,Teaneck,USA,"5' 10""",185,True,Pitcher,P,M,R.,Herget,Left,Right,3.301,1.504
+673540,Kodai Senga,Kodai,Senga,34,1993-01-30,31,Gamagori,Japan,"6' 1""",202,True,Pitcher,P,M,N/A,Senga,Left,Right,3.411,1.565
+665782,Luis De Los Santos,Luis,De Los Santos,N/A,1998-06-09,26,Bajos de Haina,Dominican Republic,"6' 1""",160,True,Third Base,3B,M,Alberto,"De Los Santos, L",Right,Right,3.55,1.68
+620443,Luis Torrens,Luis,Torrens,13,1996-05-02,28,Valencia,Venezuela,"5' 11""",217,True,Catcher,C,M,Alfonso,Torrens,Right,Right,3.39,1.53
+682668,Luisangel Acuña,Luisangel,Acuña,2,2002-03-12,22,Caracas,Venezuela,"5' 8""",181,True,Shortstop,SS,M,Jose,Acuña,Right,Right,3.23,1.54
+668901,Mark Vientos,Mark,Vientos,27,1999-12-11,25,Norwalk,USA,"6' 4""",185,True,Third Base,3B,M,Anthony,Vientos,Right,Right,3.62,1.7
+668820,Max Kranick,Max,Kranick,32,1997-07-21,27,Scranton,USA,"6' 3""",220,True,Pitcher,P,M,Joseph,Kranick,Right,Right,3.49,1.601
+621112,Paul Blackburn,Paul,Blackburn,58,1993-12-04,31,Antioch,USA,"6' 1""",196,True,Pitcher,P,M,Cady,Blackburn,Right,Right,3.411,1.565
+657585,Reed Garrett,Reed,Garrett,75,1993-01-02,32,Henrico,USA,"6' 2""",195,True,Pitcher,P,M,N/A,"Garrett, R",Right,Right,3.467,1.589
+677595,Ronny Mauricio,Ronny,Mauricio,10,2001-04-04,23,San Pedro de Macoris,Dominican Republic,"6' 3""",166,True,Shortstop,SS,M,N/A,Mauricio,Switch,Right,3.78,1.79
+640455,Sean Manaea,Sean,Manaea,N/A,1992-02-01,32,Valparaiso,USA,"6' 5""",245,True,Pitcher,P,M,Anthony,Manaea,Right,Left,3.575,1.681
+656887,Sean Reid-Foley,Sean,Reid-Foley,71,1995-08-30,29,Agana Heights,USA,"6' 3""",230,True,Pitcher,P,M,Ian,Reid-Foley,Right,Right,3.49,1.601
+516782,Starling Marte,Starling,Marte,6,1988-10-09,36,Santo Domingo,Dominican Republic,"6' 1""",195,True,Outfielder,RF,M,Javier,"Marte, S",Right,Right,3.5,1.61
+676604,Tyler Zuber,Tyler,Zuber,54,1995-06-16,29,White Hall,USA,"5' 11""",195,True,Pitcher,P,M,N/A,Zuber,Right,Right,3.319,1.513
+656731,Tylor Megill,Tylor,Megill,38,1995-07-28,29,Long Beach,USA,"6' 7""",230,True,Pitcher,P,M,J.,Megill,Right,Right,3.59,1.7
+621438,Tyrone Taylor,Tyrone,Taylor,15,1994-01-22,30,Torrance,USA,"6' 1""",218,True,Outfielder,RF,M,Anthony,"Taylor, T",Right,Right,3.3,1.56
+687424,Anthony Maldonado,Anthony,Maldonado,N/A,1998-02-06,26,Wellington,USA,"6' 4""",220,True,Pitcher,P,M,Omar,"Maldonado, A",Right,Right,3.549,1.627
+669620,Brady Basso,Brady,Basso,66,1997-10-08,27,Pearland,USA,"6' 2""",213,True,Pitcher,P,M,Marshall,Basso,Right,Left,3.467,1.589
+667670,Brent Rooker,Terry,Rooker,25,1994-11-01,30,Germantown,USA,"6' 3""",225,True,Outfielder,LF,M,Brent,Rooker,Right,Right,3.59,1.7
+695391,Brett Harris,Brett,Harris,77,1998-06-24,26,Arlington Heights,USA,"6' 2""",208,True,Third Base,3B,M,Steven,"Harris, B",Right,Right,3.39,1.53
+680769,CJ Alexander,Charles,Alexander,N/A,1996-07-17,28,Merrillville,USA,"6' 4""",215,True,Third Base,3B,M,Joseph Wesley,"Alexander, C",Left,Right,3.549,1.627
+687231,Darell Hernaiz,Darell,Hernaiz,2,2001-08-03,23,San Juan,Puerto Rico,"5' 11""",190,True,Third Base,3B,M,Giovan,Hernaiz,Right,Right,3.64,1.66
+672016,Denzel Clarke,Denzel,Clarke,N/A,2000-05-01,24,Toronto,Canada,"6' 4""",220,True,Outfielder,CF,M,Leslie,Clarke,Right,Right,3.549,1.627
+665923,Esteury Ruiz,Esteury,Ruiz,1,1999-02-15,25,Azua,Dominican Republic,"6' 0""",169,True,Outfielder,LF,M,N/A,"Ruiz, E",Right,Right,3.29,1.58
+570482,Gio Urshela,Giovanny,Urshela,13,1991-10-11,33,Cartagena,Colombia,"6' 0""",215,True,Third Base,3B,M,N/A,Urshela,Right,Right,3.38,1.59
+680880,Grant Holman,Grant,Holman,67,2000-05-31,24,Chula Vista,USA,"6' 6""",250,True,Pitcher,P,M,James,Holman,Right,Right,3.656,1.677
+680684,Gunnar Hoglund,Gunnar,Hoglund,N/A,1999-12-17,25,Dunedin,USA,"6' 4""",220,True,Pitcher,P,M,Thomas,Hoglund,Left,Right,3.549,1.627
+663687,Hogan Harris,Hogan,Harris,63,1996-12-26,28,Lafayette,USA,"6' 3""",230,True,Pitcher,P,M,Anthony,"Harris, H",Right,Left,3.49,1.601
+669372,J.T. Ginn,John,Ginn,70,1999-05-20,25,Flowood,USA,"6' 2""",200,True,Pitcher,P,M,Thomas,Ginn,Right,Right,3.467,1.589
+668709,JJ Bleday,Jeffrey,Bleday,33,1997-11-10,27,Danville,USA,"6' 1""",205,True,Outfielder,CF,M,Joseph,Bleday,Left,Left,3.14,1.6
+676664,JP Sears,John,Sears,38,1996-02-19,28,Sumter,USA,"5' 11""",180,True,Pitcher,P,M,Patrick,Sears,Right,Left,3.319,1.513
+682052,Jacob Lopez,Jacob,Lopez,57,1998-03-11,26,Granada Hills,USA,"6' 4""",220,True,Pitcher,P,M,N/A,"Lopez, Ja",Left,Left,3.549,1.627
+805779,Jacob Wilson,Jacob,Wilson,5,2002-03-30,22,Los Angeles,USA,"6' 2""",190,True,Shortstop,SS,M,N/A,Wilson,Right,Right,3.2,1.56
+605488,Jeffrey Springs,Jeffrey,Springs,59,1992-09-20,32,Belmont,USA,"6' 3""",218,True,Pitcher,P,M,Scott,Springs,Left,Left,3.49,1.601
+683155,Joey Estes,Joseph,Estes,68,2001-10-08,23,Palmdale,USA,"6' 2""",190,True,Pitcher,P,M,Lee,Estes,Right,Right,3.467,1.589
+686993,Justin Sterner,Justin,Sterner,N/A,1996-08-29,28,La Jolla,USA,"6' 1""",215,True,Pitcher,P,M,James,Sterner,Right,Right,3.411,1.565
+686610,Ken Waldichuk,Kenneth,Waldichuk,30,1998-01-08,26,San Diego,USA,"6' 4""",220,True,Pitcher,P,M,Dieter,Waldichuk,Left,Left,3.549,1.627
+668832,Kyle McCann,Kyle,McCann,52,1997-12-02,27,Atlanta,USA,"6' 2""",217,True,Catcher,C,M,Joseph,McCann,Left,Right,3.41,1.64
+671732,Lawrence Butler,Lawrence,Butler,4,2000-07-10,24,Burlington,USA,"6' 3""",210,True,Outfielder,RF,M,Evan,"Butler, L",Left,Right,3.51,1.68
+665622,Luis Medina,Luis,Medina,46,1999-05-03,25,Nagua,Dominican Republic,"6' 1""",175,True,Pitcher,P,M,Angel,Medina,Right,Right,3.411,1.565
+622663,Luis Severino,Luis,Severino,40,1994-02-20,30,Sabana de la Mar,Dominican Republic,"6' 2""",218,True,Pitcher,P,M,N/A,"Severino, L",Right,Right,3.467,1.589
+695243,Mason Miller,Mason,Miller,19,1998-08-24,26,Pittsburgh,USA,"6' 5""",200,True,Pitcher,P,M,James,"Miller, M",Right,Right,3.575,1.681
+680474,Max Schuemann,Maxwell,Schuemann,12,1997-06-11,27,Portage,USA,"5' 11""",186,True,Shortstop,SS,M,Carter,Schuemann,Right,Right,3.36,1.65
+671305,Michel Otañez,Michel,Otañez,47,1997-07-03,27,Villa La Mata,Dominican Republic,"6' 4""",218,True,Pitcher,P,M,N/A,Otañez,Right,Right,3.549,1.627
+609280,Miguel Andujar,Miguel,Andujar,22,1995-03-02,29,San Cristobal,Dominican Republic,"6' 0""",211,True,Outfielder,LF,M,Enrique,Andujar,Right,Right,3.41,1.64
+687765,Mitch Spence,Mitch,Spence,28,1998-05-06,26,Kirkland,USA,"6' 1""",185,True,Pitcher,P,M,Perry,Spence,Right,Right,3.411,1.565
+668716,Noah Murdock,Noah,Murdock,N/A,1998-08-20,26,Richmond,USA,"6' 8""",205,True,Pitcher,P,M,James,Murdock,Right,Right,3.688,1.747
+674370,Osvaldo Bido,Osvaldo,Bido,45,1995-10-18,29,Los Hidalgos,Dominican Republic,"6' 3""",175,True,Pitcher,P,M,N/A,Bido,Right,Right,3.49,1.601
+680743,Ryan Cusick,Ryan,Cusick,N/A,1999-11-12,25,Sudbury,USA,"6' 6""",235,True,Pitcher,P,M,N/A,Cusick,Right,Right,3.575,1.681
+664913,Seth Brown,Seth,Brown,15,1992-07-13,32,Klamath Falls,USA,"6' 1""",223,True,Outfielder,LF,M,William,"Brown, S",Left,Left,3.49,1.69
+669127,Shea Langeliers,Shea,Langeliers,23,1997-11-18,27,Portland,USA,"6' 0""",205,True,Catcher,C,M,Ryan,Langeliers,Right,Right,3.33,1.53
+519008,T.J. McFarland,Timothy,McFarland,48,1989-06-08,35,Palos Park,USA,"6' 3""",200,True,Pitcher,P,M,John,McFarland,Left,Left,3.49,1.601
+621053,Tyler Ferguson,Tyler,Ferguson,65,1993-10-05,31,Fresno,USA,"6' 4""",225,True,Pitcher,P,M,Clark,"Ferguson, T",Right,Right,3.549,1.627
+691016,Tyler Soderstrom,Tyler,Soderstrom,21,2001-11-24,23,Turlock,USA,"6' 2""",200,True,First Base,1B,M,Christian,Soderstrom,Left,Right,3.42,1.6
+694361,Will Klein,William,Klein,64,1999-11-28,25,Bloomington,USA,"6' 5""",230,True,Pitcher,P,M,Boone,Klein,Right,Right,3.575,1.681
+680869,Zack Gelof,Zachary,Gelof,20,1999-10-19,25,Rehoboth Beach,USA,"6' 2""",205,True,Second Base,2B,M,Dunn,Gelof,Right,Right,3.43,1.56
+675961,Alika Williams,Alexander,Williams,25,1999-03-12,25,San Diego,USA,"6' 1""",180,True,Second Base,2B,M,David,Williams,Right,Right,3.49,1.57
+457705,Andrew McCutchen,Andrew,McCutchen,22,1986-10-10,38,Fort Meade,USA,"5' 10""",190,True,Outfielder,RF,M,Stefan,McCutchen,Right,Right,3.39,1.62
+663559,Bailey Falter,Bailey,Falter,26,1997-04-24,27,Chino Hills,USA,"6' 4""",205,True,Pitcher,P,M,N/A,Falter,Right,Left,3.549,1.627
+695257,Billy Cook,William,Cook,28,1999-01-07,25,Layton,USA,"5' 11""",205,True,First Base,1B,M,Monroe,"Cook, B",Right,Right,3.57,1.71
+677952,Braxton Ashcraft,Braxton,Ashcraft,67,1999-10-05,25,Waco,USA,"6' 5""",195,True,Pitcher,P,M,N/A,Ashcraft,Left,Right,3.575,1.681
+668804,Bryan Reynolds,Bryan,Reynolds,10,1995-01-27,29,Baltimore,USA,"6' 2""",205,True,Outfielder,LF,M,Patrick,"Reynolds, B",Switch,Right,3.18,1.56
+669387,Carmen Mlodzinski,Carmen,Mlodzinski,50,1999-02-19,25,Hilton Head Island,USA,"6' 2""",220,True,Pitcher,P,M,Alexander,Mlodzinski,Right,Right,3.467,1.589
+670059,Colin Holderman,Colin,Holderman,35,1995-10-08,29,Bourbannais,USA,"6' 4""",230,True,Pitcher,P,M,Scott,Holderman,Right,Right,3.549,1.627
+664294,Dauri Moreta,Dauri,Moreta,36,1996-04-15,28,Comendador,Dominican Republic,"6' 2""",185,True,Pitcher,P,M,Michell,Moreta,Right,Right,3.467,1.589
+670280,David Bednar,David,Bednar,51,1994-10-10,30,Pittsburgh,USA,"6' 0""",225,True,Pitcher,P,M,Jeffrey,Bednar,Left,Right,3.371,1.535
+642701,Dennis Santana,Dennis,Santana,60,1996-04-12,28,San Pedro de Macoris,Dominican Republic,"6' 2""",190,True,Pitcher,P,M,Anfernee,"Santana, D",Right,Right,3.467,1.589
+682848,Endy Rodríguez,Endy,Rodríguez,5,2000-05-26,24,Santiago,Dominican Republic,"6' 0""",200,True,Catcher,C,M,Steven,"Rodríguez, E",Switch,Right,3.18,1.49
+665839,Enmanuel Valdez,Enmanuel,Valdez,48,1998-12-28,26,San Juan de la Maguana,Dominican Republic,"5' 8""",191,True,Second Base,2B,M,N/A,"Valdez, E",Left,Right,3.18,1.59
+680779,Henry Davis,Henry,Davis,32,1999-09-21,25,Bedford,USA,"6' 0""",210,True,Catcher,C,M,N/A,Davis,Right,Right,3.34,1.64
+643396,Isiah Kiner-Falefa,Isiah,Kiner-Falefa,7,1995-03-23,29,Honolulu,USA,"5' 11""",190,True,Second Base,2B,M,N/A,Kiner-Falefa,Right,Right,3.22,1.49
+669261,Jack Suwinski,Jack,Suwinski,65,1998-07-29,26,Chicago,USA,"6' 2""",215,True,Outfielder,CF,M,William,Suwinski,Left,Left,3.62,1.65
+683003,Jared Jones,Jared,Jones,37,2001-08-06,23,Whittier,USA,"6' 1""",190,True,Pitcher,P,M,Keith,Jones,Left,Right,3.41,1.57
+669707,Jared Triolo,Jared,Triolo,19,1998-02-08,26,Nashua,USA,"6' 3""",210,True,Third Base,3B,M,Robert,Triolo,Right,Right,3.51,1.63
+641511,Jason Delay,Jason,Delay,55,1995-03-07,29,Plano,USA,"5' 11""",190,True,Catcher,C,M,Thomas,Delay,Right,Right,3.36,1.53
+678225,Ji Hwan Bae,Ji Hwan,Bae,3,1999-07-26,25,Daegu,Republic of Korea,"5' 11""",185,True,Outfielder,CF,M,N/A,Bae,Left,Right,3.15,1.47
+663698,Joey Bart,Joseph,Bart,14,1996-12-15,28,Buford,USA,"6' 2""",238,True,Catcher,C,M,Andrew,Bart,Right,Right,3.4,1.53
+666214,Joey Wentz,Joseph,Wentz,34,1997-10-06,27,Lawrence,USA,"6' 5""",220,True,Pitcher,P,M,Barrett,Wentz,Left,Left,3.575,1.681
+670912,Johan Oviedo,Johan,Oviedo,24,1998-03-02,26,Havana,Cuba,"6' 5""",245,True,Pitcher,P,M,N/A,Oviedo,Right,Right,3.575,1.681
+641943,Joshua Palacios,Joshua,Palacios,77,1995-07-30,29,Brooklyn,USA,"6' 0""",200,True,Outfielder,RF,M,John,Palacios,Left,Right,3.54,1.74
+663647,Ke'Bryan Hayes,Ke'Bryan,Hayes,13,1997-01-28,27,Tomball,USA,"5' 11""",195,True,Third Base,3B,M,Kobe,Hayes,Right,Right,3.21,1.5
+693312,Kyle Nicolas,Kyle,Nicolas,62,1999-02-22,25,Massillon,USA,"6' 4""",223,True,Pitcher,P,M,Todd,Nicolas,Right,Right,3.549,1.627
+678894,Liover Peguero,Liover,Peguero,31,2000-12-31,24,Higuey,Dominican Republic,"6' 1""",220,True,Shortstop,SS,M,N/A,Peguero,Right,Right,3.62,1.68
+681347,Mike Burrows,Michael,Burrows,53,1999-11-08,25,Waterford,USA,"6' 1""",190,True,Pitcher,P,M,Thomas,Burrows,Right,Right,3.411,1.565
+656605,Mitch Keller,Mitch,Keller,23,1996-04-04,28,Cedar Rapids,USA,"6' 3""",220,True,Pitcher,P,M,Thomas,"Keller, M",Right,Right,3.66,1.68
+693304,Nick Gonzales,Nicholas,Gonzales,39,1999-05-27,25,Vail,USA,"5' 9""",190,True,Second Base,2B,M,Joseph,"Gonzales, N",Right,Right,3.39,1.53
+694377,Nick Yorke,Nicholas,Yorke,38,2002-04-02,22,Newport Beach,USA,"6' 0""",200,True,Second Base,2B,M,Anthony,Yorke,Right,Right,3.59,1.66
+665833,Oneil Cruz,Oneil,Cruz,15,1998-10-04,26,Nizao,Dominican Republic,"6' 7""",215,True,Shortstop,SS,M,N/A,"Cruz, O",Left,Right,3.82,1.81
+694973,Paul Skenes,Paul,Skenes,30,2002-05-29,22,Fullerton,USA,"6' 6""",235,True,Pitcher,P,M,David,Skenes,Right,Right,3.656,1.677
+657265,Peter Strzelecki,Peter,Strzelecki,N/A,1994-10-24,30,Queens,USA,"6' 2""",216,True,Pitcher,P,M,J.,Strzelecki,Right,Right,3.467,1.589
+687462,Spencer Horwitz,Spencer,Horwitz,2,1997-11-14,27,Timonium,USA,"5' 10""",190,True,First Base,1B,M,Elliott,Horwitz,Left,Right,3.58,1.71
+656484,Tristan Gray,Tristan,Gray,N/A,1996-03-22,28,Houston,USA,"6' 1""",215,True,Third Base,3B,M,Colby,Gray,Left,Right,3.44,1.58
+691907,Tsung-Che Cheng,Tsung-Che,Cheng,71,2001-07-26,23,Pingtung County,Taiwan,"5' 7""",173,True,Shortstop,SS,M,N/A,"Cheng, T",Left,Right,3.179,1.474
+670970,Adrian Morejon,Adrian,Morejon,50,1999-02-27,25,Havana,Cuba,"5' 11""",224,True,Pitcher,P,M,N/A,Morejon,Left,Left,3.319,1.513
+689690,Alek Jacob,Alek,Jacob,37,1998-06-16,26,Spokane,USA,"6' 3""",190,True,Pitcher,P,M,Scott,Jacob,Left,Right,3.49,1.601
+663604,Brandon Lockridge,Brandon,Lockridge,28,1997-03-14,27,Pensacola,USA,"6' 0""",185,True,Outfielder,RF,M,Marcus,Lockridge,Right,Right,3.371,1.535
+664954,Brett Sullivan,Brett,Sullivan,29,1994-02-22,30,Stockton,USA,"5' 10""",195,True,Catcher,C,M,Charles,Sullivan,Left,Right,3.31,1.66
+663773,Bryan Hoeing,Bryan,Hoeing,78,1996-10-19,28,Batesville,USA,"6' 6""",210,True,Pitcher,P,M,Jerome,Hoeing,Right,Right,3.656,1.677
+656302,Dylan Cease,Dylan,Cease,84,1995-12-28,29,Milton,USA,"6' 2""",200,True,Pitcher,P,M,Edward,Cease,Right,Right,3.467,1.589
+666703,Eguy Rosario,Eguy,Rosario,5,1999-08-25,25,Juan Baron,Dominican Republic,"5' 7""",150,True,Third Base,3B,M,N/A,"Rosario, E",Right,Right,3.39,1.61
+665487,Fernando Tatis Jr.,Fernando,Tatis,23,1999-01-02,26,San Pedro De Macoris,Dominican Republic,"6' 3""",217,True,Outfielder,RF,M,Gabriel,Tatis Jr.,Right,Right,3.77,1.79
+692013,Henry Baez,Henry,Baez,N/A,2002-10-12,22,San Cristobal,Dominican Republic,"6' 3""",175,True,Pitcher,P,M,Manuel,Baez,Right,Right,3.49,1.601
+701538,Jackson Merrill,Jackson,Merrill,3,2003-04-19,21,Baltimore,USA,"6' 3""",195,True,Outfielder,CF,M,Peter,Merrill,Left,Right,3.49,1.63
+630105,Jake Cronenworth,Jacob,Cronenworth,9,1994-01-21,30,St. Clair,USA,"6' 0""",187,True,First Base,1B,M,John,Cronenworth,Left,Right,3.34,1.56
+592094,Jason Adam,Jason,Adam,40,1991-08-04,33,Omaha,USA,"6' 3""",229,True,Pitcher,P,M,Kendall,Adam,Right,Right,3.49,1.601
+669093,Jeremiah Estrada,Jeremiah,Estrada,56,1998-11-01,26,Indio,USA,"6' 1""",185,True,Pitcher,P,M,Ramiro,Estrada,Switch,Right,3.411,1.565
+666745,Jhony Brito,Jhony,Brito,76,1998-02-17,26,Puerto Plata,Dominican Republic,"6' 2""",210,True,Pitcher,P,M,Rafael,Brito,Right,Right,3.467,1.589
+605397,Joe Musgrove,Joseph,Musgrove,44,1992-12-04,32,El Cajon,USA,"6' 5""",230,True,Pitcher,P,M,Anthony,Musgrove,Right,Right,3.69,1.78
+693725,Juan Nuñez,Juan,Nunez,N/A,2000-12-07,24,Azua,Dominican Republic,"5' 11""",190,True,Pitcher,P,M,Antonio,Nuñez,Right,Right,3.319,1.513
+650333,Luis Arraez,Luis,Arraez,4,1997-04-09,27,San Felipe,Venezuela,"5' 10""",175,True,First Base,1B,M,Sangel,Arraez,Left,Right,3.2,1.51
+669134,Luis Campusano,Luis,Campusano,12,1998-09-29,26,Augusta,USA,"5' 11""",232,True,Catcher,C,M,Genaro,Campusano,Right,Right,3.44,1.55
+592518,Manny Machado,Manuel,Machado,13,1992-07-06,32,Miami,USA,"6' 3""",218,True,Third Base,3B,M,Arturo,"Machado, M",Right,Right,3.58,1.64
+663362,Matt Waldron,Matthew,Waldron,61,1996-09-26,28,Omaha,USA,"6' 2""",185,True,Pitcher,P,M,Lawrence,Waldron,Right,Right,3.467,1.589
+650633,Michael King,Michael,King,34,1995-05-25,29,Rochester,USA,"6' 3""",210,True,Pitcher,P,M,McRae,"King, M",Right,Right,3.49,1.601
+678316,Omar Cruz,Omar,Cruz,N/A,1999-01-26,25,Hermosillo,Mexico,"6' 0""",210,True,Pitcher,P,M,Alejandro,"Cruz, Om",Left,Left,3.371,1.535
+681190,Randy Vásquez,Randy,Vásquez,98,1998-11-03,26,Navarette,Dominican Republic,"6' 0""",165,True,Pitcher,P,M,Marcelino,"Vásquez, R",Right,Right,3.371,1.535
+663158,Robert Suarez,Robert,Suarez,75,1991-03-01,33,Bolivar,Venezuela,"6' 2""",210,True,Pitcher,P,M,Alexander,"Suarez, Ro",Right,Right,3.467,1.589
+686701,Ryan Bergert,Ryan,Bergert,N/A,2000-03-08,24,Canton,USA,"6' 1""",210,True,Pitcher,P,M,Michael,Bergert,Right,Right,3.411,1.565
+669308,Sean Reynolds,Sean,Reynolds,25,1998-04-19,26,Redondo Beach,USA,"6' 8""",250,True,Pitcher,P,M,William,Reynolds,Left,Right,3.76,1.75
+663568,Stephen Kolek,Stephen,Kolek,32,1997-04-18,27,Houston,USA,"6' 3""",210,True,Pitcher,P,M,James,Kolek,Right,Right,3.49,1.601
+672359,Tirso Ornelas,Tirso,Ornelas,N/A,2000-03-11,24,Tijuana,Mexico,"6' 3""",200,True,Outfielder,LF,M,Abraham,Ornelas,Left,Right,3.49,1.601
+676680,Tom Cosgrove,Thomas,Cosgrove,59,1996-06-14,28,Staten Island,USA,"6' 2""",190,True,Pitcher,P,M,N/A,Cosgrove,Left,Left,3.467,1.589
+642180,Tyler Wade,Tyler,Wade,14,1994-11-23,30,Murrieta,USA,"6' 1""",188,True,Third Base,3B,M,Dean,Wade,Left,Right,3.21,1.55
+593974,Wandy Peralta,Wandy,Peralta,58,1991-07-27,33,San Francisco de Macoris,Dominican Republic,"6' 0""",227,True,Pitcher,P,M,Luis,"Peralta, W",Left,Left,3.371,1.535
+593428,Xander Bogaerts,Xander,Bogaerts,2,1992-10-01,32,Oranjestad,Aruba,"6' 2""",218,True,Second Base,2B,M,Jan,Bogaerts,Right,Right,3.57,1.64
+506433,Yu Darvish,Yu,Darvish,11,1986-08-16,38,Osaka,Japan,"6' 5""",220,True,Pitcher,P,M,N/A,Darvish,Right,Right,3.63,1.75
+673513,Yuki Matsui,Yuki,Matsui,1,1995-10-30,29,Yokohama,Japan,"5' 8""",165,True,Pitcher,P,M,N/A,Matsui,Left,Left,3.26,1.481
+662253,Andrés Muñoz,Andrés,Muñoz,75,1999-01-16,25,Los Mochis,Mexico,"6' 2""",222,True,Pitcher,P,M,Clemente,"Muñoz, A",Right,Right,3.467,1.589
+685116,Austin Kitchen,Austin,Kitchen,N/A,1997-02-11,27,Pittsburgh,USA,"6' 0""",200,True,Pitcher,P,M,N/A,Kitchen,Left,Left,3.371,1.535
+668853,Austin Shenton,Austin,Shenton,N/A,1998-01-22,26,Spokane,USA,"6' 0""",205,True,First Base,1B,M,P.,Shenton,Left,Right,3.48,1.63
+680604,Blas Castano,Blas,Castano,N/A,1998-09-08,26,Espaillat,Dominican Republic,"5' 10""",162,True,Pitcher,P,M,N/A,"Castano, B",Right,Right,3.301,1.504
+693433,Bryan Woo,Bryan,Woo,22,2000-01-30,24,Oakland,USA,"6' 2""",205,True,Pitcher,P,M,Joseph,Woo,Right,Right,3.467,1.589
+682243,Bryce Miller,Bryce,Miller,50,1998-08-23,26,Mount Pleasant,USA,"6' 2""",200,True,Pitcher,P,M,Austen,"Miller, B",Right,Right,3.467,1.589
+687799,Cade Marlowe,Matthew,Marlowe,5,1997-06-24,27,Tifton,USA,"6' 0""",210,True,Outfielder,LF,M,Cade,Marlowe,Left,Right,3.15,1.46
+663728,Cal Raleigh,Caleb,Raleigh,29,1996-11-26,28,Cullowhee,USA,"6' 3""",235,True,Catcher,C,M,John,Raleigh,Switch,Right,3.49,1.61
+672841,Carlos Vargas,Carlos ,Vargas,54,1999-10-13,25,Moca,Dominican Republic,"6' 4""",210,True,Pitcher,P,M,Miguel,Vargas,Right,Right,3.549,1.627
+675989,Cody Bolton,Carl,Bolton,67,1998-06-19,26,Richmond,USA,"6' 2""",210,True,Pitcher,P,M,Donovan,Bolton,Right,Right,3.467,1.589
+676092,Collin Snider,Collin,Snider,52,1995-10-10,29,Nashville,USA,"6' 4""",195,True,Pitcher,P,M,Kenneth,Snider,Right,Right,3.549,1.627
+686527,Dominic Canzone,Dominic,Canzone,8,1997-08-16,27,Cleveland,USA,"5' 11""",190,True,Outfielder,RF,M,Gene,Canzone,Left,Right,3.4,1.55
+664238,Dylan Moore,Dylan,Moore,25,1992-08-02,32,Yorba Linda,USA,"6' 0""",205,True,Shortstop,SS,M,Scott,"Moore, D",Right,Right,3.35,1.52
+660825,Eduard Bazardo,Eduard,Bazardo,83,1995-09-01,29,Maracay,Venezuela,"6' 0""",190,True,Pitcher,P,M,Felix,Bazardo,Right,Right,3.371,1.535
+676106,Emerson Hancock,Emerson,Hancock,26,1999-05-31,25,Cairo,USA,"6' 4""",213,True,Pitcher,P,M,Christian,Hancock,Right,Right,3.549,1.627
+642100,Gabe Speier,Gabriel,Speier,55,1995-04-12,29,Santa Barbara,USA,"5' 11""",200,True,Pitcher,P,M,James,Speier,Left,Left,3.319,1.513
+669923,George Kirby,George,Kirby,68,1998-02-04,26,Rye,USA,"6' 4""",215,True,Pitcher,P,M,Joseph,Kirby,Right,Right,3.549,1.627
+666619,Gregory Santos,Gregory,Santos,48,1999-08-28,25,San Cristobal,Dominican Republic,"6' 2""",190,True,Pitcher,P,M,Omar,Santos,Right,Right,3.467,1.589
+641487,J.P. Crawford,John,Crawford,3,1995-01-11,29,Long Beach,USA,"6' 2""",202,True,Shortstop,SS,M,Paul,"Crawford, J",Left,Right,3.17,1.48
+663804,Jackson Kowar,Jackson,Kowar,37,1996-10-04,28,Weddington,USA,"6' 5""",200,True,Pitcher,P,M,Alexander,Kowar,Right,Right,3.575,1.681
+646242,Jhonathan Díaz,Jhonathan,Díaz,74,1996-09-13,28,Valencia,Venezuela,"6' 0""",170,True,Pitcher,P,M,Alexander,Díaz,Left,Left,3.371,1.535
+677594,Julio Rodríguez,Julio,Rodríguez,44,2000-12-29,24,Loma de Cabrera,Dominican Republic,"6' 3""",228,True,Outfielder,CF,M,Yamel,"Rodríguez, J",Right,Right,3.37,1.55
+660844,Leo Rivas,Leonardo,Rivas,76,1997-10-10,27,Maracay,Venezuela,"5' 8""",150,True,Shortstop,SS,M,Andres,Rivas,Switch,Right,3.31,1.5
+669302,Logan Gilbert,Logan,Gilbert,36,1997-05-05,27,Winter Park,USA,"6' 6""",215,True,Pitcher,P,M,Keith,"Gilbert, L",Right,Right,3.656,1.677
+622491,Luis Castillo,Luis,Castillo,58,1992-12-12,32,Bani,Dominican Republic,"6' 2""",200,True,Pitcher,P,M,Miguel,"Castillo, L",Right,Right,3.44,1.59
+670042,Luke Raley,Lucas,Raley,20,1994-09-19,30,Hinckley,USA,"6' 4""",235,True,Outfielder,LF,M,John,"Raley, L",Left,Right,3.36,1.52
+666374,Matt Brash,Matthew,Brash,47,1998-05-12,26,Kingston,Canada,"6' 1""",173,True,Pitcher,P,M,Aurel,Brash,Right,Right,3.411,1.565
+641598,Mitch Garver,Mitchell,Garver,18,1991-01-15,33,Albuquerque,USA,"6' 1""",220,True,Designated Hitter,DH,M,Lynn,Garver,Right,Right,3.45,1.59
+571745,Mitch Haniger,Mitchell,Haniger,17,1990-12-23,34,Mountain View,USA,"6' 2""",214,True,Outfielder,RF,M,Evan,Haniger,Right,Right,3.37,1.56
+695596,Nick Raposo,Nicholas,Raposo,N/A,1998-06-03,26,Providence,USA,"5' 9""",210,True,Catcher,C,M,Louis,Raposo,Right,Right,3.285,1.487
+668227,Randy Arozarena,Randy,Arozarena,56,1995-02-28,29,Havana,Cuba,"5' 11""",185,True,Outfielder,LF,M,N/A,Arozarena,Right,Right,3.24,1.52
+669208,Ryan Bliss,Ryan,Bliss,1,1999-12-13,25,Burbank,USA,"5' 7""",165,True,Second Base,2B,M,Isiah,Bliss,Right,Right,3.22,1.44
+669392,Samad Taylor,Samad,Taylor,12,1998-07-11,26,Corona,USA,"5' 8""",160,True,Second Base,2B,M,Jahad,"Taylor, S",Right,Right,3.27,1.48
+642048,Tayler Saucedo,Tayler,Saucedo,60,1993-06-18,31,Honolulu,USA,"6' 4""",205,True,Pitcher,P,M,Andrew,Saucedo,Left,Left,3.549,1.627
+663423,Trent Thornton,Trent,Thornton,46,1993-09-30,31,Charlotte,USA,"6' 0""",190,True,Pitcher,P,M,Edward,Thornton,Right,Right,3.371,1.535
+700187,Troy Taylor,Troy,Taylor,59,2001-09-09,23,Fontana,USA,"6' 0""",205,True,Pitcher,P,M,Jonathan,"Taylor, T",Right,Right,3.371,1.535
+682988,Tyler Locklear,Tyler,Locklear,27,2000-11-24,24,Baltimore,USA,"6' 2""",210,True,First Base,1B,M,Evan,Locklear,Right,Right,3.32,1.51
+645302,Victor Robles,Victor,Robles,10,1997-05-19,27,Santo Domingo Este,Dominican Republic,"6' 0""",193,True,Outfielder,CF,M,Enrique,Robles,Right,Right,3.08,1.43
+681810,Austin Warren,Austin,Warren,57,1996-02-05,28,Fayetteville,USA,"6' 0""",170,True,Pitcher,P,M,Davis,"Warren, A",Right,Right,3.371,1.535
+666165,Blake Sabol,Blake,Sabol,2,1998-01-07,26,Aliso Viejo,USA,"6' 4""",225,True,Catcher,C,M,Joseph,Sabol,Left,Right,3.51,1.71
+689172,Brett Wisely,Brett,Wisely,0,1999-05-08,25,Jacksonville,USA,"5' 9""",180,True,Second Base,2B,M,Michael,Wisely,Left,Right,3.37,1.57
+666808,Camilo Doval,Camilo,Doval,75,1997-07-04,27,Yamasa,Dominican Republic,"6' 2""",185,True,Pitcher,P,M,N/A,Doval,Right,Right,3.467,1.589
+685068,Carson Ragsdale,Carson,Ragsdale,N/A,1998-05-25,26,Wesley Chapel,USA,"6' 8""",225,True,Pitcher,P,M,Andrew,Ragsdale,Right,Right,3.688,1.747
+693313,Carson Seymour,Carson,Seymour,N/A,1998-12-16,26,Poway,USA,"6' 6""",260,True,Pitcher,P,M,James,Seymour,Right,Right,3.575,1.681
+669477,Casey Schmitt,Casey,Schmitt,10,1999-03-01,25,San Diego,USA,"6' 2""",215,True,Second Base,2B,M,Shawn,Schmitt,Right,Right,3.31,1.59
+681584,David Villar,David,Villar,32,1997-01-27,27,Atlanta,USA,"6' 1""",215,True,Second Base,2B,M,Alexander,Villar,Right,Right,3.48,1.69
+669062,Erik Miller,Erik,Miller,68,1998-02-13,26,St. Louis,USA,"6' 5""",240,True,Pitcher,P,M,Christopher,"Miller, E",Left,Left,3.575,1.681
+687529,Grant McCray,Grant,McCray,58,2000-12-07,24,Billings,USA,"6' 2""",190,True,Outfielder,CF,M,Snow,McCray,Left,Right,3.61,1.63
+806185,Hayden Birdsong,Hayden,Birdsong,60,2001-08-30,23,Mattoon,USA,"6' 4""",215,True,Pitcher,P,M,N/A,Birdsong,Right,Right,3.549,1.627
+671218,Heliot Ramos,Heliot,Ramos,17,1999-09-07,25,Humacao,Puerto Rico,"5' 11""",188,True,Outfielder,CF,M,Lemuel,Ramos,Right,Right,3.15,1.48
+666464,Jerar Encarnacion,Jerar,Encarnacion,59,1997-10-22,27,Bayaguana,Dominican Republic,"6' 4""",250,True,Outfielder,RF,M,Luis,Encarnacion,Right,Right,3.74,1.78
+663855,Jordan Hicks,Jordan,Hicks,12,1996-09-06,28,Houston,USA,"6' 2""",220,True,Pitcher,P,M,McKinley,"Hicks, J",Right,Right,3.467,1.589
+808982,Jung Hoo Lee,Jung Hoo,Lee,51,1998-08-20,26,Seoul,Republic of Korea,"6' 1""",192,True,Outfielder,CF,M,N/A,"Lee, J.H.",Left,Right,3.34,1.5
+676775,Keaton Winn,Keaton,Winn,67,1998-02-20,26,Ollie,USA,"6' 4""",238,True,Pitcher,P,M,Eugene,"Winn, K",Right,Right,3.549,1.627
+690986,Kyle Harrison,Kyle,Harrison,45,2001-08-12,23,San Jose,USA,"6' 2""",200,True,Pitcher,P,M,Christopher,Harrison,Right,Left,3.467,1.589
+664774,LaMonte Wade Jr.,LaMonte,Wade,31,1994-01-01,31,Baltimore,USA,"6' 1""",205,True,First Base,1B,M,Aaron,Wade Jr.,Left,Left,3.23,1.6
+694738,Landen Roupp,Landen,Roupp,65,1998-09-10,26,Rocky Mount,USA,"6' 2""",205,True,Pitcher,P,M,Brice,Roupp,Right,Right,3.467,1.589
+657277,Logan Webb,Logan,Webb,62,1996-11-18,28,Rocklin,USA,"6' 1""",220,True,Pitcher,P,M,T.,Webb,Right,Right,3.41,1.58
+682641,Luis Matos,Luis,Matos,29,2002-01-28,22,Valera,Venezuela,"5' 11""",160,True,Outfielder,CF,M,Eduardo,Matos,Right,Right,3.33,1.64
+682617,Marco Luciano,Marco,Luciano,37,2001-09-10,23,San Francisco de Macoris,Dominican Republic,"6' 1""",178,True,Shortstop,SS,M,Jose,Luciano,Right,Right,3.42,1.62
+696131,Mason Black,Mason,Black,47,1999-12-10,25,Scranton,USA,"6' 3""",230,True,Pitcher,P,M,Peter,Black,Right,Right,3.49,1.601
+656305,Matt Chapman,Matt,Chapman,26,1993-04-28,31,Victorville,USA,"6' 0""",215,True,Third Base,3B,M,James,"Chapman, M",Right,Right,3.5,1.67
+573262,Mike Yastrzemski,Michael,Yastrzemski,5,1990-08-23,34,Andover,USA,"5' 10""",178,True,Outfielder,RF,M,Andrew,Yastrzemski,Left,Left,3.38,1.63
+672275,Patrick Bailey,Patrick,Bailey,14,1999-05-29,25,Greensboro,USA,"6' 0""",210,True,Catcher,C,M,Lee,Bailey,Switch,Right,3.42,1.68
+678495,Randy Rodríguez,Randy,Rodríguez,73,1999-09-05,25,Santo Domingo,Dominican Republic,"6' 0""",166,True,Pitcher,P,M,Alberto,"Rodríguez, R",Right,Right,3.371,1.535
+592662,Robbie Ray,Robert,Ray,38,1991-10-01,33,Brentwood,USA,"6' 2""",225,True,Pitcher,P,M,Glenn,Ray,Left,Left,3.467,1.589
+676254,Ryan Walker,Ryan,Walker,74,1995-11-26,29,Arlington,USA,"6' 2""",200,True,Pitcher,P,M,Patrick,"Walker, R",Right,Right,3.467,1.589
+663546,Sean Hjelle,Sean,Hjelle,64,1997-05-07,27,Fridley,USA,"6' 11""",228,True,Pitcher,P,M,Anthony,Hjelle,Right,Right,3.95,1.975
+702352,Spencer Bivens,Spencer,Bivens,76,1994-06-28,30,Virginia Beach,USA,"6' 5""",205,True,Pitcher,P,M,N/A,Bivens,Right,Right,3.575,1.681
+573124,Taylor Rogers,Taylor,Rogers,33,1990-12-17,34,Denver,USA,"6' 3""",190,True,Pitcher,P,M,Allen,"Rogers, Ta",Left,Left,3.49,1.601
+608596,Tom Murphy,Thomas,Murphy,19,1991-04-03,33,West Monroe,USA,"6' 1""",206,True,Catcher,C,M,James,"Murphy, To",Right,Right,3.37,1.6
+686790,Trevor McDonald,Trevor,McDonald,72,2001-02-26,23,Mobile,USA,"6' 2""",200,True,Pitcher,P,M,Dale,McDonald,Right,Right,3.467,1.589
+663941,Tristan Beck,Tristan,Beck,43,1996-06-24,28,Corona,USA,"6' 4""",165,True,Pitcher,P,M,Robert,Beck,Right,Right,3.549,1.627
+666149,Tyler Fitzgerald,Tyler,Fitzgerald,49,1997-09-15,27,Springfield,USA,"6' 1""",205,True,Shortstop,SS,M,Joseph,Fitzgerald,Right,Right,3.48,1.65
+643511,Tyler Rogers,Tyler,Rogers,71,1990-12-17,34,Denver,USA,"6' 3""",181,True,Pitcher,P,M,Scott,"Rogers, Ty",Right,Right,3.49,1.601
+685133,Wade Meckler,Wade,Meckler,53,2000-04-21,24,Anaheim,USA,"5' 9""",178,True,Outfield,OF,M,Jameson,Meckler,Left,Right,3.19,1.45
+642715,Willy Adames,Willy,Adames,2,1995-09-02,29,Santiago,Dominican Republic,"6' 1""",219,True,Shortstop,SS,M,Rafael,Adames,Right,Right,3.44,1.69
+527038,Wilmer Flores,Wilmer,Flores,41,1991-08-06,33,Valencia,Venezuela,"6' 2""",213,True,First Base,1B,M,Alejandro,Flores,Right,Right,3.18,1.48
+676475,Alec Burleson,Alec,Burleson,41,1998-11-25,26,Charlotte,USA,"6' 2""",225,True,Outfielder,RF,M,Michael,Burleson,Left,Left,3.43,1.59
+669467,Andre Pallante,Neil,Pallante,53,1998-09-18,26,Mission Viejo,USA,"6' 0""",215,True,Pitcher,P,M,Andre,Pallante,Right,Right,3.371,1.535
+680977,Brendan Donovan,Brendan,Donovan,33,1997-01-16,27,Wurzberg,Germany,"6' 1""",210,True,Outfielder,LF,M,Michael,Donovan,Left,Right,3.32,1.61
+688297,Chris Roycroft,Chris,Roycroft,58,1997-06-21,27,Dundee,USA,"6' 8""",230,True,Pitcher,P,M,Michael,Roycroft,Right,Right,3.688,1.747
+607200,Erick Fedde,Erick,Fedde,12,1993-02-25,31,Las Vegas,USA,"6' 4""",205,True,Pitcher,P,M,James,Fedde,Right,Right,3.47,1.61
+700669,Gordon Graceffo,Gordon,Graceffo,67,2000-03-17,24,Wayne,USA,"6' 4""",220,True,Pitcher,P,M,Joseph,Graceffo,Right,Right,3.549,1.627
+671056,Iván Herrera,Ivan,Herrera,48,2000-06-01,24,Panama City,Panama,"5' 11""",220,True,Catcher,C,M,Aaron,Herrera,Right,Right,3.28,1.54
+668941,JoJo Romero,Joseph,Romero,59,1996-09-09,28,Camarillo,USA,"5' 11""",215,True,Pitcher,P,M,Abel,"Romero, J",Left,Left,3.319,1.513
+667463,John King,John,King,47,1994-09-14,30,Laredo,USA,"6' 2""",215,True,Pitcher,P,M,Edward,"King, J",Left,Left,3.467,1.589
+691023,Jordan Walker,Jordan,Walker,18,2002-05-22,22,Stone Mountain,USA,"6' 6""",250,True,Outfielder,RF,M,Alexander,"Walker, J",Right,Right,3.8,1.84
+665877,José Fermín,José,Fermín,15,1999-03-29,25,Puerto Plata,Dominican Republic,"5' 9""",198,True,Second Base,2B,M,Miguel,Fermín,Right,Right,3.33,1.56
+681517,Kyle Leahy,Kyle,Leahy,62,1997-06-04,27,Boulder,USA,"6' 5""",225,True,Pitcher,P,M,Yandow,Leahy,Switch,Right,3.575,1.681
+663457,Lars Nootbaar,Lars,Nootbaar,21,1997-09-08,27,El Segundo,USA,"6' 3""",205,True,Outfielder,RF,M,Taylor-Tatsuji,Nootbaar,Left,Right,3.46,1.69
+663609,Luken Baker,Luken,Baker,26,1997-03-10,27,Houston,USA,"6' 4""",285,True,First Base,1B,M,Grosvenor,Baker,Right,Right,3.71,1.67
+691026,Masyn Winn,Masyn,Winn,0,2002-03-21,22,Katy,USA,"5' 11""",185,True,Shortstop,SS,M,Blaze,Winn,Right,Right,3.49,1.65
+689288,Matt Koperniak,Matthew,Koperniak,N/A,1998-02-08,26,London,United Kingdom,"6' 0""",208,True,Outfielder,LF,M,Hayden,Koperniak,Left,Right,3.371,1.535
+694335,Matt Svanson,Matthew,Svanson,N/A,1999-01-31,25,Lake Zurich,USA,"6' 5""",235,True,Pitcher,P,M,Patrick,Svanson,Right,Right,3.575,1.681
+669461,Matthew Liberatore,Matthew,Liberatore,52,1999-11-06,25,Peoria,USA,"6' 4""",215,True,Pitcher,P,M,Joseph,Liberatore,Left,Left,3.549,1.627
+700241,Michael McGreevy,Michael,McGreevy,36,2000-07-08,24,San Clemente,USA,"6' 4""",220,True,Pitcher,P,M,Stephen,McGreevy,Left,Right,3.549,1.627
+672279,Michael Siani,Michael,Siani,63,1999-07-16,25,Glenside,USA,"6' 1""",195,True,Outfielder,CF,M,N/A,Siani,Left,Left,3.34,1.58
+571945,Miles Mikolas,Miles,Mikolas,39,1988-08-23,36,Jupiter,USA,"6' 4""",230,True,Pitcher,P,M,Tice,Mikolas,Right,Right,3.549,1.627
+571448,Nolan Arenado,Nolan,Arenado,28,1991-04-16,33,Newport Beach,USA,"6' 2""",215,True,Third Base,3B,M,James,Arenado,Right,Right,3.41,1.72
+669357,Nolan Gorman,Nolan,Gorman,16,2000-05-10,24,Phoenix,USA,"6' 1""",225,True,Second Base,2B,M,Brian,Gorman,Left,Right,3.5,1.6
+686780,Pedro Pagés,Pedro,Pagés,43,1998-09-17,26,Maracay,Venezuela,"6' 1""",245,True,Catcher,C,M,Jose,"Pagés, P",Right,Right,3.17,1.53
+676617,Riley O'Brien,Riley,O'Brien,55,1995-02-06,29,Seattle,USA,"6' 4""",180,True,Pitcher,P,M,Chun-Young,O'Brien,Right,Right,3.549,1.627
+682610,Roddery Muñoz,Roddery,Muñoz,N/A,2000-04-14,24,Santo Domingo,Dominican Republic,"6' 2""",210,True,Pitcher,P,M,N/A,"Muñoz, Rod",Right,Right,3.467,1.589
+681676,Ryan Fernandez,Ryan,Fernandez,64,1998-06-11,26,Tampa,USA,"6' 0""",200,True,Pitcher,P,M,Austin,Fernandez,Right,Right,3.371,1.535
+664854,Ryan Helsley,Ryan,Helsley,56,1994-07-18,30,Tahlequah,USA,"6' 2""",235,True,Pitcher,P,M,Dalton,Helsley,Right,Right,3.467,1.589
+702795,Ryan Loutos,Ryan,Loutos,68,1999-01-29,25,Elk Grove Village,USA,"6' 5""",240,True,Pitcher,P,M,William,Loutos,Right,Right,3.575,1.681
+691828,Sem Robberse,Sem,Robberse,61,2001-10-12,23,Zeist,Netherlands,"6' 1""",195,True,Pitcher,P,M,N/A,Robberse,Right,Right,3.411,1.565
+543243,Sonny Gray,Sonny,Gray,54,1989-11-07,35,Smyrna,USA,"5' 10""",190,True,Pitcher,P,M,Douglas,"Gray, S",Right,Right,3.38,1.57
+571927,Steven Matz,Steven,Matz,32,1991-05-29,33,Stony Brook,USA,"6' 2""",205,True,Pitcher,P,M,Jakob,Matz,Right,Left,3.467,1.589
+694358,Tekoah Roby,Tekoah,Roby,N/A,2001-09-18,23,Asheville,USA,"6' 1""",210,True,Pitcher,P,M,Clark,Roby,Right,Right,3.411,1.565
+695336,Thomas Saggese,Thomas,Saggese,25,2002-04-10,22,Carlsbad,USA,"5' 11""",185,True,Second Base,2B,M,Darren,Saggese,Right,Right,3.48,1.64
+693311,Tink Hence,Markevian,Hence,N/A,2002-08-06,22,Pine Bluff,USA,"6' 1""",195,True,Pitcher,P,M,N/A,Hence,Right,Right,3.411,1.565
+687363,Victor Scott II,Victor,Scott,11,2001-02-12,23,Atlanta,USA,"5' 11""",190,True,Outfielder,CF,M,Dwanyne,Scott II,Left,Left,3.28,1.53
+575929,Willson Contreras,Willson,Contreras,40,1992-05-13,32,Puerto Cabello,Venezuela,"6' 1""",240,True,Catcher,C,M,Eduardo,"Contreras, Wn",Right,Right,3.49,1.61
+668868,Zack Thompson,Zachary,Thompson,57,1997-10-28,27,Selma,USA,"6' 2""",215,True,Pitcher,P,M,David,"Thompson, Z.D.",Left,Left,3.467,1.589
+666163,Ben Rortvedt,Benjamin,Rortvedt,30,1997-09-25,27,Madison,USA,"5' 9""",191,True,Catcher,C,M,Thomas,Rortvedt,Left,Right,3.05,1.4
+664040,Brandon Lowe,Brandon,Lowe,8,1994-07-06,30,Suffolk,USA,"5' 10""",185,True,Second Base,2B,M,Norman,"Lowe, B",Left,Right,3.2,1.46
+666624,Christopher Morel,Christopher,Morel,24,1999-06-24,25,Santiago,Dominican Republic,"5' 11""",145,True,Third Base,3B,M,Rafael,"Morel, C",Right,Right,3.55,1.6
+642121,Cole Sulser,Cole,Sulser,71,1990-03-12,34,Santa Ysabel,USA,"6' 1""",190,True,Pitcher,P,M,Young,Sulser,Right,Right,3.411,1.565
+678554,Curtis Mead,Curtis,Mead,25,2000-10-26,24,Adelaide,Australia,"6' 1""",171,True,Second Base,2B,M,James,Mead,Right,Right,3.62,1.64
+643376,Danny Jansen,Daniel,Jansen,19,1995-04-15,29,Elmhurst,USA,"6' 2""",215,True,Catcher,C,M,Robert,"Jansen, D",Right,Right,3.2,1.5
+656876,Drew Rasmussen,Drew,Rasmussen,57,1995-07-27,29,Puyallup,USA,"6' 1""",211,True,Pitcher,P,M,Thomas,Rasmussen,Right,Right,3.411,1.565
+670955,Edwin Uceta,Edwin,Uceta,63,1998-01-09,26,Villa Los Almacigos,Dominican Republic,"6' 0""",155,True,Pitcher,P,M,Daniel,Uceta,Right,Right,3.371,1.535
+679358,Eric Orze,Eric,Orze,N/A,1997-08-21,27,Elk Grove,USA,"6' 4""",195,True,Pitcher,P,M,Paul,Orze,Right,Right,3.549,1.627
+664076,Garrett Cleavinger,Garrett,Cleavinger,60,1994-04-23,30,Lawrence,USA,"6' 1""",220,True,Pitcher,P,M,J.,Cleavinger,Right,Left,3.411,1.565
+685801,Hunter Bigge,Hunter,Bigge,43,1998-06-12,26,Los Gatos,USA,"6' 1""",205,True,Pitcher,P,M,Bradford,Bigge,Right,Right,3.411,1.565
+693855,Ian Seymour,Ian,Seymour,N/A,1998-12-13,26,Madison,USA,"6' 0""",210,True,Pitcher,P,M,Albert,"Seymour, I",Left,Left,3.371,1.535
+621097,Jacob Waguespack,Jacob,Waguespack,40,1993-11-05,31,Prairieville,USA,"6' 6""",235,True,Pitcher,P,M,Daniel,Waguespack,Right,Right,3.656,1.677
+663968,Jake Mangum,Jake,Mangum,N/A,1996-03-08,28,Flowood,USA,"5' 11""",179,True,Outfielder,CF,M,Thomas,Mangum,Switch,Left,3.319,1.513
+671212,Joe Boyle,Joseph,Boyle,N/A,1999-08-14,25,O'Fallon,USA,"6' 7""",240,True,Pitcher,P,M,Patrick,Boyle,Right,Right,3.756,1.746
+697812,Joe Rock,Joseph,Rock,N/A,2000-07-29,24,Sewickley,USA,"6' 6""",200,True,Pitcher,P,M,Richard,Rock,Left,Left,3.656,1.677
+666018,Jonathan Aranda,Jonathan,Aranda,62,1998-05-23,26,Tijuana,Mexico,"6' 0""",210,True,First Base,1B,M,Alexander,Aranda,Left,Right,3.24,1.49
+676356,Jonny DeLuca,Jonathan,DeLuca,21,1998-07-10,26,Thousand Oaks,USA,"6' 0""",200,True,Outfielder,RF,M,Davis,DeLuca,Right,Right,3.19,1.51
+676609,José Caballero,José,Caballero,7,1996-08-30,28,Las Tablas,Panama,"5' 9""",185,True,Shortstop,SS,M,N/A,Caballero,Right,Right,3.03,1.38
+666139,Josh Lowe,Joshua,Lowe,15,1998-02-02,26,Chesapeake,USA,"6' 4""",205,True,Outfielder,RF,M,Edward,"Lowe, J",Left,Right,3.61,1.76
+691406,Junior Caminero,Junior,Caminero,13,2003-07-05,21,Santo Domingo,Dominican Republic,"6' 1""",220,True,Third Base,3B,M,Alberto,Caminero,Right,Right,3.54,1.59
+670224,Kameron Misner,Kameron,Misner,26,1998-01-08,26,Poplar Bluff,USA,"6' 4""",218,True,Outfielder,LF,M,Lee,Misner,Left,Left,3.55,1.63
+687330,Kevin Kelly,Kevin,Kelly,49,1997-11-28,27,Springfield,USA,"6' 2""",200,True,Pitcher,P,M,Clayton,Kelly,Right,Right,3.467,1.589
+686482,Logan Driscoll,Logan,Driscoll,41,1997-11-03,27,Colorado Springs,USA,"5' 11""",195,True,Catcher,C,M,Rylee,Driscoll,Left,Right,3.37,1.52
+655889,Manuel Rodríguez,Manuel,Rodríguez,39,1996-08-06,28,Merida,Mexico,"5' 11""",210,True,Pitcher,P,M,De Jesus,"Rodríguez, M",Right,Right,3.319,1.513
+682254,Mason Montgomery,Mason,Montgomery,48,2000-06-17,24,Austin,USA,"6' 2""",195,True,Pitcher,P,M,Jack,"Montgomery, M",Left,Left,3.47,1.59
+678024,Mike Vasil,Michael,Vasil,N/A,2000-03-19,24,Boston,USA,"6' 5""",225,True,Pitcher,P,M,N/A,Vasil,Left,Right,3.549,1.627
+681320,Nate Lavender,Nathan,Lavender,N/A,2000-01-20,24,Hudson,USA,"6' 2""",210,True,Pitcher,P,M,James,Lavender,Left,Left,3.467,1.589
+678545,Osleivis Basabe,Osleivis,Basabe,37,2000-09-13,24,Bobures,Venezuela,"5' 11""",188,True,Shortstop,SS,M,Jose,Basabe,Right,Right,3.53,1.58
+664126,Pete Fairbanks,Peter,Fairbanks,29,1993-12-16,31,Milwaukee,USA,"6' 6""",225,True,Pitcher,P,M,Anderson,Fairbanks,Right,Right,3.656,1.677
+680700,Richie Palacios,Richard,Palacios,1,1997-05-16,27,Brooklyn,USA,"5' 10""",180,True,Second Base,2B,M,Jordan,"Palacios, R",Left,Right,3.3,1.55
+686752,Ryan Pepiot,Ryan,Pepiot,44,1997-08-21,27,Indianapolis,USA,"6' 3""",215,True,Pitcher,P,M,Michael,Pepiot,Right,Right,3.49,1.601
+669358,Shane Baz,Shane,Baz,11,1999-06-17,25,Houston,USA,"6' 2""",190,True,Pitcher,P,M,Austin,Baz,Right,Right,3.467,1.589
+663556,Shane McClanahan,Shane,McClanahan,18,1997-04-28,27,Baltimore,USA,"6' 1""",200,True,Pitcher,P,M,N/A,McClanahan,Left,Left,3.411,1.565
+671737,Taj Bradley,Taj,Bradley,45,2001-03-20,23,Los Angeles,USA,"6' 2""",190,True,Pitcher,P,M,Ali,"Bradley, T",Right,Right,3.467,1.589
+670764,Taylor Walls,Taylor,Walls,6,1996-07-10,28,Cordele,USA,"5' 10""",185,True,Shortstop,SS,M,N/A,Walls,Switch,Right,3.39,1.55
+650490,Yandy Díaz,Yandy,Díaz,2,1991-08-08,33,Sagua la Grande,Cuba,"6' 2""",215,True,First Base,1B,M,N/A,"Díaz, Y",Right,Right,3.38,1.58
+692414,Yoniel Curet,Yoniel,Curet,58,2002-11-03,22,San Pedro de Macoris,Dominican Republic,"6' 2""",190,True,Pitcher,P,M,N/A,Curet,Right,Right,3.467,1.589
+641793,Zack Littell,Zack,Littell,52,1995-10-05,29,Burlington,USA,"6' 4""",220,True,Pitcher,P,M,Stuart,Littell,Right,Right,3.549,1.627
+666969,Adolis García,Jose,García,53,1993-03-02,31,Ciego de Avila,Cuba,"6' 1""",205,True,Outfielder,RF,M,Adolis,"García, Ad",Right,Right,3.51,1.74
+674003,Cody Bradford,Cody,Bradford,61,1998-02-22,26,Aledo,USA,"6' 4""",197,True,Pitcher,P,M,N/A,Bradford,Left,Left,3.549,1.627
+668390,Cole Winn,Cole,Winn,60,1999-11-25,25,Longmont,USA,"6' 2""",190,True,Pitcher,P,M,Robert,"Winn, C",Right,Right,3.467,1.589
+608369,Corey Seager,Corey,Seager,5,1994-04-27,30,Charlotte,USA,"6' 4""",215,True,Shortstop,SS,M,Drew,Seager,Left,Right,3.45,1.51
+641540,Dane Dunning,Dane,Dunning,33,1994-12-20,30,Orange Park,USA,"6' 4""",225,True,Pitcher,P,M,Anthony,Dunning,Right,Right,3.549,1.627
+642016,Daniel Robert,Daniel,Robert,57,1994-08-30,30,Hoover,USA,"6' 4""",210,True,Pitcher,P,M,McGee,Robert,Left,Right,3.549,1.627
+687957,Dustin Harris,Dustin,Harris,38,1999-07-08,25,Tampa,USA,"6' 2""",185,True,Outfielder,CF,M,Alexander,Harris,Left,Right,3.467,1.589
+693713,Emiliano Teodo,Emiliano,Teodo,N/A,2001-02-14,23,Barahona,Dominican Republic,"6' 1""",165,True,Pitcher,P,M,N/A,Teodo,Right,Right,3.411,1.565
+694497,Evan Carter,Evan,Carter,32,2002-08-29,22,Elizabethton,USA,"6' 2""",190,True,Outfielder,LF,M,Jason,Carter,Left,Right,3.68,1.63
+677649,Ezequiel Duran,Ezequiel,Duran,20,1999-05-22,25,San Juan de la Maguana,Dominican Republic,"5' 11""",185,True,Third Base,3B,M,Alberto,"Duran, E",Right,Right,3.37,1.56
+642520,Gerson Garabito,Gerson,Garabito,58,1995-08-19,29,San Cristobal,Dominican Republic,"6' 0""",160,True,Pitcher,P,M,Yeris,Garabito,Right,Right,3.371,1.535
+571948,Hoby Milner,Hoby,Milner,N/A,1991-01-13,33,Dallas,USA,"6' 3""",187,True,Pitcher,P,M,Trey,Milner,Left,Left,3.49,1.601
+683004,Jack Leiter,Jack,Leiter,35,2000-04-21,24,Plantation,USA,"6' 1""",205,True,Pitcher,P,M,Thomas,Leiter,Right,Right,3.371,1.535
+656641,Jacob Latz,Jacob,Latz,67,1996-04-08,28,Lemont,USA,"6' 2""",185,True,Pitcher,P,M,Eugene,Latz,Right,Left,3.467,1.589
+657097,Jacob Webb,Jacob,Webb,71,1993-08-15,31,Riverside,USA,"6' 2""",210,True,Pitcher,P,M,Lawrence,"Webb, J",Right,Right,3.467,1.589
+594798,Jacob deGrom,Jacob,deGrom,48,1988-06-19,36,DeLand,USA,"6' 4""",180,True,Pitcher,P,M,Anthony,deGrom,Left,Right,3.549,1.627
+669394,Jake Burger,Jacob,Burger,21,1996-04-10,28,St. Louis,USA,"6' 2""",230,True,Third Base,3B,M,Michael,Burger,Right,Right,3.31,1.57
+592626,Joc Pederson,Joc,Pederson,4,1992-04-21,32,Palo Alto,USA,"6' 1""",220,True,Designated Hitter,DH,M,R.,Pederson,Left,Left,3.54,1.71
+592351,Jon Gray,Jonathan,Gray,22,1991-11-05,33,Shawnee,USA,"6' 4""",225,True,Pitcher,P,M,Charles,"Gray, Jn",Right,Right,3.51,1.63
+641680,Jonah Heim,Jonah,Heim,28,1995-06-27,29,Buffalo,USA,"6' 4""",220,True,Catcher,C,M,Nathan,Heim,Switch,Right,3.47,1.63
+680716,Jonathan Ornelas,Jonathan,Ornelas,21,2000-05-26,24,Glendale,USA,"6' 0""",196,True,Third Base,3B,M,N/A,Ornelas,Right,Right,3.75,1.77
+692030,Jose Corniell,Jose,Corniell,87,2003-06-22,21,Santo Domingo,Dominican Republic,"6' 3""",165,True,Pitcher,P,M,Armando,Corniell,Right,Right,3.49,1.601
+673962,Josh Jung,Joshua,Jung,6,1998-02-12,26,San Antonio,USA,"6' 2""",214,True,Third Base,3B,M,Ryne,Jung,Right,Right,3.75,1.78
+622250,Josh Sborz,Joshua,Sborz,66,1993-12-17,31,Washington,USA,"6' 3""",215,True,Pitcher,P,M,Alan,Sborz,Right,Right,3.49,1.601
+669701,Josh Smith,Josh,Smith,8,1997-08-07,27,Baton Rouge,USA,"5' 10""",172,True,Third Base,3B,M,Harris,Smith,Left,Right,3.1,1.49
+679822,Justin Foscue,Justin,Foscue,56,1999-03-02,25,Huntsville,USA,"5' 11""",205,True,First Base,1B,M,Connor,Foscue,Right,Right,3.42,1.6
+677958,Kumar Rocker,Kumar,Rocker,80,1999-11-22,25,Watkinsville,USA,"6' 5""",245,True,Pitcher,P,M,N/A,Rocker,Right,Right,3.575,1.681
+543309,Kyle Higashioka,Kyle,Higashioka,11,1990-04-20,34,Huntington Beach,USA,"6' 1""",202,True,Catcher,C,M,Harris,Higashioka,Right,Right,3.42,1.63
+665750,Leody Taveras,Leody,Taveras,3,1998-09-08,26,Tenares,Dominican Republic,"6' 2""",195,True,Outfielder,CF,M,N/A,Taveras,Switch,Right,3.69,1.8
+681168,Luis Curvelo,Luis,Curvelo,N/A,2000-10-21,24,Higuerote,Venezuela,"6' 1""",170,True,Pitcher,P,M,Jefferso,Curvelo,Right,Right,3.411,1.565
+687847,Marc Church,Marc,Church,68,2001-03-30,23,Atlanta,USA,"6' 3""",189,True,Pitcher,P,M,Easton,Church,Right,Right,3.49,1.601
+543760,Marcus Semien,Marcus,Semien,2,1990-09-17,34,San Francisco,USA,"6' 0""",195,True,Second Base,2B,M,Andrew,Semien,Right,Right,3.38,1.67
+670036,Matt Festa,Matthew,Festa,63,1993-03-11,31,Brooklyn,USA,"6' 1""",195,True,Pitcher,P,M,Joseph,"Festa, M",Right,Right,3.411,1.565
+543135,Nathan Eovaldi,Nathan,Eovaldi,17,1990-02-13,34,Houston,USA,"6' 2""",217,True,Pitcher,P,M,Edward,Eovaldi,Right,Right,3.467,1.589
+676395,Robert Garcia,Robert,Garcia,N/A,1996-06-14,28,Manteca,USA,"6' 4""",236,True,Pitcher,P,M,Christopher,"Garcia, Ro",Right,Left,3.549,1.627
+542888,Shawn Armstrong,Shawn,Armstrong,N/A,1990-09-11,34,New Bern,USA,"6' 2""",225,True,Pitcher,P,M,Michael,Armstrong,Right,Right,3.467,1.589
+641816,Tyler Mahle,Tyler,Mahle,51,1994-09-29,30,Newport Beach,USA,"6' 3""",210,True,Pitcher,P,M,F.,Mahle,Right,Right,3.4,1.56
+679156,Walter Pennington,Walter,Pennington,52,1998-04-14,26,Broomfield,USA,"6' 2""",205,True,Pitcher,P,M,Carlton,Pennington,Left,Left,3.467,1.589
+692437,Winston Santos,Winston,Santos,N/A,2002-04-15,22,Payita,Dominican Republic,"6' 0""",160,True,Pitcher,P,M,N/A,Santos,Right,Right,3.371,1.535
+694671,Wyatt Langford,Wyatt,Langford,36,2001-11-15,23,Trenton,USA,"6' 0""",225,True,Outfielder,LF,M,Michael,Langford,Right,Right,3.51,1.67
+671936,Adam Macko,Adam,Macko,64,2000-12-30,24,Bratislava,Slovakia,"6' 0""",170,True,Pitcher,P,M,N/A,Macko,Left,Left,3.371,1.535
+680718,Addison Barger,Addison,Barger,47,1999-11-12,25,Bellvue,USA,"5' 11""",210,True,Third Base,3B,M,N/A,Barger,Left,Right,3.64,1.76
+672386,Alejandro Kirk,Alejandro,Kirk,30,1998-11-06,26,Tijuana,Mexico,"5' 8""",245,True,Catcher,C,M,N/A,Kirk,Right,Right,3.09,1.46
+666201,Alek Manoah,Alek,Manoah,6,1998-01-09,26,Homestead,USA,"6' 6""",285,True,Pitcher,P,M,Isaac,Manoah,Right,Right,3.656,1.677
+665926,Andrés Giménez,Andrés,Giménez,60,1998-09-04,26,Barquisimeto,Venezuela,"5' 11""",161,True,Second Base,2B,M,Alfonso,Gimenez,Left,Right,3.15,1.43
+682785,Angel Bastardo,Angel,Bastardo,N/A,2002-06-18,22,Moron,Venezuela,"6' 1""",175,True,Pitcher,P,M,Jose,Bastardo,Right,Right,3.411,1.565
+666182,Bo Bichette,Bo,Bichette,11,1998-03-05,26,Orlando,USA,"6' 0""",190,True,Shortstop,SS,M,Joseph,Bichette,Right,Right,3.66,1.73
+670102,Bowden Francis,Robert,Francis,44,1996-04-22,28,Tallahassee,USA,"6' 5""",220,True,Pitcher,P,M,Bowden,Francis,Right,Right,3.575,1.681
+685126,Brandon Eisert,Brandon,Eisert,60,1998-01-19,26,Portland,USA,"6' 2""",205,True,Pitcher,P,M,Michael,Eisert,Left,Left,3.467,1.589
+663893,Brendon Little,Brendon,Little,54,1996-08-11,28,Bryn Mawr,USA,"6' 2""",195,True,Pitcher,P,M,David,Little,Left,Left,3.467,1.589
+676969,Brett de Geus,Brett,de Geus,31,1997-11-04,27,Pleasanton,USA,"6' 2""",190,True,Pitcher,P,M,N/A,de Geus,Right,Right,3.467,1.589
+643338,Chad Green,Chad,Green,57,1991-05-24,33,Greenville,USA,"6' 3""",215,True,Pitcher,P,M,Keith,Green,Left,Right,3.49,1.601
+605135,Chris Bassitt,Christopher,Bassitt,40,1989-02-22,35,Toledo,USA,"6' 5""",217,True,Pitcher,P,M,M.,Bassitt,Right,Right,3.575,1.681
+662139,Daulton Varsho,Daulton,Varsho,25,1996-07-02,28,Marshfield,USA,"5' 8""",207,True,Outfielder,CF,M,John,Varsho,Left,Right,3.37,1.58
+676914,Davis Schneider,Davis,Schneider,36,1999-01-26,25,Berlin,USA,"5' 9""",190,True,Outfielder,LF,M,N/A,Schneider,Right,Right,2.99,1.48
+687922,Easton Lucas,Easton,Lucas,62,1996-09-23,28,Thousand Oaks,USA,"6' 4""",180,True,Pitcher,P,M,James,Lucas,Left,Left,3.549,1.627
+657024,Erik Swanson,Erik,Swanson,50,1993-09-04,31,Fargo,USA,"6' 3""",225,True,Pitcher,P,M,Donald,"Swanson, E",Right,Right,3.49,1.601
+676391,Ernie Clement,Ernie,Clement,22,1996-03-22,28,Rochester,USA,"6' 0""",170,True,Third Base,3B,M,James,Clement,Right,Right,3.37,1.56
+543807,George Springer,George,Springer,4,1989-09-19,35,New Britain,USA,"6' 3""",220,True,Outfielder,RF,M,Chelston,Springer,Right,Right,3.68,1.65
+814005,Jake Bloss,John,Bloss,39,2001-06-23,23,Greensboro,USA,"6' 3""",223,True,Pitcher,P,M,N/A,Bloss,Right,Right,3.49,1.601
+694388,Joey Loperfido,Mario,Loperfido,10,1999-05-11,25,Philadelphia,USA,"6' 3""",220,True,Outfielder,LF,M,Joseph,"Loperfido, J",Left,Right,3.4,1.64
+682729,Jonatan Clase,Jonatan,Clase,8,2002-05-23,22,Santo Domingo,Dominican Republic,"5' 10""",150,True,Outfielder,LF,M,N/A,"Clase, J",Switch,Right,3.27,1.59
+621244,José Berríos,José,Berríos,17,1994-05-27,30,Bayamon,Puerto Rico,"6' 0""",205,True,Pitcher,P,M,Orlando,Berríos,Right,Right,3.371,1.535
+677020,Josh Walker,Joshua,Walker,N/A,1994-12-01,30,Otisville,USA,"6' 6""",225,True,Pitcher,P,M,N/A,"Walker, J",Left,Left,3.656,1.677
+592332,Kevin Gausman,Kevin,Gausman,34,1991-01-06,33,Centennial,USA,"6' 2""",205,True,Pitcher,P,M,John,Gausman,Left,Right,3.59,1.67
+677870,Leo Jiménez,Leonardo,Jimenez,49,2001-05-17,23,Chitre,Panama,"5' 10""",215,True,Shortstop,SS,M,Joel,Jiménez,Right,Right,3.27,1.56
+656848,Michael Petersen,Michael,Petersen,N/A,1994-05-16,30,Middlesex,United Kingdom,"6' 7""",195,True,Pitcher,P,M,Kenechukwu,Petersen,Right,Right,3.756,1.746
+664770,Nathan Lukes,Nathan,Lukes,38,1994-07-12,30,Sacramento,USA,"5' 11""",180,True,Outfielder,LF,M,Donald,Lukes,Left,Right,3.44,1.61
+687798,Nick Robertson,Nicholas,Robertson,52,1998-07-16,26,Roanoke,USA,"6' 6""",235,True,Pitcher,P,M,Parker,Robertson,Right,Right,3.656,1.677
+680704,Nick Sandlin,Nick,Sandlin,N/A,1997-01-10,27,Evans,USA,"5' 11""",175,True,Pitcher,P,M,Howard,Sandlin,Right,Right,3.319,1.513
+682619,Orelvis Martinez,Orelvis,Martinez,13,2001-11-19,23,Santo Domingo,Dominican Republic,"5' 11""",200,True,Second Base,2B,M,Miguel,"Martinez, O",Right,Right,3.319,1.513
+621114,Ryan Burr,Ryan,Burr,43,1994-05-28,30,Highlands Ranch,USA,"6' 4""",220,True,Pitcher,P,M,Matthew,Burr,Right,Right,3.549,1.627
+672642,Steward Berroa,Steward,Berroa,37,1999-06-05,25,Santo Domingo,Dominican Republic,"5' 9""",178,True,Outfielder,RF,M,N/A,Berroa,Switch,Right,3.1,1.52
+667297,Tommy Nance,Thomas,Nance,45,1991-03-19,33,Long Beach,USA,"6' 6""",235,True,Pitcher,P,M,Andrew,Nance,Right,Right,3.656,1.677
+623168,Tyler Heineman,Tyler,Heineman,55,1991-06-19,33,Pacific Palisades,USA,"5' 10""",190,True,Catcher,C,M,Andrew,Heineman,Switch,Right,3.13,1.49
+665489,Vladimir Guerrero Jr.,Vladimir,Guerrero,27,1999-03-16,25,Montreal,Canada,"6' 2""",245,True,First Base,1B,M,N/A,Guerrero Jr.,Right,Right,3.64,1.64
+695238,Will Wagner,William,Wagner,7,1998-07-29,26,Houston,USA,"5' 11""",210,True,Second Base,2B,M,James,Wagner,Left,Right,3.22,1.5
+684320,Yariel Rodríguez,Yariel,Rodriguez,29,1997-03-10,27,Camaguey,Cuba,"6' 0""",165,True,Pitcher,P,M,Humberto,"Rodríguez, Y",Right,Right,3.371,1.535
+554340,Yimi García,Yimi,García,63,1990-08-18,34,Moca,Dominican Republic,"6' 1""",230,True,Pitcher,P,M,N/A,"García, Y",Right,Right,3.411,1.565
+647315,Zach Pop,Zachery,Pop,56,1996-09-20,28,Brampton,Canada,"6' 4""",220,True,Pitcher,P,M,M.,Pop,Right,Right,3.549,1.627
+668885,Austin Martin,Christopher,Martin,82,1999-03-23,25,DeLand,USA,"5' 11""",185,True,Outfielder,CF,M,Austin,Martin,Right,Right,3.17,1.52
+641927,Bailey Ober,John,Ober,17,1995-07-12,29,Huntersville,USA,"6' 9""",260,True,Pitcher,P,M,Bailey,Ober,Right,Right,3.82,1.665
+687396,Brent Headrick,Brent,Headrick,53,1997-12-17,27,Braidwood,USA,"6' 6""",235,True,Pitcher,P,M,Wayne,Headrick,Left,Left,3.656,1.677
+592779,Brock Stewart,Brock,Stewart,61,1991-10-03,33,Normal,USA,"6' 3""",220,True,Pitcher,P,M,Allen,Stewart,Left,Right,3.49,1.601
+686797,Brooks Lee,Brooks,Lee,72,2001-02-14,23,San Luis Obispo,USA,"6' 1""",205,True,Shortstop,SS,M,Thomas,Lee,Switch,Right,3.29,1.59
+621439,Byron Buxton,Byron,Buxton,25,1993-12-18,31,Baxley,USA,"6' 2""",190,True,Outfielder,CF,M,Keiron,Buxton,Right,Right,3.48,1.6
+621043,Carlos Correa,Carlos,Correa,4,1994-09-22,30,Ponce,Puerto Rico,"6' 4""",220,True,Shortstop,SS,M,Javier,Correa,Right,Right,3.63,1.76
+663978,Chris Paddack,Christopher,Paddack,20,1996-01-08,28,Austin,USA,"6' 5""",217,True,Pitcher,P,M,Joseph,Paddack,Right,Right,3.47,1.7
+543877,Christian Vázquez,Christian,Vázquez,8,1990-08-21,34,Bayamon,Puerto Rico,"5' 9""",205,True,Catcher,C,M,Rafael,Vázquez,Right,Right,3.26,1.57
+663485,Cole Sands,Bryson,Sands,44,1997-07-17,27,Tallahassee,USA,"6' 3""",215,True,Pitcher,P,M,Cole,Sands,Right,Right,3.49,1.601
+680577,DaShawn Keirsey Jr.,DaShawn,Keirsey,89,1997-05-13,27,San Diego,USA,"6' 1""",195,True,Outfielder,CF,M,Robert,Keirsey Jr.,Left,Left,3.411,1.565
+701581,David Festa,David,Festa,58,2000-03-08,24,Verona,USA,"6' 6""",185,True,Pitcher,P,M,N/A,"Festa, D",Right,Right,3.656,1.677
+666397,Edouard Julien,Edouard,Julien,47,1999-04-30,25,Quebec City,Canada,"6' 0""",195,True,Second Base,2B,M,N/A,Julien,Left,Right,3.3,1.64
+682769,Eiberson Castellano,Eiberson,Castellano,N/A,2001-05-09,23,Maracaibo,Venezuela,"6' 3""",160,True,Pitcher,P,M,Jose,Castellano,Right,Right,3.49,1.601
+691181,Emmanuel Rodriguez,Emmanuel,Rodriguez,87,2003-02-28,21,Santiago,Dominican Republic,"5' 11""",210,True,Outfielder,CF,M,N/A,"Rodriguez, Em",Left,Left,3.319,1.513
+643377,Griffin Jax,James,Jax,22,1994-11-22,30,Phoenix,USA,"6' 2""",195,True,Pitcher,P,M,Griffin,Jax,Right,Right,3.467,1.589
+665856,Jair Camargo,Jair,Camargo,85,1999-07-01,25,Barranquilla,Colombia,"5' 10""",230,True,Catcher,C,M,David,Camargo,Right,Right,3.301,1.504
+661395,Jhoan Duran,Jhoan,Duran,59,1998-01-08,26,Esperanza,Dominican Republic,"6' 5""",230,True,Pitcher,P,M,Manuel,"Duran, J",Right,Right,3.575,1.681
+657746,Joe Ryan,Joseph,Ryan,41,1996-06-05,28,San Francisco,USA,"6' 2""",205,True,Pitcher,P,M,Philip,Ryan,Right,Right,3.467,1.589
+660896,Jorge Alcala,Jorge,Alcala,66,1995-07-28,29,Bajos de Haina,Dominican Republic,"6' 3""",205,True,Pitcher,P,M,Luis,Alcala,Right,Right,3.49,1.601
+669304,Jose Miranda,Jose,Miranda,64,1998-06-29,26,Manati,Puerto Rico,"6' 2""",210,True,Third Base,3B,M,Francisco,Miranda,Right,Right,3.03,1.42
+623437,Justin Topa,Justin,Topa,48,1991-03-07,33,Binghamton,USA,"6' 4""",200,True,Pitcher,P,M,Robert,Topa,Right,Right,3.549,1.627
+681892,Kody Funderburk,Kody,Funderburk,55,1996-11-27,28,Mesa,USA,"6' 4""",230,True,Pitcher,P,M,N/A,Funderburk,Left,Left,3.549,1.627
+686973,Louie Varland,Louie,Varland,37,1997-12-09,27,St. Paul,USA,"6' 1""",205,True,Pitcher,P,M,Dennis,"Varland, L",Left,Right,3.411,1.565
+694397,Marco Raya,Marco,Raya,N/A,2002-08-07,22,Laredo,USA,"6' 1""",170,True,Pitcher,P,M,Antonio,Raya,Right,Right,3.411,1.565
+683764,Matt Canterino,Matthew,Canterino,83,1997-12-14,27,Southlake,USA,"6' 2""",222,True,Pitcher,P,M,James,Canterino,Right,Right,3.467,1.589
+670242,Matt Wallner,Matthew,Wallner,38,1997-12-12,27,Forest Lake,USA,"6' 4""",220,True,Outfielder,RF,M,N/A,Wallner,Left,Right,3.67,1.81
+680737,Michael Helman,Michael,Helman,92,1996-05-23,28,Lincoln,USA,"6' 0""",195,True,Outfielder,CF,M,James,Helman,Right,Right,3.371,1.535
+543859,Michael Tonkin,Michael,Tonkin,39,1989-11-19,35,Glendale,USA,"6' 7""",220,True,Pitcher,P,M,Harvey,Tonkin,Right,Right,3.756,1.746
+681508,Mickey Gasper,Michael,Gasper,N/A,1995-10-11,29,Merrimack,USA,"5' 10""",205,True,Second Base,2B,M,N/A,Gasper,Switch,Right,3.17,1.44
+641154,Pablo López,Pablo,López,49,1996-03-07,28,Cabimas,Venezuela,"6' 4""",225,True,Pitcher,P,M,Jose,"López, P",Left,Right,3.66,1.72
+678692,Ronny Henriquez,Ronny,Henriquez,31,2000-06-20,24,Bonao,Dominican Republic,"5' 10""",155,True,Pitcher,P,M,N/A,"Henriquez, R",Right,Right,3.301,1.504
+668904,Royce Lewis,Royce,Lewis,23,1999-06-05,25,Aliso Viejo,USA,"6' 2""",200,True,Third Base,3B,M,Oliver,Lewis,Right,Right,3.51,1.72
+680777,Ryan Jeffers,Ryan,Jeffers,27,1997-06-03,27,Raleigh,USA,"6' 4""",235,True,Catcher,C,M,Michael,Jeffers,Right,Right,3.31,1.59
+680573,Simeon Woods Richardson,Simeon,Woods Richardson,78,2000-09-27,24,Sugar Land,USA,"6' 3""",210,True,Pitcher,P,M,N/A,Woods Richardson,Right,Right,3.49,1.601
+701519,Travis Adams,Travis,Adams,N/A,2000-01-19,24,Palm Springs,USA,"6' 1""",197,True,Pitcher,P,M,Michael,Adams,Right,Right,3.411,1.565
+663616,Trevor Larnach,Trevor,Larnach,9,1997-02-26,27,Walnut Creek,USA,"6' 4""",223,True,Outfielder,LF,M,John-Ikaiakaloa,Larnach,Left,Right,3.76,1.79
+650489,Willi Castro,Willi,Castro,50,1997-04-24,27,Rio Piedras,Puerto Rico,"6' 1""",206,True,Shortstop,SS,M,Rafael,"Castro, W",Switch,Right,3.54,1.69
+805673,Zebby Matthews,Daniel,Matthews,52,2000-05-22,24,Cullowhee,USA,"6' 5""",225,True,Pitcher,P,M,Zebulon,Matthews,Right,Right,3.575,1.681
+605400,Aaron Nola,Aaron,Nola,27,1993-06-04,31,Baton Rouge,USA,"6' 2""",200,True,Pitcher,P,M,Michael,"Nola, Aa",Right,Right,3.36,1.54
+660604,Alan Rangel,Alan,Rangel,N/A,1997-08-21,27,Hermosillo,Mexico,"6' 2""",170,True,Pitcher,P,M,Eduardo,Rangel,Right,Right,3.467,1.589
+664761,Alec Bohm,Alec,Bohm,28,1996-08-03,28,Omaha,USA,"6' 5""",218,True,Third Base,3B,M,Daniel,Bohm,Right,Right,3.63,1.66
+669016,Brandon Marsh,Brandon,Marsh,16,1997-12-18,27,Buford,USA,"6' 4""",215,True,Outfielder,LF,M,Chase,Marsh,Left,Right,3.2,1.56
+547180,Bryce Harper,Bryce,Harper,3,1992-10-16,32,Las Vegas,USA,"6' 3""",210,True,First Base,1B,M,Aron Max,Harper,Left,Right,3.22,1.69
+681082,Bryson Stott,Bryson,Stott,5,1997-10-06,27,Las Vegas,USA,"6' 3""",200,True,Second Base,2B,M,Jeremy,Stott,Left,Right,3.32,1.61
+671083,Buddy Kennedy,Clifton,Kennedy,19,1998-10-05,26,Millville,USA,"5' 10""",190,True,Second Base,2B,M,Lewis,"Kennedy, B",Right,Right,3.09,1.43
+670276,Cal Stevenson,Cal,Stevenson,47,1996-09-12,28,Fremont,USA,"5' 9""",175,True,Outfielder,CF,M,N/A,Stevenson,Left,Left,3.13,1.4
+650911,Cristopher Sánchez,Cristopher,Sánchez,61,1996-12-12,28,La Romana,Dominican Republic,"6' 1""",165,True,Pitcher,P,M,Alexis,"Sánchez, C",Left,Left,3.411,1.565
+682967,Devin Sweet,Devin,Sweet,N/A,1996-09-06,28,Greensboro,USA,"5' 11""",183,True,Pitcher,P,M,N/A,Sweet,Switch,Right,3.319,1.513
+624641,Edmundo Sosa,Edmundo,Sosa,33,1996-03-06,28,Panama City,Panama,"6' 0""",210,True,Shortstop,SS,M,Israel,"Sosa, E",Right,Right,3.54,1.69
+596117,Garrett Stubbs,Garrett,Stubbs,21,1993-05-26,31,San Diego,USA,"5' 10""",170,True,Catcher,C,M,Patrick,Stubbs,Left,Right,2.95,1.39
+592663,J.T. Realmuto,Jacob,Realmuto,10,1991-03-18,33,Del City,USA,"6' 1""",212,True,Catcher,C,M,Tyler,Realmuto,Right,Right,3.71,1.76
+691893,Jean Cabrera,Jean,Cabrera,N/A,2001-10-20,23,Maracay,Venezuela,"6' 0""",145,True,Pitcher,P,M,Carlos Eduardo,"Cabrera, J",Right,Right,3.371,1.535
+666200,Jesús Luzardo,Jesús,Luzardo,44,1997-09-30,27,Lima,Peru,"6' 0""",218,True,Pitcher,P,M,G.,Luzardo,Left,Left,3.47,1.61
+605452,Joe Ross,Joseph,Ross,41,1993-05-21,31,Berkeley,USA,"6' 4""",243,True,Pitcher,P,M,Andrew,Ross,Right,Right,3.58,1.62
+679032,Johan Rojas,Johan,Rojas,18,2000-08-14,24,San Francisco de Macoris,Dominican Republic,"5' 11""",165,True,Outfielder,CF,M,Stiven,Rojas,Right,Right,3.47,1.65
+605447,Jordan Romano,Jordan,Romano,68,1993-04-21,31,Markham,Canada,"6' 5""",210,True,Pitcher,P,M,Robert,Romano,Right,Right,3.575,1.681
+621237,José Alvarado,José,Alvarado,46,1995-05-21,29,Maracaibo,Venezuela,"6' 2""",245,True,Pitcher,P,M,Antonio,Alvarado,Left,Left,3.467,1.589
+614179,José Ruiz,José,Ruiz,66,1994-10-21,30,Guacara,Venezuela,"6' 1""",245,True,Pitcher,P,M,Rafael,"Ruiz, J",Right,Right,3.411,1.565
+665019,Kody Clemens,Kody,Clemens,2,1996-05-15,28,Houston,USA,"6' 1""",200,True,First Base,1B,M,Alec,Clemens,Left,Right,3.46,1.68
+656941,Kyle Schwarber,Kyle,Schwarber,12,1993-03-05,31,Middletown,USA,"6' 0""",229,True,Designated Hitter,DH,M,Joseph,Schwarber,Left,Right,3.24,1.5
+667725,Kyle Tyler,Kyle,Tyler,N/A,1996-12-27,28,Oklahoma City,USA,"6' 0""",200,True,Pitcher,P,M,Wade,Tyler,Right,Right,3.371,1.535
+621381,Matt Strahm,Matthew,Strahm,25,1991-11-12,33,West Fargo,USA,"6' 2""",190,True,Pitcher,P,M,Scott,Strahm,Right,Left,3.467,1.589
+596146,Max Kepler,Maximilian,Kepler,17,1993-02-10,31,Berlin,Germany,"6' 4""",225,True,Outfielder,RF,M,N/A,Kepler,Left,Left,3.5,1.72
+676661,Max Lazar,Max,Lazar,60,1999-06-03,25,Coral Springs,USA,"6' 1""",200,True,Pitcher,P,M,N/A,Lazar,Right,Right,3.411,1.565
+675650,Michael Mercado,David,Mercado,63,1999-04-15,25,Greenville,USA,"6' 4""",205,True,Pitcher,P,M,Michael,Mercado,Right,Right,3.549,1.627
+690953,Mick Abel,McLean,Abel,N/A,2001-08-18,23,Portland,USA,"6' 5""",190,True,Pitcher,P,M,Stine,Abel,Right,Right,3.575,1.681
+691330,Moisés Chace,Moises,Chace,N/A,2003-06-09,21,La Guaira,Venezuela,"6' 1""",213,True,Pitcher,P,M,Alejandro,Chace,Right,Right,3.411,1.565
+592206,Nick Castellanos,Nicholas,Castellanos,8,1992-03-04,32,Hialeah,USA,"6' 4""",203,True,Outfielder,RF,M,A.,"Castellanos, N",Right,Right,3.89,1.85
+689147,Orion Kerkering,Richard,Kerkering,50,2001-04-04,23,Huntington Beach,USA,"6' 2""",204,True,Pitcher,P,M,Orion,Kerkering,Right,Right,3.467,1.589
+665561,Rafael Marchán,Rafael,Marchán,13,1999-02-25,25,San Cristobal,Venezuela,"5' 9""",170,True,Catcher,C,M,Alejandro,Marchán,Switch,Right,3.14,1.37
+624133,Ranger Suárez,Ranger,Suárez,55,1995-08-26,29,Pie de Cuesta,Venezuela,"6' 1""",217,True,Pitcher,P,M,Jose,"Suárez, R",Left,Left,3.411,1.565
+686751,Seth Johnson,Seth,Johnson,51,1998-09-19,26,Concord,USA,"6' 1""",205,True,Pitcher,P,M,William,"Johnson, S",Right,Right,3.411,1.565
+592836,Taijuan Walker,Taijuan,Walker,99,1992-08-13,32,Shreveport,USA,"6' 4""",235,True,Pitcher,P,M,Emmanuel,"Walker, T",Right,Right,3.56,1.65
+621383,Tanner Banks,Tanner,Banks,58,1991-10-24,33,Riverton,USA,"6' 1""",205,True,Pitcher,P,M,Pierce,Banks,Right,Left,3.411,1.565
+607208,Trea Turner,Trea,Turner,7,1993-06-30,31,Boynton Beach,USA,"6' 2""",185,True,Shortstop,SS,M,Vance,Turner,Right,Right,3.43,1.69
+663969,Tyler Phillips,Tyler,Phillips,48,1997-10-27,27,Lumberton,USA,"6' 5""",225,True,Pitcher,P,M,Nicholas,Phillips,Right,Right,3.575,1.681
+642215,Weston Wilson,Weston,Wilson,37,1994-09-11,30,High Point,USA,"6' 1""",215,True,Outfielder,LF,M,Graham,"Wilson, W",Right,Right,3.62,1.64
+554430,Zack Wheeler,Zachary,Wheeler,45,1990-05-30,34,Smyrna,USA,"6' 4""",195,True,Pitcher,P,M,Harrison,Wheeler,Left,Right,3.61,1.76
+700363,AJ Smith-Shawver,AJ,Smith-Shawver,32,2002-11-20,22,Fort Worth,USA,"6' 3""",205,True,Pitcher,P,M,N/A,Smith-Shawver,Right,Right,3.49,1.601
+607481,Aaron Bummer,Aaron,Bummer,49,1993-09-21,31,Valencia,USA,"6' 3""",215,True,Pitcher,P,M,James,Bummer,Left,Left,3.49,1.601
+642216,Allan Winans,Allan,Winans,72,1995-08-10,29,Bakersfield,USA,"6' 2""",165,True,Pitcher,P,M,Lee,Winans,Right,Right,3.467,1.589
+666768,Anderson Pilar,Anderson,Pilar,N/A,1998-03-02,26,Villa Isabela,Dominican Republic,"6' 2""",210,True,Pitcher,P,M,N/A,Pilar,Right,Right,3.467,1.589
+622780,Angel Perdomo,Angel,Perdomo,N/A,1994-05-07,30,San Cristobal,Dominican Republic,"6' 8""",265,True,Pitcher,P,M,David,"Perdomo, A",Left,Left,3.688,1.747
+663586,Austin Riley,Michael,Riley,27,1997-04-02,27,Memphis,USA,"6' 3""",240,True,Third Base,3B,M,Austin,"Riley, A",Right,Right,3.45,1.61
+650559,Bryan De La Cruz,Bryan,De La Cruz,14,1996-12-16,28,Santo Domingo Este,Dominican Republic,"6' 2""",175,True,Outfield,OF,M,Starling,"De La Cruz, B",Right,Right,3.59,1.73
+693821,Bryce Elder,Bryce,Elder,55,1999-05-19,25,Decatur,USA,"6' 2""",220,True,Pitcher,P,M,Cason,Elder,Right,Right,3.467,1.589
+677578,Carlos D. Rodriguez,Carlos,Rodriguez,N/A,2000-12-07,24,Valencia,Venezuela,"5' 10""",186,True,Outfielder,RF,M,David,"Rodriguez, Carlos",Left,Left,3.301,1.504
+644433,Chadwick Tromp,Chadwick,Tromp,45,1995-03-21,29,Oranjestad,Aruba,"5' 8""",221,True,Catcher,C,M,Chandler,Tromp,Right,Right,3.4,1.62
+519242,Chris Sale,Christopher,Sale,51,1989-03-30,35,Lakeland,USA,"6' 6""",180,True,Pitcher,P,M,Allen,Sale,Left,Left,3.656,1.677
+686551,Christian Cairo,Christian,Cairo,N/A,2001-06-11,23,Bakersfield,USA,"5' 9""",185,True,Shortstop,SS,M,Miguel,Cairo,Right,Right,3.285,1.487
+687362,Connor Gillispie,Connor,Gillispie,N/A,1997-11-10,27,Earlysville,USA,"5' 11""",185,True,Pitcher,P,M,Brammer,Gillispie,Right,Right,3.319,1.513
+669721,Davis Daniel,Robert,Daniel,N/A,1997-06-11,27,Atlanta,USA,"6' 1""",190,True,Pitcher,P,M,Davis,Daniel,Right,Right,3.411,1.565
+678226,Daysbel Hernández,Daysbel,Hernández,62,1996-09-15,28,Sandino,Cuba,"5' 10""",220,True,Pitcher,P,M,N/A,"Hernández, D",Right,Right,3.301,1.504
+682445,Domingo Gonzalez,Domingo,Gonzalez,N/A,1999-09-27,25,San Francisco de Macoris,Dominican Republic,"6' 0""",185,True,Pitcher,P,M,Jose,"Gonzalez, D",Right,Right,3.371,1.535
+689266,Dylan Dodd,Dylan,Dodd,46,1998-06-06,26,Elk Grove,USA,"6' 2""",210,True,Pitcher,P,M,Martin,Dodd,Left,Left,3.467,1.589
+669276,Dylan Lee,Dylan,Lee,52,1994-08-01,30,Dinuba,USA,"6' 3""",214,True,Pitcher,P,M,Ryan,"Lee, D",Left,Left,3.49,1.601
+642201,Eli White,Elijah,White,36,1994-06-26,30,Greenville,USA,"6' 2""",195,True,Outfielder,LF,M,Thomas,"White, E",Right,Right,3.58,1.69
+656550,Grant Holmes,Harrison,Holmes,66,1996-03-22,28,Conway,USA,"6' 0""",226,True,Pitcher,P,M,Grant,"Holmes, G",Left,Right,3.371,1.535
+694462,Hurston Waldrep,Hurston,Waldrep,30,2002-03-01,22,Cairo,USA,"6' 2""",210,True,Pitcher,P,M,Wayne,Waldrep,Right,Right,3.467,1.589
+666120,Ian Anderson,Ian,Anderson,48,1998-05-02,26,Rexford,USA,"6' 3""",170,True,Pitcher,P,M,Theodore,"Anderson, I",Right,Right,3.48,1.62
+672284,Jarred Kelenic,Jarred,Kelenic,24,1999-07-16,25,Waukesha,USA,"6' 1""",206,True,Outfielder,LF,M,Robert,Kelenic,Left,Left,3.47,1.66
+641729,Joe Jiménez,Joe,Jiménez,77,1995-01-17,29,San Juan,Puerto Rico,"6' 3""",277,True,Pitcher,P,M,Alexander,"Jiménez, J",Right,Right,3.49,1.601
+663897,Luke Williams,Lucas,Williams,65,1996-08-09,28,Park Ridge,USA,"6' 1""",186,True,Outfielder,LF,M,Daniel,"Williams, L",Right,Right,3.26,1.56
+542303,Marcell Ozuna,Marcell,Ozuna,20,1990-11-12,34,Santo Domingo,Dominican Republic,"6' 1""",225,True,Designated Hitter,DH,M,N/A,Ozuna,Right,Right,3.52,1.72
+621566,Matt Olson,Matthew,Olson,28,1994-03-29,30,Atlanta,USA,"6' 5""",225,True,First Base,1B,M,Kent,Olson,Left,Right,3.42,1.75
+671739,Michael Harris II,Michael,Harris,23,2001-03-07,23,DeKalb,USA,"6' 0""",195,True,Outfielder,CF,M,Machion,"Harris II, M",Left,Left,3.37,1.57
+805373,Nacho Alvarez Jr.,Ignacio,Alvarez,17,2003-04-11,21,Fontana,USA,"5' 11""",190,True,Shortstop,SS,M,N/A,Alvarez Jr.,Right,Right,3.17,1.41
+669397,Nick Allen,Nicholas,Allen,N/A,1998-10-08,26,San Diego,USA,"5' 8""",166,True,Shortstop,SS,M,Ryan,"Allen, N",Right,Right,2.98,1.38
+606115,Orlando Arcia,Orlando,Arcia,11,1994-08-04,30,Anaco,Venezuela,"6' 0""",187,True,Shortstop,SS,M,Jesus,"Arcia, Or",Right,Right,3.39,1.61
+645277,Ozzie Albies,Ozhaino,Albies,1,1997-01-07,27,Willemstad,Curacao,"5' 8""",165,True,Second Base,2B,M,Jurdy Jiandro,Albies,Switch,Right,3.28,1.55
+572955,Pierce Johnson,Pierce,Johnson,38,1991-05-10,33,Denver,USA,"6' 2""",202,True,Pitcher,P,M,William,Johnson,Right,Right,3.467,1.589
+628452,Raisel Iglesias,Raisel,Iglesias,26,1990-01-04,35,Isla de la Juventud,Cuba,"6' 2""",190,True,Pitcher,P,M,N/A,"Iglesias, R",Right,Right,3.467,1.589
+625643,Reynaldo López,Reynaldo,López,40,1994-01-04,31,San Pedro de Macoris,Dominican Republic,"6' 1""",225,True,Pitcher,P,M,Starling,"López, R",Right,Right,3.411,1.565
+691548,Rolddy Munoz,Rolddy,Munoz,N/A,2000-04-14,24,Santo Domingo,Dominican Republic,"6' 2""",183,True,Pitcher,P,M,N/A,"Munoz, Rol",Right,Right,3.467,1.589
+660670,Ronald Acuña Jr.,Ronald,Acuña,13,1997-12-18,27,La Guaira,Venezuela,"6' 0""",205,True,Outfielder,RF,M,Jose,Acuña Jr.,Right,Right,3.56,1.64
+669221,Sean Murphy,Sean,Murphy,12,1994-10-04,30,Peekskill,USA,"6' 3""",228,True,Catcher,C,M,Michael,"Murphy, S",Right,Right,3.41,1.6
+680885,Spencer Schwellenbach,Spencer,Schwellenbach,56,2000-05-31,24,Saginaw,USA,"6' 1""",200,True,Pitcher,P,M,Drew,Schwellenbach,Right,Right,3.371,1.535
+675911,Spencer Strider,Spencer,Strider,99,1998-10-28,26,Columbus,USA,"6' 0""",195,True,Pitcher,P,M,Robert,Strider,Right,Right,3.371,1.535
+643217,Andrew Benintendi,Andrew,Benintendi,23,1994-07-06,30,Cincinnati,USA,"5' 9""",180,True,Outfielder,LF,M,Sebastian,Benintendi,Left,Left,3.24,1.51
+683734,Andrew Vaughn,Andrew,Vaughn,25,1998-04-03,26,Santa Rosa,USA,"6' 0""",215,True,First Base,1B,M,Clayton,Vaughn,Right,Right,3.17,1.49
+596103,Austin Slater,Austin,Slater,13,1992-12-13,32,Jacksonville,USA,"6' 1""",204,True,Outfielder,RF,M,Thomas,Slater,Right,Right,3.34,1.64
+681460,Brooks Baldwin,Riley,Baldwin,27,2000-08-15,24,Whiteville,USA,"6' 0""",175,True,Second Base,2B,M,Brooks,Baldwin,Switch,Right,3.25,1.59
+682868,Bryan Ramos,Bryan,Ramos,44,2002-03-12,22,Havana,Cuba,"6' 2""",225,True,Third Base,3B,M,N/A,Ramos,Right,Right,3.37,1.63
+669060,Bryse Wilson,Bryse,Wilson,N/A,1997-12-20,27,Durham,USA,"6' 2""",272,True,Pitcher,P,M,Everett,"Wilson, B",Right,Right,3.55,1.66
+592155,Cam Booser,Cameron,Booser,N/A,1992-05-04,32,Seattle,USA,"6' 3""",225,True,Pitcher,P,M,Joseph,Booser,Left,Left,3.49,1.601
+695657,Colson Montgomery,Colson,Montgomery,N/A,2002-02-27,22,Jasper,USA,"6' 3""",225,True,Shortstop,SS,M,Kade,Montgomery,Left,Right,3.49,1.601
+663436,Davis Martin,Davis,Martin,65,1997-01-04,28,Abilene,USA,"6' 2""",215,True,Pitcher,P,M,Alan,Martin,Left,Right,3.467,1.589
+666150,Dominic Fletcher,Dominic,Fletcher,7,1997-09-02,27,Orange,USA,"5' 6""",195,True,Outfielder,RF,M,Paul,"Fletcher, Do",Left,Left,3.18,1.49
+689672,Drew Thorpe,Andrew,Thorpe,33,2000-10-01,24,St. George,USA,"6' 4""",212,True,Pitcher,P,M,Robert,Thorpe,Left,Right,3.549,1.627
+686642,Fraser Ellard,Fraser,Ellard,61,1997-11-06,27,Roswell,USA,"6' 4""",220,True,Pitcher,P,M,N/A,Ellard,Left,Left,3.549,1.627
+681402,Gus Varland,Augustus,Varland,37,1996-11-06,28,Maplewood,USA,"6' 1""",213,True,Pitcher,P,M,James,"Varland, G",Left,Right,3.411,1.565
+676070,Jacob Amaya,Jacob,Amaya,18,1998-09-03,26,El Monte,USA,"5' 10""",180,True,Shortstop,SS,M,Carlos,Amaya,Right,Right,3.12,1.47
+683568,Jairo Iriarte,Jairo,Iriarte,52,2001-12-15,23,La Guaira,Venezuela,"6' 2""",160,True,Pitcher,P,M,Alejandro,Iriarte,Right,Right,3.467,1.589
+671109,Jake Eder,Jacob,Eder,46,1998-10-09,26,Boynton Beach,USA,"6' 4""",215,True,Pitcher,P,M,Andrew,Eder,Left,Left,3.549,1.627
+694363,Jared Shuster,Jared,Shuster,51,1998-08-03,26,New Bedford,USA,"6' 3""",220,True,Pitcher,P,M,Craig,Shuster,Left,Left,3.49,1.601
+669947,Jesse Scholtens,Jesse,Scholtens,62,1994-04-06,30,Fairfield,USA,"6' 4""",240,True,Pitcher,P,M,N/A,Scholtens,Right,Right,3.549,1.627
+686563,Jonathan Cannon,Jonathan,Cannon,48,2000-07-19,24,Alpharetta,USA,"6' 6""",225,True,Pitcher,P,M,Patrick,Cannon,Right,Right,3.66,1.68
+673929,Jordan Leasure,Jordan,Leasure,49,1998-08-15,26,Brandon,USA,"6' 3""",220,True,Pitcher,P,M,Davis,Leasure,Right,Right,3.49,1.601
+683636,Juan Carela,Juan,Carela,N/A,2001-12-15,23,Samana,Dominican Republic,"6' 3""",186,True,Pitcher,P,M,Daniel,Carela,Right,Right,3.49,1.601
+605121,Justin Anderson,Justin,Anderson,60,1992-09-28,32,Houston,USA,"6' 3""",230,True,Pitcher,P,M,Charles,"Anderson, J",Left,Right,3.49,1.601
+686676,Korey Lee,Korey,Lee,26,1998-07-25,26,Escondido,USA,"6' 2""",220,True,Catcher,C,M,Bryan,"Lee, K",Right,Right,3.45,1.58
+681066,Ky Bush,Kyler,Bush,57,1999-11-12,25,Ogden,USA,"6' 6""",250,True,Pitcher,P,M,Spencer,Bush,Left,Left,3.656,1.677
+672820,Lenyn Sosa,Lenyn,Sosa,50,2000-01-25,24,Puerto Ordaz,Venezuela,"6' 0""",210,True,Third Base,3B,M,Jose,"Sosa, L",Right,Right,3.28,1.55
+673357,Luis Robert Jr.,Luis,Robert,88,1997-08-03,27,Guantanamo,Cuba,"6' 2""",230,True,Outfielder,CF,M,N/A,Robert Jr.,Right,Right,3.74,1.71
+642136,Matt Thaiss,Matthew,Thaiss,23,1995-05-06,29,Jackson,USA,"6' 0""",215,True,Catcher,C,M,Kevin,Thaiss,Left,Right,3.34,1.56
+678246,Miguel Vargas,Miguel,Vargas,20,1999-11-17,25,La Habana,Cuba,"6' 2""",205,True,Third Base,3B,M,Antonio,"Vargas, M",Right,Right,3.27,1.55
+643565,Mike Tauchman,Michael,Tauchman,39,1990-12-03,34,Palatine,USA,"6' 1""",220,True,Outfielder,RF,M,Robert,Tauchman,Left,Left,3.61,1.69
+680897,Nick Nastrini,Nicholas,Nastrini,43,2000-02-18,24,San Jose,USA,"6' 3""",215,True,Pitcher,P,M,N/A,Nastrini,Right,Right,3.49,1.601
+693049,Oscar Colás,Oscar,Colás,22,1998-09-17,26,Santiago de Cuba,Cuba,"6' 0""",230,True,Outfielder,RF,M,Luis,Colás,Left,Left,3.42,1.62
+682171,Penn Murfee,William,Murfee,N/A,1994-05-02,30,Nashville,USA,"6' 2""",195,True,Pitcher,P,M,Penn,Murfee,Right,Right,3.467,1.589
+672860,Prelander Berroa,Prelander,Berroa,66,2000-04-18,24,Santo Domingo,Dominican Republic,"5' 11""",215,True,Pitcher,P,M,N/A,Berroa,Right,Right,3.319,1.513
+676760,Ron Marinaccio,Ronald,Marinaccio,N/A,1995-07-01,29,Toms River,USA,"6' 2""",205,True,Pitcher,P,M,James,Marinaccio,Right,Right,3.467,1.589
+680732,Sean Burke,Sean,Burke,59,1999-12-18,25,Worcester,USA,"6' 6""",230,True,Pitcher,P,M,Michael,"Burke, S",Right,Right,3.575,1.681
+681343,Shane Smith,Shane,Smith,N/A,2000-04-04,24,Danvers,USA,"6' 4""",235,True,Pitcher,P,M,Jeffrey,"Smith, S",Right,Right,3.549,1.627
+621051,Steven Wilson,Steven,Wilson,36,1994-08-24,30,Littleton,USA,"6' 3""",221,True,Pitcher,P,M,Christopher,"Wilson, S",Right,Right,3.49,1.601
+656457,Tyler Gilbert,Tyler,Gilbert,88,1993-12-22,31,Santa Cruz,USA,"6' 3""",223,True,Pitcher,P,M,N/A,"Gilbert, T",Left,Left,3.49,1.601
+682790,Wikelman Gonzalez,Wikelman,Gonzalez,N/A,2002-03-25,22,Maracay,Venezuela,"6' 0""",167,True,Pitcher,P,M,David,"Gonzalez, W",Right,Right,3.371,1.535
+676113,Zach DeLoach,Zachary,DeLoach,31,1998-08-18,26,Irving,USA,"6' 1""",215,True,Outfielder,RF,M,Dixon,DeLoach,Left,Right,3.31,1.56
+800049,Adam Mazur,Adam,Mazur,N/A,2001-04-20,23,St. Paul,USA,"6' 2""",180,True,Pitcher,P,M,McKinnlee,Mazur,Right,Right,3.467,1.589
+682663,Agustin Ramirez,Agustin,Ramirez,N/A,2001-09-10,23,Santo Domingo,Dominican Republic,"6' 0""",210,True,Catcher,C,M,N/A,"Ramirez, A",Right,Right,3.371,1.535
+677053,Andrew Nardi,Andrew,Nardi,43,1998-08-18,26,West Hills,USA,"6' 3""",215,True,Pitcher,P,M,Christopher,Nardi,Left,Left,3.467,1.589
+669622,Anthony Bender,Anthony,Bender,37,1995-02-03,29,Petaluma,USA,"6' 4""",205,True,Pitcher,P,M,Wayne,Bender,Right,Right,3.549,1.627
+685107,Anthony Veneziano,Anthony,Veneziano,59,1997-09-01,27,Hackettstown,USA,"6' 5""",205,True,Pitcher,P,M,James,Veneziano,Left,Left,3.575,1.681
+666129,Braxton Garrett,Braxton,Garrett,29,1997-08-05,27,Foley,USA,"6' 2""",202,True,Pitcher,P,M,L.,"Garrett, B",Right,Left,3.467,1.589
+676534,Calvin Faucher,Calvin,Faucher,53,1995-09-22,29,Chula Vista,USA,"6' 1""",190,True,Pitcher,P,M,Louis,Faucher,Right,Right,3.411,1.565
+681393,Connor Norby,Connor,Norby,24,2000-06-08,24,Brooklyn Park,USA,"5' 10""",180,True,Third Base,3B,M,David,Norby,Right,Right,3.46,1.64
+667472,Dane Myers,Dane,Myers,54,1996-03-08,28,Columbus,USA,"6' 0""",205,True,Outfielder,RF,M,Michael,Myers,Right,Right,3.63,1.7
+690978,Dax Fulton,Daxton,Fulton,N/A,2001-10-16,23,Weatherford,USA,"6' 7""",235,True,Pitcher,P,M,James,Fulton,Left,Left,3.66,1.68
+686539,Declan Cronin,Declan,Cronin,51,1997-09-24,27,Glen Ridge,USA,"6' 4""",225,True,Pitcher,P,M,Evans,Cronin,Right,Right,3.549,1.627
+656537,Derek Hill,Derek,Hill,58,1995-12-30,29,Des Moines,USA,"6' 1""",206,True,Outfielder,CF,M,Jerome,"Hill, D",Right,Right,3.5,1.6
+691277,Deyvison De Los Santos,Deyvison,De Los Santos,N/A,2003-06-21,21,Santo Domingo,Dominican Republic,"6' 1""",185,True,Third Base,3B,M,N/A,De Los Santos,Right,Right,3.411,1.565
+665795,Edward Cabrera,Edward,Cabrera,27,1998-04-13,26,Santiago,Dominican Republic,"6' 5""",217,True,Pitcher,P,M,Brany,"Cabrera, E",Right,Right,3.575,1.681
+676572,Eric Wagaman,Eric,Wagaman,N/A,1997-08-14,27,Mission Viejo,USA,"6' 4""",210,True,Third Base,3B,M,N/A,Wagaman,Right,Right,3.57,1.63
+691587,Eury Pérez,Eury,Pérez,39,2003-04-15,21,Santiago,Dominican Republic,"6' 8""",220,True,Pitcher,P,M,Rafael,"Pérez, Eu",Right,Right,3.58,1.68
+666277,George Soriano,George,Soriano,62,1999-03-24,25,San Pedro de Macoris,Dominican Republic,"6' 2""",210,True,Pitcher,P,M,N/A,"Soriano, G",Right,Right,3.467,1.589
+688363,Graham Pauley,Graham,Pauley,N/A,2000-09-24,24,Alpharetta,USA,"6' 1""",200,True,Third Base,3B,M,Austin,Pauley,Left,Right,3.58,1.69
+665052,Griffin Conine,Griffin,Conine,56,1997-07-11,27,Plantation,USA,"6' 1""",210,True,Outfielder,RF,M,Riley,Conine,Left,Right,3.59,1.71
+691858,Jared Serna,Jared,Serna,N/A,2002-06-01,22,Guaymas,Mexico,"5' 7""",168,True,Shortstop,SS,M,Enrique,"Serna, J",Right,Right,3.179,1.474
+691594,Javier Sanoja,Javier,Sanoja,86,2002-09-03,22,Maracay,Venezuela,"5' 7""",150,True,Second Base,2B,M,Ernesto,Sanoja,Right,Right,3.179,1.474
+660821,Jesús Sánchez,Jesús,Sánchez,12,1997-10-07,27,Higuey,Dominican Republic,"6' 3""",222,True,Outfielder,RF,M,N/A,"Sánchez, J",Left,Right,3.6,1.76
+622786,Jesus Tinoco,Jesus,Tinoco,38,1995-04-30,29,San Antonio de Maturin,Venezuela,"6' 4""",258,True,Pitcher,P,M,Rafael,Tinoco,Right,Right,3.549,1.627
+640902,Jhonny Pereda,Jhonny,Pereda,89,1996-04-18,28,San Juan,Venezuela,"6' 1""",202,True,Catcher,C,M,Fernando ,Pereda,Right,Right,3.51,1.66
+681146,Jonah Bride,Jonah,Bride,41,1995-12-27,29,Owasso,USA,"5' 10""",200,True,First Base,1B,M,N/A,Bride,Right,Right,3.25,1.49
+669065,Kyle Stowers,Kyle,Stowers,28,1998-01-02,27,El Cajon,USA,"6' 2""",215,True,Outfielder,LF,M,Jacob,Stowers,Left,Left,3.6,1.74
+669199,Lake Bachar,Lake,Bachar,84,1995-06-03,29,Winfield,USA,"6' 2""",219,True,Pitcher,P,M,David,Bachar,Right,Right,3.467,1.589
+689414,Liam Hicks,Liam,Hicks,N/A,1999-06-02,25,Toronto,Canada,"5' 9""",185,True,Catcher,C,M,John Sherwood,Hicks,Left,Right,3.285,1.487
+678215,Luarbert Arias,Luarbert,Arias,N/A,2000-12-12,24,Maracay,VEN,"6' 2""",176,True,Pitcher,P,M,Elias,"Arias, L",Right,Right,3.467,1.589
+670223,Matt Mervis,Matthew,Mervis,N/A,1998-04-16,26,Washington,USA,"6' 2""",225,True,First Base,1B,M,Jared,Mervis,Left,Right,3.52,1.66
+691185,Max Acosta,Maximo,Acosta,N/A,2002-10-29,22,Caracas,Venezuela,"5' 11""",187,True,Shortstop,SS,M,Douglas Jose,Acosta,Right,Right,3.319,1.513
+676974,Max Meyer,Max,Meyer,23,1999-03-12,25,Woodbury,USA,"6' 0""",196,True,Pitcher,P,M,Thomas,Meyer,Left,Right,3.4,1.55
+663743,Nick Fortes,Nicholas,Fortes,4,1996-11-11,28,Miami,USA,"5' 11""",198,True,Catcher,C,M,N/A,Fortes,Right,Right,3.2,1.51
+672640,Otto Lopez,Otto,Lopez,61,1998-10-01,26,Santo Domingo,Dominican Republic,"5' 10""",185,True,Second Base,2B,M,Ariel,"Lopez, O",Right,Right,3.27,1.54
+677960,Ryan Weathers,Ryan,Weathers,60,1999-12-17,25,Loretto,USA,"6' 1""",230,True,Pitcher,P,M,N/A,Weathers,Right,Left,3.411,1.565
+645261,Sandy Alcantara,Sandy,Alcantara,22,1995-09-07,29,Azua,Dominican Republic,"6' 5""",200,True,Pitcher,P,M,N/A,"Alcantara, S",Right,Right,3.59,1.68
+678368,Valente Bellozo,Valente,Bellozo,83,2000-01-04,25,Mexicali,Mexico,"5' 10""",208,True,Pitcher,P,M,N/A,Bellozo,Right,Right,3.301,1.504
+683748,Victor Mesa Jr.,Victor,Mesa,64,2001-09-08,23,Havana,Cuba,"6' 0""",195,True,Outfielder,CF,M,N/A,Mesa Jr.,Left,Left,3.319,1.513
+669364,Xavier Edwards,Xavier,Edwards,63,1999-08-09,25,Mineola,USA,"5' 10""",175,True,Shortstop,SS,M,James,"Edwards, X",Switch,Right,3.34,1.53
+675540,Xzavion Curry,Xzavion,Curry,49,1998-07-27,26,Orangeburg,USA,"6' 0""",195,True,Pitcher,P,M,Rashan,Curry,Right,Right,3.371,1.535
+592450,Aaron Judge,Aaron,Judge,99,1992-04-26,32,Linden,USA,"6' 7""",282,True,Outfielder,CF,M,James,Judge,Right,Right,4.02,1.85
+656577,Alex Jackson,Alexander,Jackson,N/A,1995-12-25,29,San Diego,USA,"6' 2""",238,True,Catcher,C,M,James,Jackson,Right,Right,3.36,1.63
+683011,Anthony Volpe,Anthony,Volpe,11,2001-04-28,23,New York,USA,"5' 9""",180,True,Shortstop,SS,M,Michael,Volpe,Right,Right,3.4,1.64
+669224,Austin Wells,Austin,Wells,28,1999-07-12,25,Scottsdale,USA,"6' 2""",220,True,Catcher,C,M,Kenneth,"Wells, A",Left,Right,3.36,1.61
+700250,Ben Rice,Benjamin,Rice,93,1999-02-22,25,Cohasset,USA,"6' 1""",215,True,First Base,1B,M,Kimball,Rice,Left,Right,3.62,1.78
+607074,Carlos Rodón,Carlos,Rodón,55,1992-12-10,32,Miami,USA,"6' 2""",255,True,Pitcher,P,M,Antonio,Rodón,Left,Left,3.467,1.589
+657376,Clarke Schmidt,Clarke,Schmidt,36,1996-02-20,28,Acworth,USA,"6' 1""",200,True,Pitcher,P,M,D.,Schmidt,Right,Right,3.411,1.565
+690925,Clayton Beeter,Clayton,Beeter,85,1998-10-09,26,Fort Worth,USA,"6' 2""",220,True,Pitcher,P,M,Howard,Beeter,Right,Right,3.467,1.589
+641355,Cody Bellinger,Cody,Bellinger,35,1995-07-13,29,Scottsdale,USA,"6' 4""",203,True,Outfielder,CF,M,James,Bellinger,Left,Left,3.74,1.76
+518934,DJ LeMahieu,David,LeMahieu,26,1988-07-13,36,Visalia,USA,"6' 4""",220,True,Third Base,3B,M,John,LeMahieu,Right,Right,3.27,1.52
+642207,Devin Williams,Devin,Williams,38,1994-09-21,30,St. Louis,USA,"6' 2""",193,True,Pitcher,P,M,Terran,"Williams, D",Right,Right,3.467,1.589
+677592,Everson Pereira,Everson,Pereira,80,2001-04-10,23,Cabudare,Venezuela,"5' 11""",191,True,Outfielder,CF,M,Jose,Pereira,Right,Right,3.29,1.54
+518585,Fernando Cruz,Fernando,Cruz,N/A,1990-03-28,34,Bayamon,Puerto Rico,"6' 2""",237,True,Pitcher,P,M,E.,"Cruz, F",Right,Right,3.467,1.589
+543037,Gerrit Cole,Gerrit,Cole,45,1990-09-08,34,Newport Beach,USA,"6' 4""",220,True,Pitcher,P,M,Alan,Cole,Right,Right,3.549,1.627
+519317,Giancarlo Stanton,Giancarlo,Stanton,27,1989-11-08,35,Panorama,USA,"6' 6""",245,True,Designated Hitter,DH,M,Cruz-Michael,Stanton,Right,Right,3.75,1.79
+641656,Ian Hamilton,Ian,Hamilton,71,1995-06-16,29,Dover,USA,"6' 1""",200,True,Pitcher,P,M,Francis,"Hamilton, I",Right,Right,3.411,1.565
+641555,J.C. Escarra,Juan,Escarra,N/A,1995-04-24,29,Hialeah,USA,"6' 2""",205,True,Catcher,C,M,C.,Escarra,Left,Right,3.467,1.589
+664141,JT Brubaker,Jonathan,Brubaker,N/A,1993-11-17,31,Springfield,USA,"6' 3""",180,True,Pitcher,P,M,Trey,Brubaker,Right,Right,3.3,1.55
+664776,Jake Cousins,Jake,Cousins,61,1994-07-14,30,Parkridge,USA,"6' 4""",195,True,Pitcher,P,M,O.,Cousins,Right,Right,3.549,1.627
+691176,Jasson Domínguez,Jasson,Domínguez,89,2003-02-07,21,Esperanza,Dominican Republic,"5' 9""",190,True,Outfielder,LF,M,N/A,Domínguez,Switch,Right,3.44,1.64
+665862,Jazz Chisholm Jr.,Jasrado,Chisholm,13,1998-02-01,26,Nassau,Bahamas,"5' 11""",184,True,Third Base,3B,M,Hermis Arrington,Chisholm Jr.,Left,Right,3.66,1.76
+683679,Jesus Rodriguez,Jesus,Rodriguez,N/A,2002-04-23,22,La Victoria,Venezuela,"5' 10""",182,True,Catcher,C,M,Eduardo,"Rodriguez, J",Right,Right,3.301,1.504
+642528,Jonathan Loáisiga,Jonathan,Loáisiga,N/A,1994-11-02,30,Managua,Nicaragua,"5' 11""",165,True,Pitcher,P,M,Stanley,Loáisiga,Right,Right,3.319,1.513
+678391,Jorbit Vivas,Jorbit,Vivas,90,2001-03-09,23,Puerto Cabello,Venezuela,"5' 9""",171,True,Second Base,2B,M,Jose,Vivas,Left,Right,3.285,1.487
+661563,Luis Gil,Luis,Gil,81,1998-06-03,26,Azua,Dominican Republic,"6' 2""",185,True,Pitcher,P,M,Angel,Gil,Right,Right,3.467,1.589
+596133,Luke Weaver,Luke,Weaver,30,1993-08-21,31,DeLand,USA,"6' 2""",183,True,Pitcher,P,M,Allen,Weaver,Right,Right,3.467,1.589
+573186,Marcus Stroman,Marcus,Stroman,0,1991-05-01,33,Medford,USA,"5' 7""",180,True,Pitcher,P,M,Earl,Stroman,Right,Right,3.38,1.56
+643410,Mark Leiter Jr.,Mark,Leiter,56,1991-03-13,33,Fort Lauderdale,USA,"6' 0""",210,True,Pitcher,P,M,Edward,Leiter Jr.,Right,Right,3.371,1.535
+608331,Max Fried,Max,Fried,54,1994-01-18,30,Santa Monica,USA,"6' 4""",190,True,Pitcher,P,M,Dorian,Fried,Left,Left,3.37,1.56
+672724,Oswald Peraza,Oswald,Peraza,91,2000-06-15,24,Barquisimeto,Venezuela,"5' 11""",200,True,Third Base,3B,M,Dair,"Peraza, O",Right,Right,3.16,1.46
+665828,Oswaldo Cabrera,Oswaldo,Cabrera,95,1999-03-01,25,Guarenas,Venezuela,"5' 11""",200,True,Third Base,3B,M,Alberto,"Cabrera, O",Switch,Right,3.17,1.49
+502671,Paul Goldschmidt,Paul,Goldschmidt,46,1987-09-10,37,Wilmington,USA,"6' 3""",225,True,First Base,1B,M,Edward,Goldschmidt,Right,Right,3.48,1.63
+664123,Scott Effross,Scott,Effross,59,1993-12-28,31,Twinsburg,USA,"6' 2""",202,True,Pitcher,P,M,Benjamin-Morton,Effross,Right,Right,3.467,1.589
+663757,Trent Grisham,Trenton,Grisham,12,1996-11-01,28,Burleson,USA,"5' 11""",224,True,Outfielder,CF,M,Marcus,Grisham,Left,Left,3.54,1.77
+701542,Will Warren,William,Warren,98,1999-06-16,25,Brandon,USA,"6' 2""",175,True,Pitcher,P,M,Harper,"Warren, W",Right,Right,3.467,1.589
+660787,Yerry De Los Santos,Yerry,De Los Santos,N/A,1997-12-12,27,Samana,Dominican Republic,"6' 2""",210,True,Pitcher,P,M,Paulino,"De Los Santos, Y",Right,Right,3.467,1.589
+672782,Yoendrys Gómez,Yoendrys,Gómez,92,1999-10-15,25,Nirgua,Venezuela,"6' 3""",212,True,Pitcher,P,M,Adrian,"Gómez, Y",Right,Right,3.49,1.601
