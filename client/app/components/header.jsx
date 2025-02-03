@@ -28,8 +28,9 @@ const Header = () => {
 
                     <nav className="hidden md:flex items-center space-x-8">
                         
-                        <a href="/teams" className="hover:text-blue-300">Make Your Team</a>
+                       
                         <a href="/searchPlayers" className="hover:text-blue-300">Search Players</a>
+                        <a href='/upcomingMatches' className="hover:text-blue-300 cursor-pointer">Upcoming Matches</a>
                         {!user ?
                             <button
                                 onClick={() => handleAuth()}
@@ -59,11 +60,11 @@ const Header = () => {
 
             {isMenuOpen && (
                 <div className="md:hidden">
-                    <div className="px-2 pt-2 pb-3 space-y-1">
+                    <div className="px-2 pt-2 flex flex-col pb-3 space-y-1">
                        
-                        <a href="/teams" className="block px-3 py-2 hover:bg-blue-800 rounded">Make Your Team</a>
-                        <a href="/searchPlayers" className="hover:text-blue-300">Search Players</a>
-                        {user && <p>{user.username}</p>}
+                        
+                        <a href="/searchPlayers" className="hover:text-blue-300 px-3 py-2">Search Players</a>
+                        <a href='/upcomingMatches' className="hover:text-blue-300  px-3 py-2cursor-pointer">Upcoming Matches</a>
                         {!user ?
                             <button
                                 onClick={() => handleAuth()}

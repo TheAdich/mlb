@@ -7,7 +7,10 @@ const MatchSchema = new mongoose.Schema({
     team:{
         type:JSON,
         required:true
-    }
+    },
+    matchId:{
+        type:Number,
+    },
 })
 
 const Match=mongoose.model('Match',MatchSchema);

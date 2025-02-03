@@ -3,12 +3,13 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const bcrypt = require('bcrypt');
 const cors = require('cors');
-const  User  = require('./models/userModel');
+const User = require('./models/userModel');
+const Match = require('./models/matchesModel');
 const app = express();
 dotenv.config();
 app.use(cors(
     {
-        origin: ['http://localhost:3000','https://mlb-gamma.vercel.app'],
+        origin: ['http://localhost:3000', 'https://mlb-gamma.vercel.app'],
         credentials: true,
         methods: ['GET', 'POST', 'PUT', 'DELETE']
     }
@@ -16,7 +17,7 @@ app.use(cors(
 app.use(express.json());
 
 mongoose.connect(process.env.MONGODB_URI, {
-    
+
 }).then(() => {
     console.log('Connected to MongoDB');
 })
@@ -72,6 +73,35 @@ app.post('/api/login', async (req, res) => {
     }
 })
 
+
+app.post('/api/createteam', async (req, res) => {
+    const { username, team, matchId } = req.body;
+    try {
+        const user = await User.findOne({ username: username });
+        const newTeam = new Match({
+            user: user._id,
+            team: JSON.stringify(team),
+            matchId: matchId
+        })
+        await newTeam.save();
+        return res.status(200).json({
+            message: 'Team created successfully'
+        })
+    } catch (err) {
+        console.error(err);
+    }
+})
+
+app.get('/api/leaderboard', async (req, res) => {
+    const matchId = req.query.matchId;
+    //console.log(matchId)
+    try {
+        const leaderboard = await Match.find({ matchId: matchId }).populate('user', 'username');
+        return res.status(200).json(leaderboard);
+    } catch (err) {
+        console.error(err);
+    }
+})
 app.listen(5000, () => {
     console.log('Server is running on port 5000');
 })
