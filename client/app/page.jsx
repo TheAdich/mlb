@@ -41,7 +41,7 @@ function App() {
               Play Fantasy Baseball Like Never Before
             </h1>
             <p className="text-xl mb-8">
-              Create your dream team, join contests, and win big with MLBFantasy -
+              Create your dream team, join contests, and win big with SmartBase -
               the ultimate fantasy baseball experience.
             </p>
             {!user && <button
@@ -58,7 +58,7 @@ function App() {
 
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl text-gray-500 font-bold text-center mb-12">Why Choose MLBFantasy?</h2>
+          <h2 className="text-3xl text-gray-500 font-bold text-center mb-12">Why Choose SmartBase?</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center p-6">
               <div className="bg-blue-100 p-4 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">

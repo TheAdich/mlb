@@ -23,7 +23,7 @@ const Header = () => {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center space-x-2 cursor-pointer " onClick={() => router.push('/')}>
                         <Baseball className="h-8 w-8" />
-                        <span className="text-2xl font-bold">MLBFantasy</span>
+                        <span className="text-2xl font-bold">SmartBase</span>
                     </div>
 
 
