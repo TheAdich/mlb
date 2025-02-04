@@ -31,6 +31,7 @@ const Header = () => {
 
 
                         <a href="/highlights" className="hover:text-blue-300">Highlights</a>
+                        <a href="/searchPlayers" className="hover:text-blue-300">Search PLayers</a>
                         <a href='/upcomingMatches' className="hover:text-blue-300 cursor-pointer">Upcoming Matches</a>
                         {!user ?
                             <button
