@@ -1,10 +1,10 @@
 'use client'
 import React, { useState } from 'react';
-import userStore from '../utils/authUser';
+import useAuthStore from '../utils/authUser';
 import { Menu, X, Trophy, Users, DollarSign, Baseline as Baseball, ChevronRight } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 const Header = () => {
-    const { user,logout } = userStore();
+    const { user, logout } = useAuthStore();
     const router = useRouter();
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const handleAuth = () => {
@@ -12,6 +12,7 @@ const Header = () => {
     };
 
     const handleLogOut = () => {
+        router.push('/auth')
         logout();
     }
 
@@ -20,16 +21,16 @@ const Header = () => {
         <header className="bg-blue-900 text-white">
             <div className="container mx-auto px-4">
                 <div className="flex items-center justify-between h-16">
-                    <div className="flex items-center space-x-2 cursor-pointer " onClick={()=>router.push('/')}>
+                    <div className="flex items-center space-x-2 cursor-pointer " onClick={() => router.push('/')}>
                         <Baseball className="h-8 w-8" />
                         <span className="text-2xl font-bold">MLBFantasy</span>
                     </div>
 
 
                     <nav className="hidden md:flex items-center space-x-8">
-                        
-                       
-                        <a href="/searchPlayers" className="hover:text-blue-300">Search Players</a>
+
+
+                        <a href="/highlights" className="hover:text-blue-300">Highlights</a>
                         <a href='/upcomingMatches' className="hover:text-blue-300 cursor-pointer">Upcoming Matches</a>
                         {!user ?
                             <button
@@ -61,8 +62,8 @@ const Header = () => {
             {isMenuOpen && (
                 <div className="md:hidden">
                     <div className="px-2 pt-2 flex flex-col pb-3 space-y-1">
-                       
-                        
+
+                        <a href="/highlights" className="hover:text-blue-300">Highlights</a>
                         <a href="/searchPlayers" className="hover:text-blue-300 px-3 py-2">Search Players</a>
                         <a href='/upcomingMatches' className="hover:text-blue-300  px-3 py-2cursor-pointer">Upcoming Matches</a>
                         {!user ?

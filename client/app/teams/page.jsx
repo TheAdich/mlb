@@ -4,6 +4,7 @@ import axios from 'axios';
 import PlayerProfileStore from '../utils/playerDetails'
 import useAuthStore from '../utils/authUser';
 import { useSearchParams } from 'next/navigation'
+import { useRouter } from 'next/router';
 const positions = [
     { id: 1, name: 'P', fullName: 'Pitcher' },
     { id: 2, name: 'C', fullName: 'Catcher' },
@@ -17,8 +18,10 @@ const positions = [
 ];
 
 const MakeTeam = () => {
-     const searchParams = useSearchParams()
-    const {user} = useAuthStore();
+    const searchParams = useSearchParams()
+    const { user } = useAuthStore();
+    //const router = useRouter();
+    //console.log(user);
     const { players } = PlayerProfileStore();
     const [selectedTeam, setSelectedTeam] = useState('');
     const [selectedPlayers, setSelectedPlayers] = useState({});
@@ -29,7 +32,24 @@ const MakeTeam = () => {
     const teamB = searchParams.get('teamB');
     const date = searchParams.get('date');
     const pk = searchParams.get('pk');
-   
+    const [disabled, setisDisabled] = useState(false);
+
+    useEffect(() => {
+        if (user) {
+            //console.log(user);
+            const check = async () => {
+                const res = await axios.get(`${process.env.NEXT_PUBLIC_API_URL}/checkteam?matchId=${pk}&userId=${user.userId}`);
+                if (res.data.check === 1) {
+                    window.location.href = (`/leaderboard?matchId=${pk}`);
+                }
+            }
+            check();
+        }
+        
+        
+
+    }, [user])
+
     // Add event listener to close dropdowns when clicking outside
     useEffect(() => {
         const handleClickOutside = (event) => {
@@ -71,7 +91,7 @@ const MakeTeam = () => {
     const toggleDropdown = (position) => {
         // If the dropdown is already open for this position, close it
         // Otherwise, open this specific dropdown
-        setOpenDropdown(prevOpen => 
+        setOpenDropdown(prevOpen =>
             prevOpen === position ? null : position
         );
     };
@@ -109,7 +129,7 @@ const MakeTeam = () => {
         return true;
     };
 
-    const handleSubmit = async(e) => {
+    const handleSubmit = async (e) => {
         e.preventDefault();
         setError('');
 
@@ -118,15 +138,16 @@ const MakeTeam = () => {
             console.log('Selected players:', selectedPlayers);
         }
         const username = user.username;
-        const team = {...selectedPlayers, ...selectedTeam};
+        const team = { ...selectedPlayers, ...selectedTeam };
         const matchId = Number(pk);
 
         try {
-            const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/createteam`, {username, team, matchId});
+            const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/createteam`, { username, team, matchId });
             if (res.status === 200) {
-                window.location.href=(`/leaderboard?matchId=${pk}`);
+                window.location.href = (`/leaderboard?matchId=${pk}`);
+                setisDisabled(true);
             }
-        } catch(err) {
+        } catch (err) {
             console.log(err);
         }
     };
@@ -164,8 +185,8 @@ const MakeTeam = () => {
                                     key={player.PlayerID}
                                     type="button"
                                     className={`w-full px-4 py-2 text-left hover:bg-gray-100 focus:outline-none focus:bg-gray-100 text-gray-600 ${Object.values(selectedPlayers).some(p => p?.PlayerID === player.PlayerID)
-                                            ? 'bg-gray-100 text-gray-400'
-                                            : ''
+                                        ? 'bg-gray-100 text-gray-400'
+                                        : ''
                                         }`}
                                     onClick={() => handlePlayerChange(position.name, player.PlayerID)}
                                     disabled={Object.values(selectedPlayers).some(p => p?.PlayerID === player.PlayerID)}
@@ -234,11 +255,11 @@ const MakeTeam = () => {
 
                 <button
                     type="submit"
-                    className="w-full mt-4 bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                    className={`w-full mt-4  py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2`}
                     onClick={handleSubmit}
-                    disabled={!selectedTeam}
+                    disabled={(!selectedTeam) || disabled}
                 >
-                    Save Team
+                    {((!selectedTeam) || disabled) ? 'Save Team' : ''}
                 </button>
             </div>
         </div>

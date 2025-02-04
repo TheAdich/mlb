@@ -3,8 +3,10 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Loading from "../components/loading/loading";
 import { useRouter } from "next/navigation";
+import  useAuthStore  from "../utils/authUser";
 const UpcomingMatches = () => {
     const router=useRouter();
+    const { user } = useAuthStore();
     const [loading, setLoading] = useState(true);
     const [matches, setMatches] = useState([]);
 
@@ -76,8 +78,8 @@ const UpcomingMatches = () => {
                                         </div>
 
                                         <div className="flex mt-10">
-                                            <button onClick={()=>window.location.href=(`/teams?teamA=${game.teams.away.team.name}&teamB=${game.teams.home.team.name}&date=${date}&pk=${game.gamePk}`)} className="hover:bg-blue-700 hover:text-white bg-white text-blue-700 px-2 py-2 rounded-md mx-4 transition-all ease-in-out duration-500">Make Your Team</button>
-                                            <button  onClick={()=>window.location.href=(`/leaderboard?matchId=${game.gamePk}`)} className="hover:bg-blue-700 hover:text-white  bg-white text-blue-700 px-2 py-2 rounded-md mx-4 duration-500">View LeaderBoard</button>
+                                            <button onClick={()=>user ? window.location.href=(`/teams?teamA=${game.teams.away.team.name}&teamB=${game.teams.home.team.name}&date=${date}&pk=${game.gamePk}`):router.push('/auth')} className="hover:bg-blue-700 hover:text-white bg-white text-blue-700 px-2 py-2 rounded-md mx-4 transition-all ease-in-out duration-500">Make Your Team</button>
+                                            <button  onClick={()=>user ? window.location.href=(`/leaderboard?matchId=${game.gamePk}`):router.push('/')} className="hover:bg-blue-700 hover:text-white  bg-white text-blue-700 px-2 py-2 rounded-md mx-4 duration-500">View LeaderBoard</button>
                                         </div>
                                     </div>
                                 ))}

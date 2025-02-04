@@ -11,7 +11,7 @@ const PlayerProfileStore=create(
         ),
         {
             name:'player-profile-storage',
-            getStorage:()=>localStorage,
+            getStorage:()=>sessionStorage,
         }
     )
 )

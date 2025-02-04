@@ -2,9 +2,10 @@
 import React, { useState } from 'react';
 import { Menu, X, Trophy, Users, DollarSign, Baseline as Baseball, ChevronRight } from 'lucide-react';
 import { useRouter } from 'next/navigation';
-import userStore from './utils/authUser';
+import useAuthStore from './utils/authUser';
 function App() {
-  const { user, logout } = userStore();
+  const {user,logout} = useAuthStore();
+  
   const router = useRouter();
  
   //console.log(user);

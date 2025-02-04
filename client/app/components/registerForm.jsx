@@ -1,12 +1,14 @@
-"use client"
+'use client'
 import React, { useState } from "react";
 import axios from "axios";
 import { useRouter } from "next/navigation";
-import userStore from '../utils/authUser';
+import useAuthStore from '../utils/authUser';
+
 const RegisterForm = ({ onToggle }) => {
-    const {login}=userStore();
-    const router=useRouter();
+    const  {login}  = useAuthStore();
+    const router = useRouter();
     const [formData, setFormData] = useState({ premium: false });
+    const [error, setError] = useState(null);
 
     const handleChange = (e) => {
         setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -14,43 +16,40 @@ const RegisterForm = ({ onToggle }) => {
 
     const handleRegister = async (e) => {
         e.preventDefault();
-
-        // Validation for email and phone number
+        
         if (!formData.username || !formData.email || !formData.password) {
-            alert('Please fill all the fields');
+            setError('Please fill all the fields');
             return;
         }
 
         if (!formData.email.endsWith("@gmail.com")) {
-            alert("Email must end with @gmail.com");
+            setError("Email must end with @gmail.com");
             return;
         }
 
-        
-
         try {
-            const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/register`,  formData );
+            const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/register`, formData);
             if (res.status !== 200) {
                 throw new Error('Registration failed');
-            }
-            else{
-                const user={
-                    username:res.data.username,
-                    email:res.data.email
-                }
+            } else {
+                const user = {
+                    username: res.data.username,
+                    email: res.data.email,
+                    userId: res.data.userId
+                };
                 login(user);
                 router.push('/');
             }
         } catch (err) {
-            console.error(err);
+            setError('Username already exists');
         }
     };
 
     return (
         <form className="space-y-4">
+            {error && <p className="text-red-500 text-sm text-center">{error}</p>}
             <input
                 type="text"
-                required={true}
                 name="username"
                 onChange={handleChange}
                 placeholder="Username"
@@ -58,7 +57,6 @@ const RegisterForm = ({ onToggle }) => {
             />
             <input
                 type="email"
-                required={true}
                 name="email"
                 onChange={handleChange}
                 placeholder="Email (must end with @gmail.com)"
@@ -66,7 +64,6 @@ const RegisterForm = ({ onToggle }) => {
             />
             <input
                 type="password"
-                required={true}
                 name="password"
                 onChange={handleChange}
                 placeholder="Password"
@@ -106,4 +103,5 @@ const RegisterForm = ({ onToggle }) => {
         </form>
     );
 };
+
 export default RegisterForm;

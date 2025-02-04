@@ -2,44 +2,48 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useRouter } from "next/navigation";
-import userStore from '../utils/authUser';
+import useAuthStore from '../utils/authUser';
+
 const LoginForm = ({ onToggle }) => {
-    const {login}=userStore();
-    const router=useRouter();
+    const { login } = useAuthStore();
+    const router = useRouter();
     const [formData, setFormData] = useState({});
+    const [error, setError] = useState(null);
+
     const handleChange = (e) => {
         setFormData({ ...formData, [e.target.name]: e.target.value });
-    }
+    };
+
     const handleLogin = async (e) => {
-        if(!formData.username || !formData.password){
-            alert('Please fill all the fields');
+        e.preventDefault();
+        if (!formData.username || !formData.password) {
+            setError('Please fill all the fields');
             return;
         }
-        //console.log(formData);
-        e.preventDefault();
+
         try {
             const res = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/login`, formData);
             if (res.status !== 200) {
                 throw new Error('Login failed');
-            }
-            else{
-                const user={
-                    username:res.data.username,
-                    email:res.data.email
-                }
+            } else {
+                const user = {
+                    username: res.data.username,
+                    email: res.data.email,
+                    userId: res.data.userId
+                };
                 login(user);
                 router.push('/');
             }
-
         } catch (err) {
-            console.error(err);
+            setError('Username or password is incorrect');
         }
-    }
+    };
+
     return (
         <form className="space-y-4">
+            {error && <p className="text-red-500 text-sm text-center">{error}</p>}
             <input
                 type="text"
-                required={true}
                 name="username"
                 onChange={handleChange}
                 placeholder="Username"
@@ -47,7 +51,6 @@ const LoginForm = ({ onToggle }) => {
             />
             <input
                 type="password"
-                required={true}
                 name="password"
                 onChange={handleChange}
                 placeholder="Password"
@@ -72,5 +75,6 @@ const LoginForm = ({ onToggle }) => {
             </p>
         </form>
     );
-}
+};
+
 export default LoginForm;

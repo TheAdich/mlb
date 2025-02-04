@@ -44,6 +44,7 @@ app.post('/api/register', async (req, res) => {
         return res.status(200).json({
             username: newUser.username,
             email: newUser.email,
+            userId: newUser._id
         });
 
     } catch (err) {
@@ -52,6 +53,8 @@ app.post('/api/register', async (req, res) => {
 
 
 })
+
+
 
 app.post('/api/login', async (req, res) => {
     const formData = req.body;
@@ -67,6 +70,7 @@ app.post('/api/login', async (req, res) => {
         return res.status(200).json({
             username: user.username,
             email: user.email,
+            userId: user._id
         });
     } catch (err) {
         console.error(err);
@@ -102,6 +106,25 @@ app.get('/api/leaderboard', async (req, res) => {
         console.error(err);
     }
 })
+
+app.get('/api/checkTeam', async (req, res) => {
+    try {
+        const matchId = req.query.matchId;
+        const userId = req.query.userId;
+        // to check if matchesModel do contain this userId
+        const team = await Match.findOne({ matchId: matchId, user: userId });
+        if (team) {
+            return res.status(200).json({ check:1 });
+        }
+        else {
+            return res.status(200).json({ check:0});
+        }
+
+    } catch (err) {
+        console.log(err);
+    }
+})
+
 app.listen(5000, () => {
     console.log('Server is running on port 5000');
 })
