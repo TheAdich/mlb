@@ -208,7 +208,7 @@ const MakeTeam = () => {
         <div className="flex flex-col md:flex-row w-full gap-4 p-4">
             <div className="w-full md:w-1/2">
                 <img
-                    src="/baseballField.jpg"
+                    src="/baseballField.jpeg"
                     alt="Baseball field"
                     className="w-full h-auto rounded-lg shadow-lg object-cover"
                 />
